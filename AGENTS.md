@@ -33,7 +33,7 @@ Before choosing an implementation, use the table below to identify the documents
 | Document | Required when the work involves | Establish from this document |
 |---|---|---|
 | `AGENTS.md` | Every task. | What the agent owes the operator, how to complete work, and how to maintain or change requirements. |
-| `docs/product.md` | System purpose, geographic scope, acquisition coverage or overall system boundaries. | Why the system exists and which work and coverage are within scope. |
+| `docs/product.md` | System purpose, assignment scope or overall system boundaries. | Why the system exists and which work and coverage are within scope. |
 | `docs/userdesign.md` | Any product-user-facing capability, information, recommendation, eligibility, interaction, wording or presentation, including operator-facing product capabilities. | What product users can accomplish, which information and outcomes they receive, and how the experience must behave. |
 | `docs/data-model.md` | Records, fields, relationships, identity, unknown values, timing, assessments, validity or public response data. | What the data means, which records remain distinct, and which representations and constraints are valid. |
 | `docs/architecture.md` | Component responsibilities, interfaces, acquisition, evidence interpretation, processing, updates, reuse, failures, spending or serving. | How components must produce and maintain the required result, including their dependencies and failure boundaries. |
