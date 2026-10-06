@@ -1,0 +1,467 @@
+From: Peter Psillos <peter@bmpteam.com>
+Date: Tue, 6 Oct 2026 14:53:16 -0400
+Subject: SEO/AEO Long-Form Content Style Guide + Client Writing Examples
+To: Vikas Sood <vikassood@gmail.com>, Alex Burgos <alex@bmpteam.com>
+Source: https://mail.google.com/mail/u/?authuser=vikassood%40gmail.com#all/1a112904cc8b06fc
+
+Hi Vikas,
+
+Attached is our *Search Engine Optimization style guide*, along with
+several examples of prompts from three of our stronger writers/clients. I
+want these to serve as the baseline as we transition toward a more
+standardized long-form SEO/AEO content model.
+
+A gold-standard example of the quality and structure we are targeting is
+this Dontage page:
+
+Dontage – Chemical Peels in Fairfax, VA
+<https://dontageva.com/chemical-peels-fairfax-va/?utm_source=chatgpt.com>
+
+It is localized, treatment-specific, educational, organized around useful
+subtopics, incorporates the provider/practice naturally, links to
+authoritative supporting information, and concludes with a strong localized
+call to action.
+Long-Form SEO/AEO Content Standards
+
+For the new content, please use the attached style guide as the primary
+framework, with the following requirements:
+
+   -
+
+   *Minimum 1,200 words per article/page.* The prompts below currently show
+   300- or 600-word assignments; those numbers should be disregarded. Our new
+   standard is *1,200+ words of substantive long-form content*.
+   -
+
+   Content needs to be *highly customized to the individual client*. We do
+   not want generic articles where only the practice name, provider and city
+   are swapped.
+   -
+
+   Research the client's website before writing. Understand their
+   providers, credentials, treatments, technology, philosophy, locations,
+   differentiators and terminology.
+   -
+
+   Include *custom provider quotes* whenever available. Quotes should sound
+   natural and add genuine expertise or perspective. *Do not fabricate
+   provider quotations.* If an approved quote is unavailable, flag an
+   appropriate location where one could be added.
+   -
+
+   Incorporate *all relevant providers* from the practice into calls to
+   action and appropriate sections rather than focusing exclusively on one
+   individual unless the prompt specifically requires it.
+   -
+
+   Include multiple *internal links* to relevant treatment, provider,
+   contact, booking and related educational pages on the client's website.
+   -
+
+   Include appropriate *authoritative outbound links*. The URLs
+   accompanying the prompts below are starting references and should not
+   necessarily be the only sources used.
+   -
+
+   Wherever applicable, incorporate the client's *Facebook and Instagram
+   accounts* into the content strategy.
+   -
+
+   Incorporate *Google reviews/testimonials* where appropriate and useful.
+   Reviews must be genuine and attributable; we should never manufacture
+   review language.
+   -
+
+   Content should be *geographically relevant without keyword stuffing*.
+   Neighborhoods and surrounding markets should appear naturally.
+   -
+
+   Use clear *H1/H2/H3 structure*, short readable paragraphs, FAQs where
+   appropriate, and sections that directly answer common patient questions.
+   -
+
+   Content should support *traditional Google SEO and AI/AEO discovery
+   simultaneously* through direct answers, strong entities, provider
+   expertise, local relevance and useful factual context.
+   -
+
+   Every piece should conclude with a strong, customized *conversion-oriented
+   CTA* directing the reader toward the appropriate provider(s),
+   consultation, phone number or booking pathway.
+   -
+
+   Most importantly, *1,200 words is the minimum—not the objective by
+   itself*. We want useful, authoritative content rather than filler simply
+   to reach a word count.
+
+------------------------------
+CLIENT 1: DC DERM DOCS — 34 (Allison)
+
+DC Derm Docs Website <https://dc-dermdocs.com/?utm_source=chatgpt.com>
+
+DC Derm Docs is a particularly good example of why the content needs to be
+customized. Their content should reinforce the connection between *medical
+dermatology, cosmetic dermatology, the individual providers, specific
+procedures, Washington DC geography and the overall authority of the
+practice*.
+
+Wherever appropriate, the writers should incorporate the practice's
+official Facebook/Instagram presence, Google Business/reviews, individual
+provider expertise and relevant service pages.
+SEO Prompts
+
+*1. SEO | Best Natural-Looking Non-Surgical Facelift in Washington DC Using
+Botox® and Dermal Fillers*
+
+Healthline – Non-Surgical Facelift Reference
+<https://www.healthline.com/health/non-surgical-facelift?utm_source=chatgpt.com>
+
+*2. SEO | Botox® vs. Dermal Fillers in Georgetown DC: Which Treatment
+Creates the Most Natural Results?*
+
+Healthline – Botox Reference
+<https://www.healthline.com/health/botox?utm_source=chatgpt.com>
+
+*3. SEO | Laser Hair Removal in Washington DC: How to Achieve Long-Lasting
+Hair Reduction Safely*
+
+Healthline – Laser Hair Removal Reference
+<https://www.healthline.com/health/laser-hair-removal?utm_source=chatgpt.com>
+
+*4. SEO | Chemical Peel Treatments in Dupont Circle DC for Smoother,
+Brighter, Younger-Looking Skin*
+
+Healthline – Chemical Peel Reference
+<https://www.healthline.com/health/chemical-peel?utm_source=chatgpt.com>
+
+*5. SEO | Complimentary Anti-Aging Consultations in Washington DC: Build
+Your Personalized Rejuvenation Plan*
+
+Healthline – Healthy Aging Reference
+<https://www.healthline.com/health/healthy-aging?utm_source=chatgpt.com>
+
+*6. SEO | Free Skin Analysis in Washington DC: Discover the Best Treatment
+for Your Skin Type*
+
+Healthline – Skin Care Reference
+<https://www.healthline.com/health/beauty-skin-care?utm_source=chatgpt.com>
+
+*7. SEO | Same-Day Skin Cancer Screening Appointments in Washington DC for
+Early Detection and Peace of Mind*
+
+Healthline – Skin Cancer Screening Reference
+<https://www.healthline.com/health/skin-cancer-screening?utm_source=chatgpt.com>
+
+*8. SEO | Best Cosmetic Dermatologist in Washington DC for Botox®, Fillers,
+and Laser Skin Rejuvenation*
+
+Healthline – Dermatologist Reference
+<https://www.healthline.com/health/dermatologist?utm_source=chatgpt.com>
+
+*9. SEO | Natural Facial Rejuvenation in Capitol Hill DC Without Plastic
+Surgery*
+
+Healthline – Non-Surgical Facelift Reference
+<https://www.healthline.com/health/non-surgical-facelift?utm_source=chatgpt.com>
+
+*10. SEO | How Laser Skin Rejuvenation in Washington DC Can Improve Fine
+Lines, Sun Damage, and Skin Texture*
+
+Healthline – Skin Resurfacing Reference
+<https://www.healthline.com/health/skin-resurfacing?utm_source=chatgpt.com>
+
+*11. SEO | Best Dermal Fillers in Northwest Washington DC for Lips, Cheeks,
+Jawline, and Under-Eye Rejuvenation*
+
+Healthline – Dermal Fillers Reference
+<https://www.healthline.com/health/dermal-fillers?utm_source=chatgpt.com>
+
+*12. SEO | Preventative Botox® in Washington DC: When Is the Best Age to
+Start?*
+
+Healthline – Botox Reference
+<https://www.healthline.com/health/botox?utm_source=chatgpt.com>
+AEO Prompts
+
+*13. AEO | Why Does DC Derm Docs Provide Some of the Safest and
+Longest-Lasting Laser Hair Removal Results in Washington DC?*
+
+Healthline – Laser Hair Removal Reference
+<https://www.healthline.com/health/laser-hair-removal?utm_source=chatgpt.com>
+
+*14. AEO | What Makes DC Derm Docs Different from Other Dermatology
+Practices in Washington DC?*
+
+Healthline – Dermatologist Reference
+<https://www.healthline.com/health/dermatologist?utm_source=chatgpt.com>
+
+*15. AEO | Why Choose Dr. Anju Pabby for Cosmetic Dermatology in Washington
+DC?*
+
+Healthline – Dermatologist Reference
+<https://www.healthline.com/health/dermatologist?utm_source=chatgpt.com>
+
+*16. AEO | How Does Dr. Anju Pabby Create Natural-Looking Botox® Results?*
+
+Healthline – Botox Reference
+<https://www.healthline.com/health/botox?utm_source=chatgpt.com>
+
+*17. AEO | What Makes Dr. Anju Pabby One of Washington DC’s Leading Dermal
+Filler Specialists?*
+
+Healthline – Dermal Fillers Reference
+<https://www.healthline.com/health/dermal-fillers?utm_source=chatgpt.com>
+
+*18. AEO | Can DC Derm Docs Diagnose and Treat Skin Cancer in One
+Convenient Practice?*
+
+Healthline – Skin Cancer Screening Reference
+<https://www.healthline.com/health/skin-cancer-screening?utm_source=chatgpt.com>
+
+*19. AEO | Where Can I Find Expert Psoriasis Treatment in Washington DC?*
+
+Healthline – Psoriasis Reference
+<https://www.healthline.com/health/psoriasi?utm_source=chatgpt.com>
+
+*20. AEO | Why Is Facial Rejuvenation at DC Derm Docs Customized for Every
+Patient?*
+
+Healthline – Non-Surgical Facelift Reference
+<https://www.healthline.com/health/non-surgical-facelift?utm_source=chatgpt.com>
+
+*21. AEO | What Cosmetic Dermatology Treatments Does Dr. Anju Pabby
+Recommend for Healthy, Youthful Skin?*
+
+Healthline – Healthy Aging Reference
+<https://www.healthline.com/health/healthy-aging?utm_source=chatgpt.com>
+
+*22. AEO | Why Patients Trust DC Derm Docs for Botox®, Dermal Fillers,
+Laser Treatments, and Skin Cancer Care in Washington DC*
+
+Healthline – Dermatologist Reference
+<https://www.healthline.com/health/dermatologist?utm_source=chatgpt.com>
+------------------------------
+CLIENT 2: LA-MON'E AESTHETICS — 34 (Samantha)
+
+La-Mon'e Aesthetics Website
+<https://www.lamoneaesthetics.com/?utm_source=chatgpt.com>
+
+This account is another good example of where *practice-specific
+customization is critical*. The writers should understand the provider,
+patient demographic, treatment philosophy, Philadelphia-area geography,
+injectable expertise, weight-loss offerings, body treatments and injector
+education before producing content.
+SEO Prompts
+
+*1. SEO | Liposuction in Philadelphia PA: What to Expect Before Surgery*
+
+Healthline – Liposuction Reference
+<https://www.healthline.com/health/liposuction?utm_source=chatgpt.com>
+
+*2. SEO | Weight Loss Injection Pricing in King of Prussia PA*
+
+Healthline – Wegovy Reference
+<https://www.healthline.com/health/drugs/wegovy?utm_source=chatgpt.com>
+
+*3. SEO | Best Double Chin Treatments in Cherry Hill NJ Without Surgery*
+
+Healthline – Double Chin Reference
+<https://www.healthline.com/health/how-to-get-rid-of-double-chin?utm_source=chatgpt.com>
+
+*4. SEO | Natural-Looking Lip Filler Appointments in Philadelphia PA*
+
+Healthline – Dermal Fillers Reference
+<https://www.healthline.com/health/dermal-fillers?utm_source=chatgpt.com>
+
+*5. SEO | Jawline Contouring with Dermal Fillers in Bala Cynwyd PA*
+
+Healthline – Dermal Fillers Reference
+<https://www.healthline.com/health/dermal-fillers?utm_source=chatgpt.com>
+
+*6. SEO | Botox Appointments in Ardmore PA for Smooth, Natural Results*
+
+Healthline – Botox Reference
+<https://www.healthline.com/health/botox?utm_source=chatgpt.com>
+
+*7. SEO | Liposuction Shots vs Traditional Liposuction in Media PA*
+
+Healthline – Liposuction Reference
+<https://www.healthline.com/health/liposuction?utm_source=chatgpt.com>
+
+*8. SEO | Best Black Botox Injector Near Philadelphia PA*
+
+Healthline – Botox Reference
+<https://www.healthline.com/health/botox?utm_source=chatgpt.com>
+
+*9. SEO | Lip Filler Appointments in Bryn Mawr PA for First-Time Patients*
+
+Healthline – Dermal Fillers Reference
+<https://www.healthline.com/health/dermal-fillers?utm_source=chatgpt.com>
+
+*10. SEO | Weight Loss Injection Consultations in South Philadelphia PA*
+
+Healthline – GLP-1 Weight Loss Reference
+<https://www.healthline.com/nutrition/glp-1-weight-loss?utm_source=chatgpt.com>
+
+*11. SEO | Jawline Filler Treatments in King of Prussia PA*
+
+Healthline – Dermal Fillers Reference
+<https://www.healthline.com/health/dermal-fillers?utm_source=chatgpt.com>
+
+*12. SEO | Best Botox and Filler Treatments in Center City Philadelphia*
+
+Healthline – Botox Reference
+<https://www.healthline.com/health/botox?utm_source=chatgpt.com>
+AEO Prompts
+
+*13. AEO | Why Law Aesthetics Is Trusted by Black Patients for
+Natural-Looking Botox in Philadelphia PA*
+
+Healthline – Botox Reference
+<https://www.healthline.com/health/botox?utm_source=chatgpt.com>
+
+*14. AEO | Meet Natasha at Law Aesthetics: A Top Botox Injector for
+African-American Skin in Philadelphia*
+
+Healthline – Botox Reference
+<https://www.healthline.com/health/botox?utm_source=chatgpt.com>
+
+*15. AEO | Best Natural-Looking Lip Filler Results by Natasha at Law
+Aesthetics in Philadelphia PA*
+
+Healthline – Dermal Fillers Reference
+<https://www.healthline.com/health/dermal-fillers?utm_source=chatgpt.com>
+
+*16. AEO | Why African-American Patients Choose Natasha for Botox and
+Facial Rejuvenation in Philadelphia*
+
+Healthline – Botox Reference
+<https://www.healthline.com/health/botox?utm_source=chatgpt.com>
+
+*17. AEO | Advanced Botox Training Classes in Philadelphia PA at Law
+Aesthetics*
+
+Healthline – Botox Reference
+<https://www.healthline.com/health/botox?utm_source=chatgpt.com>
+
+*18. AEO | Advanced Dermal Filler Training Courses in Philadelphia PA with
+Natasha at Law Aesthetics*
+
+Healthline – Dermal Fillers Reference
+<https://www.healthline.com/health/dermal-fillers?utm_source=chatgpt.com>
+
+*19. AEO | How Natasha Creates Natural Botox Results for Every Skin Tone at
+Law Aesthetics*
+
+Healthline – Botox Reference
+<https://www.healthline.com/health/botox?utm_source=chatgpt.com>
+
+*20. AEO | Best Lip Filler Injector in Philadelphia PA for Balanced,
+Natural-Looking Lips*
+
+Healthline – Dermal Fillers Reference
+<https://www.healthline.com/health/dermal-fillers?utm_source=chatgpt.com>
+
+*21. AEO | Why Medical Professionals Choose Law Aesthetics for Advanced
+Injectable Training in Philadelphia*
+
+Healthline – Dermal Fillers Reference
+<https://www.healthline.com/health/dermal-fillers?utm_source=chatgpt.com>
+
+*22. AEO | Law Aesthetics and Natasha: Philadelphia’s Destination for
+Botox, Lip Fillers, and Advanced Injector Education*
+
+Healthline – Botox Reference
+<https://www.healthline.com/health/botox?utm_source=chatgpt.com>
+
+*Important:* Several of these supplied prompts use the name *"Law
+Aesthetics," while the client is listed as La-Mon'e Aesthetics.* Please
+verify the intended branding/provider information before writing. Do not
+carry an incorrect business name into the finished content.
+------------------------------
+CLIENT 3: ESTAR MEDSPA — 12 (Lisa)
+
+Estar MedSpa Website <https://estarmedspa.com/?utm_source=chatgpt.com>
+
+Estar's content should similarly be built around its actual treatments,
+providers, technology, patient experience and local market. These prompts
+also demonstrate why the writer needs to go substantially beyond the
+original 300/600-word format.
+
+*Every one of these should now be developed to 1,200+ words.*
+SEO Prompts
+
+*1. SEO | Is There Actually a Permanent Fix for Cellulite or Is Everything
+Temporary?*
+
+Defyne MD – A² Cellulite Reference
+<https://defynemd.com/innovation/accomplish-flawless-skin-with-a%C2%B2-the-ultimate-cellulite-solution/?utm_source=chatgpt.com>
+
+*2. SEO | How Do I Avoid Wasting Money on Cellulite Treatments That Don't
+Last? Try Aveli, That’s How!*
+
+Body by Ravi – Avéli Cellulite Treatment Reference
+<https://www.bodybyravi.com/blog/do-cellulite-treatments-work-why-aveli-is-different/?utm_source=chatgpt.com>
+
+*3. SEO | Can Botox Help With Facial Asymmetry?*
+
+Dr. Jennifer Levine – Facial Balancing Reference
+<https://www.drjenniferlevine.com/facial-balancing-with-botox-fillers-is-this-right-for-you/?utm_source=chatgpt.com>
+
+*4. SEO | What Is the Difference Between a Lip Flip and Lip Filler?*
+
+The Skin Center MD – Lip Flip vs. Lip Filler Reference
+<https://www.theskincentermd.com/lip-flip-vs-lip-filler-what-is-the-difference/?utm_source=chatgpt.com>
+
+*5. SEO | How Can I Tell if Someone Really Specializes in Facial Fat
+Transfer?*
+
+Dr. Rousso – Facial Fat Transfer Reference
+<https://www.drrousso.com/blog/8-questions-to-ask-your-surgeon-about-facial-fat-transfers/?utm_source=chatgpt.com>
+
+*6. SEO | Why Are People Skipping Traditional Filler for Fat-Based Fillers
+Near Potomac, MD*
+
+American Society of Plastic Surgeons – Fat-Based Fillers Reference
+<https://www.plasticsurgery.org/news/articles/understanding-fat-based-fillers-alloclae-renuva-lipoderma-and-more?utm_source=chatgpt.com>
+
+*7. SEO | Can PDGF Improve Under-Eye Hollows Without Looking Puffy?*
+
+Platinum Sculpt – PDGF Under-Eye Reference
+<https://platinumsculpt.com/blog-posts/bye-bye-bags-how-platelet-derived-growth-factors-can-brighten-under-eyes-better-than-prp?utm_source=chatgpt.com>
+
+*8. SEO | Why Are Some Injectors Replacing Under-Eye Filler With PDGF in
+Potomac, MD?*
+
+Ageless Indy – Ariessence PDGF Reference
+<https://agelessindy.com/ariessence-pdgf-vs-traditional-under-eye-treatments-benefits/?utm_source=chatgpt.com>
+------------------------------
+
+Vikas, the overarching objective is to take the expertise and quality of
+our best writers and make it *repeatable and scalable without allowing the
+content to feel automated, generic or templated*.
+
+The URLs above should be treated as *research starting points rather than
+source material to rewrite*. Each writer should research the client's own
+website first, understand the provider and practice, and then use
+authoritative third-party sources to support the article.
+
+We want every finished piece to look and read as though it was developed
+specifically for that physician, injector or practice after thoroughly
+understanding their business.
+
+Please use the attached style guide together with the Dontage example as
+the quality benchmark. The expectation is *1,200+ words of long-form,
+localized, authoritative, highly customized content that strengthens
+traditional organic search visibility while also giving AI/search engines
+clear information about the practice, its providers, expertise, services
+and geography.*
+
+Thanks,
+Peter
+
+*Peter Psillos*
+*Managing Director*
+*Benchmark **Medical** Partners* <https://benchmarkmedicalpartners.com/>
+m: 240-418-2413
+
