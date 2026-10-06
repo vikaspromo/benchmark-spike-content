@@ -312,3 +312,9 @@ Peter
 *Managing Director*  
 *Benchmark **Medical** Partners* <https://benchmarkmedicalpartners.com/>  
 m: 240-418-2413
+
+## Follow-Up Questions for Alex
+
+These questions remain open pending Alex’s response.
+
+1. Can you supply the primary keyword for each assigned article, identified by client and prompt number? The style guide calls for the primary keyword in the article and its meta title and meta description, but this assignment supplies titles without explicit primary keywords. Should we also draft a proposed meta title and meta description for each article using the keywords you provide?
