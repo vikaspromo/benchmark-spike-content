@@ -16,8 +16,9 @@ This document records company facts provided by Vikas. It supplies context for p
 
 ## User for This Product Version
 
-- The user for this version of the product is Alex.
-- For the current version, the product accepts the assigned articles as given. Data from Alex’s keyword research tools and the decisions about which articles to assign are outside the product’s scope. This boundary is an operator-provided decision to carry into Product when its requirements are drafted.
+- Vikas is the product user, operator, and writer responsible for delivering the assigned articles.
+- Alex is the customer who reviews and accepts the articles.
+- [Product](product.md) defines the current version’s scope and assignment boundary.
 
 ## Initial Writing Assignments
 

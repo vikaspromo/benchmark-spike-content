@@ -2,9 +2,11 @@
 
 ## Purpose and Scope
 
-Enable Alex, a founder of Benchmark Medical Partners, to produce long-form SEO and AEO articles whose quality matches the work of Benchmark’s writers.
+Enable Vikas to fulfill the assigned long-form SEO and AEO writing work for Benchmark Medical Partners with articles whose quality matches the work of Benchmark’s writers.
 
-The product starts with articles Alex has already assigned. His keyword research, third-party research tools and their data, and decisions about which articles to write are outside this version’s scope.
+Vikas is the product user and the operator directing the agent’s work. He is the writer responsible for delivering the articles to Alex. Alex, a founder of Benchmark Medical Partners, is the customer who reviews and accepts the delivered articles.
+
+The product starts with the assigned articles. Alex’s keyword research, third-party research tools and their data, and decisions about which articles to write are outside this version’s scope.
 
 [Benchmark](benchmark.md) records company context, including its 100+ clients and production of more than 1,000 pieces of content per month.
 
@@ -26,8 +28,6 @@ Claims, quotations, reviews, and links must have supporting evidence relevant to
 
 ## Quality and Acceptance
 
-Alex reviews the articles and determines whether they meet the applicable style guide and his editorial expectations.
+The required outcome is content that meets the applicable company, client, and assignment requirements as well as content produced by Benchmark’s writers.
 
-The required outcome is content that meets the requirements as well as content produced by Benchmark’s writers. Acceptance depends on both compliance with the writing standards and Alex’s subjective judgment of the article’s content and quality.
-
-Alex’s acceptance determines whether the articles meet the product’s quality goal.
+Alex reviews the delivered articles as the customer. Acceptance depends on both compliance with the writing standards and Alex’s subjective judgment of the article’s content and quality. Alex’s acceptance determines whether the articles meet the product’s quality goal.

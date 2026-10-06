@@ -1,6 +1,6 @@
 # User Design
 
-This document defines Alex’s content delivery and review experience.
+This document defines Vikas’s experience preparing and delivering assigned articles, managing their status, and incorporating customer feedback. It also defines Alex’s customer review and acceptance interactions.
 [Product](product.md) defines the product’s purpose, scope, and acceptance goal.
 
 ## Assignment Delivery and Tracking
