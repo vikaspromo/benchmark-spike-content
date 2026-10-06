@@ -14,8 +14,6 @@ Within the authorized task, establish the required outcome before deciding what 
 
 Retain a development artifact only while it is needed to achieve or verify an outcome required by the current governing documents. Identify that outcome and why the artifact is needed. Remove the artifact when that need ends; use Git for historical lookup. Apply Engineering’s artifact rules to prototypes, test inputs, verification results and investigation files.
 
-While Jaunt is pre-launch, prioritize speed of development and simple maintenance while meeting the required outcomes. Treat expiring Event inventory as replaceable. Prefer excluding older-contract results and rebuilding selected inventory over migrations or compatibility paths whose purpose is to keep old inventory usable. Preserve product records, publisher evidence and accounting history required by Data Model and Architecture; their operational requirements do not justify keeping obsolete development artifacts.
-
 Investigate concrete obstacles to the required outcome. If an investigation identifies work outside the authorized task, recommend whether to include it or defer it. Ask the operator for decisions or information that only they can provide, including approval of changes to the task’s scope. Continue independent work while waiting.
 
 Before reporting that an unavailable tool or service prevents completion, check another supported way to achieve the required outcome.
@@ -41,7 +39,6 @@ Before choosing an implementation, use the table below to identify the documents
 | `docs/architecture.md` | Component responsibilities, interfaces, acquisition, evidence interpretation, processing, updates, reuse, failures, spending or serving. | How components must produce and maintain the required result, including their dependencies and failure boundaries. |
 | `docs/engineering.md` | Developing, investigating, verifying or reviewing a change; claiming that an outcome is achieved; development artifacts and prototype verification. | How to choose and complete an implementation, which checks and evidence establish correctness and completion, which claims remain unverified, and when development artifacts are needed or must be removed. |
 | `docs/release.md` | Changes to deployed files, production configuration, schema or stored data; deployment or recovery. | The applicable delivery route, authorization, compatibility, deployed verification and recovery requirements. |
-| `prompts/extraction.md` | Extraction instructions, model inputs, interpretation of extracted evidence, or extraction output. | The model instructions implementing Product, User Design, Architecture and Data Model, and whether they remain consistent with those owners. |
 
 User Design owns all active product-user-facing requirements, including capabilities, required information, recommendations, eligibility, supported surfaces, interactions, labels, explanations, language and voice. Include operator-facing product capabilities; agent working instructions and communication with the operator remain in AGENTS. Other documents reference User Design when implementing or verifying those requirements rather than independently defining user behavior.
 
@@ -87,7 +84,7 @@ Omit details already maintained in code, schemas, configuration, tests, comments
 
 ### Review before approval
 
-Complete the checks needed to support the proposal before presenting an approval diff. Reconcile affected requirements, references, runtime prompts and verification across documents. Identify unresolved inconsistencies and implementation gaps explicitly; do not present unchecked assumptions as settled changes.
+Complete the checks needed to support the proposal before presenting an approval diff. Reconcile affected requirements, references and verification across documents. Identify unresolved inconsistencies and implementation gaps explicitly; do not present unchecked assumptions as settled changes.
 
 Confirm that another agent can determine what is required without guessing and that the revision preserves existing requirements unless a change was approved. Check that the introduction and headings match their contents, rules have clear authoritative homes, terms are consistent, and references lead to the necessary dependencies. Assess whether an LLM can locate and understand the context needed for affected decisions without routinely reading every document in full.
 

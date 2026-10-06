@@ -51,10 +51,4 @@ are complete, move the article to Ready for Review.
 Completing revisions does not itself establish acceptance. Alex confirms
 acceptance; unresolved required facts prevent Accepted status.
 
-Alex’s feedback improves the current article. Where applicable, it also
-informs future writing for that client or across clients.
-
-Article-specific corrections remain specific to that article.
-Client preferences apply to that client. General writing guidance applies
-across clients when Alex’s feedback establishes that scope.
-If the intended scope is unclear, ask Alex before applying feedback more broadly.
+Alex’s feedback guides revisions to the current article and, where applicable, improvements to future writing for that client or across clients.

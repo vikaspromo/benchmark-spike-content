@@ -24,12 +24,10 @@ Client information must accommodate multiple websites and physical locations. It
 
 Claims, quotations, reviews, and links must have supporting evidence relevant to the article. Missing or conflicting client information must be made visible for resolution rather than filled with assumptions.
 
-[Data Model](data-model.md) will define the records and relationships needed to represent this information. [Architecture](architecture.md) will define how the information is obtained and used.
-
 ## Quality and Acceptance
 
 Alex reviews the articles and determines whether they meet the applicable style guide and his editorial expectations.
 
 The required outcome is content that meets the requirements as well as content produced by Benchmark’s writers. Acceptance depends on both compliance with the writing standards and Alex’s subjective judgment of the article’s content and quality.
 
-Automated checks and internal review support preparation for Alex’s review. Alex’s acceptance determines whether the articles meet the product’s quality goal.
+Alex’s acceptance determines whether the articles meet the product’s quality goal.
