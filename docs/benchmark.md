@@ -6,7 +6,7 @@ This document records company facts provided by Vikas. It supplies context for p
 
 - The company is Benchmark Medical Partners.
 - Alex is one of the founders.
-- Peter is the other founder. Peter sent the email that forms the initial writing assignment in [assignment.md](assignment.md).
+- Peter is the other founder. Peter sent the email that forms the initial writing assignment in [archived assignment](../sources/seo-aeo/assignment.md).
 
 ## Content Operation
 
@@ -28,4 +28,4 @@ The first set of clients and writing assignments covers 52 articles:
 - La-Mon’e Aesthetics: 22 articles.
 - Estar MedSpa: eight articles.
 
-Each article in this initial assignment requires at least 1,200 words. The assignment details are in [assignment.md](assignment.md), and the client writing standards are in [content_style_guide.md](content_style_guide.md).
+The [archived assignment](../sources/seo-aeo/assignment.md) records the supplied topics and client context. [Writing Standards](writing-standards.md) consolidates the active writing standards, including the initial workload's 1,200-word minimum.

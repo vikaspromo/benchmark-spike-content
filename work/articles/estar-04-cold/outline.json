@@ -1,0 +1,243 @@
+{
+  "article_id": "estar-04-cold",
+  "stage": "Build the Outline",
+  "title": "What Is the Difference Between a Lip Flip and Lip Filler?",
+  "hypothesis": "Adult considering lip enhancement in Estar/Olney context; inferred, not Alex-supplied intent.",
+  "central_answer": "Upper-lip eversion through partial muscle relaxation versus added HA gel fullness/shape; no universal winner.",
+  "sources": "stage-4-research-record.json; source-references.json; practice-findings.json; provider-booking-followup.json",
+  "sections": [
+    {
+      "id": "O1",
+      "heading_level": 1,
+      "heading": "What Is the Difference Between a Lip Flip and Lip Filler?",
+      "purpose": "Recognize fuller-lip question, give eversion/volume answer immediately, preview consultation tradeoffs.",
+      "finding_ids": [
+        "F1"
+      ],
+      "evidence_ids": [
+        "M2",
+        "M3",
+        "M4",
+        "M6",
+        "M7"
+      ],
+      "target_words": 120
+    },
+    {
+      "id": "O2",
+      "heading_level": 2,
+      "heading": "Lip Flip vs. Lip Filler: What Changes?",
+      "purpose": "Class mechanisms and three useful goal distinctions; first two internal links.",
+      "finding_ids": [
+        "F1",
+        "F19"
+      ],
+      "evidence_ids": [
+        "M2",
+        "M4",
+        "M6",
+        "M7",
+        "S7",
+        "S8"
+      ],
+      "target_words": 170
+    },
+    {
+      "id": "O3",
+      "heading_level": 2,
+      "heading": "When Might a Lip Flip Fit Your Goal?",
+      "purpose": "Upper-lip visibility, movement assessment, modest expectations, functional tradeoffs; Botox related page and off-label explanation.",
+      "finding_ids": [
+        "F2",
+        "F6",
+        "F8",
+        "F16"
+      ],
+      "evidence_ids": [
+        "M2",
+        "M3",
+        "M4",
+        "M5",
+        "M11",
+        "M12",
+        "S4",
+        "V2",
+        "V5"
+      ],
+      "target_words": 220
+    },
+    {
+      "id": "O4",
+      "heading_level": 2,
+      "heading": "When Might Lip Filler Fit Your Goal?",
+      "purpose": "At-rest fullness, shape and specific goals, individual assessment; Juvederm related link and formulation-specific selection.",
+      "finding_ids": [
+        "F1",
+        "F9",
+        "F10",
+        "F19"
+      ],
+      "evidence_ids": [
+        "M6",
+        "M7",
+        "M8",
+        "M9",
+        "S5"
+      ],
+      "target_words": 180
+    },
+    {
+      "id": "O5",
+      "heading_level": 2,
+      "heading": "How Do Results and Recovery Differ?",
+      "purpose": "Developing muscle effect versus added gel/swelling; temporary effects; qualified Ultra XC/Volbella lip-study year example with touch-up conditions, no fixed lip-flip timeline; recovery and event planning.",
+      "finding_ids": [
+        "F3",
+        "F4",
+        "F5",
+        "F6"
+      ],
+      "evidence_ids": [
+        "M2",
+        "M3",
+        "M4",
+        "M5",
+        "M6",
+        "M7",
+        "M11"
+      ],
+      "target_words": 240
+    },
+    {
+      "id": "O6",
+      "heading_level": 2,
+      "heading": "What Risks Should You Understand Before Treatment?",
+      "purpose": "Common effects distinguished from vascular/toxin urgent warnings; history, medicines, pregnancy/breastfeeding; FDA and current Xeomin label outward links.",
+      "finding_ids": [
+        "F5",
+        "F6",
+        "F7",
+        "F10"
+      ],
+      "evidence_ids": [
+        "M1",
+        "M2",
+        "M6",
+        "M7",
+        "M8",
+        "M9",
+        "M11",
+        "M12"
+      ],
+      "target_words": 220
+    },
+    {
+      "id": "O7",
+      "heading_level": 2,
+      "heading": "Can You Reverse Either Treatment?",
+      "purpose": "HA dissolution possible but limited and risk-bearing; toxin wears off and is not dissolved.",
+      "finding_ids": [
+        "F11"
+      ],
+      "evidence_ids": [
+        "M1",
+        "M2",
+        "M10"
+      ],
+      "target_words": 110
+    },
+    {
+      "id": "O8",
+      "heading_level": 2,
+      "heading": "How Should You Compare the Cost?",
+      "purpose": "Compare goals and individualized product/treatment/follow-up quotes and maintenance, no fixed price/superiority.",
+      "finding_ids": [
+        "F17"
+      ],
+      "evidence_ids": [
+        "D5",
+        "D8"
+      ],
+      "target_words": 100
+    },
+    {
+      "id": "O9",
+      "heading_level": 2,
+      "heading": "What Should You Ask at Estar MedSpa?",
+      "purpose": "Supported website team roles/credentials without procedural attribution; exact-product question; website/menu discrepancy kept in prepared Alex comment; required provider marker; five consultation questions.",
+      "finding_ids": [
+        "F14",
+        "F15",
+        "F16",
+        "F17"
+      ],
+      "evidence_ids": [
+        "S1",
+        "V1",
+        "V2",
+        "V5",
+        "provider-booking-followup.json"
+      ],
+      "target_words": 240
+    },
+    {
+      "id": "O10",
+      "heading_level": 2,
+      "heading": "Common Questions About Lip Flips and Lip Filler",
+      "purpose": "Naturalness without superiority; gummy-smile targets distinct; both concerns can coexist, no combined-protocol promise.",
+      "finding_ids": [
+        "F1",
+        "F12",
+        "F13"
+      ],
+      "evidence_ids": [
+        "M4",
+        "M13",
+        "M1",
+        "D8",
+        "D9"
+      ],
+      "target_words": 180
+    },
+    {
+      "id": "O11",
+      "heading_level": 2,
+      "heading": "Talk Through Your Lip Goals in Olney",
+      "purpose": "Supported Olney contact, invite goal discussion; all-relevant-provider CTA marker before closing.",
+      "finding_ids": [
+        "F14",
+        "F19"
+      ],
+      "evidence_ids": [
+        "P2",
+        "P3",
+        "S6",
+        "D2"
+      ],
+      "target_words": 85
+    }
+  ],
+  "faq_h3s": [
+    "Which Treatment Looks More Natural?",
+    "Is a Lip Flip the Same as Gummy-Smile Treatment?",
+    "Can Both Concerns Be Addressed?"
+  ],
+  "internal_content_links": [
+    "https://estarmedspa.com/services/botox-lip-flip-olney-maryland/",
+    "https://estarmedspa.com/services/lip-filler-in-olney-maryland/",
+    "https://estarmedspa.com/services/botox-olney-maryland/",
+    "https://estarmedspa.com/services/juvederm-olney-maryland/"
+  ],
+  "external_links": [
+    "https://www.fda.gov/medical-devices/aesthetic-cosmetic-devices/dermal-fillers-soft-tissue-fillers",
+    "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ccdc3aae-6e2d-4cd0-a51c-8375bfee9458"
+  ],
+  "cta_url": "https://estarmedspa.com/contact/",
+  "markers": [
+    "all current lip providers/credentials/associations in O9",
+    "all confirmed relevant providers in O11"
+  ],
+  "unknowns_disposition": "D1 remains explicit customer input; class comparison unaffected by provider/product insertions. No guessed keywords/metadata or inventory/fee/availability claims. D2 required; D3-D9 excluded unsupported claims; D10-D11 optional comments; D12 website attribution only.",
+  "exit": "Section purposes/evidence cover mechanism, goals, timing, recovery, risks, candidacy, reversal, cost, practice consultation, FAQs and CTA; target coverage supports 1,200+ substantive words.",
+  "drafting_refinements": "Coordinating-agent editorial feedback added a qualified product-specific duration example, moved website/menu discrepancy to a prepared Alex comment, and made internal links explain the relevant treatment distinction."
+}

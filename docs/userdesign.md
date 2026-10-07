@@ -1,20 +1,14 @@
 # User Design
 
-User Design defines what Vikas can accomplish through the content production product and the experience he receives. It also defines Alex’s customer review and acceptance interactions. It owns product capabilities, required information, information presentation, layout, interactions, and all product-user-facing language and voice.
+User Design defines what Vikas can accomplish through the content production product and the experience he receives. It also defines Alex’s customer review and acceptance interactions. It owns product capabilities, required information, information presentation, layout, interactions, and product-user-facing language and voice. Writing Standards owns the content and writing standards of the articles themselves.
 
 Read the sections governing the affected user experience and follow references to its dependencies. Product owns system purpose and scope; Data Model owns record meanings, identity and validity; Architecture owns component responsibilities, processing and serving; Engineering owns implementation discipline and verification; Release owns deployment and recovery; AGENTS owns agent responsibilities, authorization and governing-document changes. Those documents reference User Design for product-user behavior, language and voice.
 
 ## Article Content and Writing Standards
 
-Each article must address its assigned topic and follow the applicable company, client, and assignment requirements. [Assignment](assignment.md#long-form-seoaeo-content-standards) supplies the assignment-specific standards, and [Content Style Guide](content_style_guide.md) supplies the writing standards. Each article in the initial workload must contain at least 1,200 words of substantive content; this assignment minimum overrides the shorter lengths in the style guide.
+Articles must meet [Writing Standards](writing-standards.md), the consolidated content and writing specification. That document owns the style-guide baseline, assignment additions, their applicability, approved interpretations, and the product exception for human review after delivery.
 
-For this product version, Alex provides human review after delivery through the customer review process defined in [Review, Revision, and Writing Feedback](#review-revision-and-writing-feedback). This replaces the style guide’s requirement for human review before submission. Customer confirmation of this exception remains open in [Follow-Up Questions for Alex](assignment.md#follow-up-questions-for-alex).
-
-Articles must reflect the actual client practice, including relevant providers, credentials, services, locations, terminology, and writing preferences. [Data Model](data-model.md#client-information) defines the client-information distinctions and associations that articles must preserve.
-
-Claims, quotations, reviews, and links must have supporting evidence relevant to the article. Missing or conflicting client information must be made visible for resolution rather than filled with assumptions. The [Review, Revision, and Writing Feedback](#review-revision-and-writing-feedback) section defines how required facts and optional material are handled.
-
-[Assignment](assignment.md#long-form-seoaeo-content-standards) supplies the research requirements. [Architecture](architecture.md#article-production-flow) defines the production stages and their agreed research responsibilities. [Engineering](engineering.md#article-verification) defines the editing and verification requirements before submission.
+The system delivers articles directly to Alex under [Assignment Delivery and Tracking](#assignment-delivery-and-tracking). Missing required facts and optional material are presented through [Review, Revision, and Writing Feedback](#review-revision-and-writing-feedback). [Data Model](data-model.md#client-information) defines valid client-information associations; [Architecture](architecture.md#article-production-flow) defines production; [Engineering](engineering.md#article-verification) defines verification before submission.
 
 ## Assignment Delivery and Tracking
 

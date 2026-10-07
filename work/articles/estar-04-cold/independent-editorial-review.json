@@ -1,0 +1,73 @@
+{
+  "reviewer": "Fresh-context independent AI editorial reviewer /root/article_editor_review",
+  "scope": "Worth delivering to Alex as Needs Information",
+  "initial_review": {
+    "article": "reader-draft-v2.md",
+    "sha256": "e42488676d02e8a55d896f073375dc3f6a16dc6d29ce52cfa26a8b0d17d8b098",
+    "verdict": "REVISE",
+    "findings": [
+      {
+        "severity": "major",
+        "issue": "Practice customization mostly interchangeable",
+        "fix": "Use attributed Estar training, teaching and patient-education background; preserve procedure-provider uncertainty"
+      },
+      {
+        "severity": "moderate",
+        "issue": "Comparison hard to scan",
+        "fix": "Compact comparison of change, onset, maintenance and tradeoffs"
+      },
+      {
+        "severity": "moderate",
+        "issue": "Concerning skin-color changes is vague",
+        "fix": "FDA white, gray or blue skin warning and immediate attention"
+      },
+      {
+        "severity": "moderate",
+        "issue": "Suitability wording vague",
+        "fix": "Explain unestablished pregnancy/breastfeeding safety and postponement with active inflammation/infection"
+      },
+      {
+        "severity": "minor",
+        "issue": "Repetition in naturalness and conclusion",
+        "fix": "Compress and add useful practice context"
+      },
+      {
+        "severity": "minor",
+        "issue": "Question headings lack question marks",
+        "fix": "Correct punctuation"
+      }
+    ]
+  },
+  "final_review": {
+    "article": "reader-draft-v3.md",
+    "sha256": "6be72ea396a6d6ef704688e766be4c93f90af1b1be6700a4537ecd4e22d05021",
+    "verdict": "SEND_AS_NEEDS_INFORMATION",
+    "findings": "No remaining material delivery defect. All six comment anchors unique. Two minor prose suggestions applied and exact final version reassessed.",
+    "rationale": "Useful, readable, medically cautious core comparison. Improved scanning, practice context, warning symptoms, suitability and repetition. Final consultation instructions imply neither a verified protocol nor procedure-provider associations."
+  },
+  "comparison_sources": [
+    {
+      "url": "https://facialesthetics.org/lip-filler-vs-lip-flip-which-is-right-for-you/",
+      "finding": "Stronger combination and selection coverage; draft more careful on naturalness and off-label use"
+    },
+    {
+      "url": "https://www.theskincentermd.com/lip-flip-vs-lip-filler-what-is-the-difference/",
+      "finding": "Stronger paired scanning and procedure detail; draft more careful on settled results and reversal"
+    },
+    {
+      "url": "https://bellissimoplasticsurgery.com/blogs-education/lip-flip-vs-lip-filler/",
+      "finding": "Stronger cost and combination coverage; prices cannot establish Estar prices"
+    },
+    {
+      "url": "https://dontageva.com/chemical-peels-fairfax-va/",
+      "finding": "Concrete treatment categories, practical recovery, integrated provider context and local appointment route; different-topic page cannot establish writer parity"
+    }
+  ],
+  "limitations": [
+    "AI review is not human clinical validation",
+    "Supplied keywords and metadata requirements unavailable",
+    "Current procedure-provider associations unconfirmed",
+    "Writer parity and customer acceptance unverified",
+    "No ranking prediction or exhaustive originality claim"
+  ]
+}

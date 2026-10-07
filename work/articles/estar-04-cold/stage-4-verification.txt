@@ -1,0 +1,19 @@
+Stage-4 artifact verification — October 6, 2026
+PASS: consolidated research JSON parses.
+PASS: 32 new source IDs are unique; all inherited/new source references resolve.
+PASS: 19 findings have sources, classifications and explicit limits.
+PASS: all 17 planned investigations have a recorded disposition.
+PASS: all 12 remaining dependencies have affected claims/content functions, plausible answers, consequences and next actions; all are linked from question coverage.
+PASS: all finding and dependency cross-references resolve.
+PASS: four actual Google observations have query URLs, search conditions and ordered positions; five broad-query bodies and three supplementary bodies are explicitly distinguished from listing-only results.
+PASS: original supplied reference URL preserved exactly.
+PASS: Alex questions marked unsent.
+PASS: central-answer evidence and unresolved/evidence-limit classifications remain distinct.
+PASS: all 21 preexisting tracked/input files retain stage-start byte hashes, including all five stage 1–3 artifacts.
+PASS: branch main and HEAD de80be03a0874600551762373a4425feb05e4c69 unchanged; git diff --check passes.
+PASS: temporary split stage-4 records removed after consolidation; no stage 1–3 artifact removed or rewritten.
+PASS: all stage-4 filenames referenced by the consolidated record, source locators, report and verification file exist; no removed split-file reference remains. All eight competing-source locators identify their google_review.page_reviews entries.
+Readable report: 612 words.
+
+Limit: these checks establish artifact integrity, reference coverage and preservation. They do not independently validate medical claims or automated dependency-assessment reliability. Research limitations and remaining required facts are recorded in the research record/report.
+No outline, draft, external question, Drive setup, commit or push performed.

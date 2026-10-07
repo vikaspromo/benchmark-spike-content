@@ -26,7 +26,7 @@ Use this section to establish the requirements for the task and the decisions th
 
 ### Document ownership and consultation
 
-Product, User Design, Data Model, Architecture, Engineering and Release define the outcomes that successful work must achieve.
+Product, User Design, Writing Standards, Data Model, Architecture, Engineering and Release define the outcomes that successful work must achieve.
 
 Before choosing an implementation, use the table below to identify the documents whose requirements the work affects or depends on. Use their introductions and headings to locate the affected topics, then read the relevant sections and follow references to dependent requirements. Apply those requirements with their conditions, exceptions and required operation order intact. Several documents may apply even when their requirements remain unchanged. Read broader context when needed to establish applicability, conditions or exceptions; a short reading path must not omit necessary requirements.
 
@@ -35,12 +35,13 @@ Before choosing an implementation, use the table below to identify the documents
 | `AGENTS.md` | Every task. | What the agent owes the operator, how to complete work, and how to maintain or change requirements. |
 | `docs/product.md` | System purpose, assignment scope or overall system boundaries. | Why the system exists and which work and coverage are within scope. |
 | `docs/userdesign.md` | Any product-user-facing capability, information, recommendation, eligibility, interaction, wording or presentation, including operator-facing product capabilities. | What product users can accomplish, which information and outcomes they receive, and how the experience must behave. |
+| `docs/writing-standards.md` | Article research, drafting, revision, compliance, or missing article inputs. | The required writing standards, their sources, applicability, overrides, and distinctions between required facts and optional material. |
 | `docs/data-model.md` | Records, fields, relationships, identity, unknown values, timing, assessments, validity or public response data. | What the data means, which records remain distinct, and which representations and constraints are valid. |
 | `docs/architecture.md` | Component responsibilities, interfaces, acquisition, evidence interpretation, processing, updates, reuse, failures, spending or serving. | How components must produce and maintain the required result, including their dependencies and failure boundaries. |
 | `docs/engineering.md` | Developing, investigating, verifying or reviewing a change; claiming that an outcome is achieved; development artifacts and prototype verification. | How to choose and complete an implementation, which checks and evidence establish correctness and completion, which claims remain unverified, and when development artifacts are needed or must be removed. |
 | `docs/release.md` | Changes to deployed files, production configuration, schema or stored data; deployment or recovery. | The applicable delivery route, authorization, compatibility, deployed verification and recovery requirements. |
 
-User Design owns all active product-user-facing requirements, including capabilities, required information, recommendations, eligibility, supported surfaces, interactions, labels, explanations, language and voice. Include operator-facing product capabilities; agent working instructions and communication with the operator remain in AGENTS. Other documents reference User Design when implementing or verifying those requirements rather than independently defining user behavior.
+User Design owns active product-user-facing requirements, including capabilities, required information, recommendations, eligibility, supported surfaces, interactions, labels, explanations, language and voice. Include operator-facing product capabilities; agent working instructions and communication with the operator remain in AGENTS. Other documents reference User Design when implementing or verifying those requirements rather than independently defining user behavior. Writing Standards is the specialized owner of article content, writing language and voice, and compliance requirements; User Design references it rather than maintaining a second writing specification.
 
 User Design owns only the product-user experience. Keep record and field definitions in Data Model, processing and serving procedures in Architecture, verification in Engineering, and deployment and recovery in Release. User Design references those owners when the experience depends on them. Notes and deferred ideas may be recorded in Icebox at the operator’s request.
 

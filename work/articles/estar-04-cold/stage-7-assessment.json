@@ -1,0 +1,1468 @@
+{
+  "article_id": "estar-04-cold",
+  "recorded_date": "2026-10-06",
+  "timezone": "America/New_York",
+  "stages_achieved": [
+    "Build the Outline",
+    "Write the First Draft",
+    "Evaluate and Revise"
+  ],
+  "local_status": "Needs Information",
+  "delivery_state": "Google Drive/Docs/Sheet deferred; no Doc comments posted, no Alex questions sent",
+  "final_article_sha256": "c39c93b982c40e4f7417db7f55523bc158e1eaaba47f7a61ed506568fa7c47c7",
+  "first_draft_sha256": "dd9754b1be9838890329ddd05dbfc5057e70b059b66e0d66ed75b91f96f27fa0",
+  "rule_catalog": "writing-rules.json",
+  "first_check_results": "first-draft-checks.json",
+  "final_check_results": "final-checks.json",
+  "assessment_method": "This agent initiated deterministic checks and editorial/evidence assessment within the flow without a separate operator trigger. The coordinating agent supplied additional editorial refinements before final checks. Same-agent judgments are not independently validated automated judging or production orchestration.",
+  "editorial_assessment": [
+    {
+      "area": "substance/coverage",
+      "result": "satisfactory within scope",
+      "evidence": "Mechanism, goal selection, qualitative lip-flip timing, qualified product-specific filler persistence, recovery, common/urgent risks, health history, reversal limits, cost questions, practice/provider context, three distinct FAQs and CTA all have useful functions; 1,667 measured prose words are not treated as proof of substance."
+    },
+    {
+      "area": "customization",
+      "result": "partial: required facts open",
+      "evidence": "Estar service-specific routes, Olney phone/contact pathway, website consultation approach and correctly attributed Mimi Martins/Nana Mensah biographies; all relevant procedural providers remain markers, not guessed. Menu discrepancy moved to C4; general provider resource does not establish a clinician."
+    },
+    {
+      "area": "evidence/dependencies",
+      "result": "supported explanation with explicit limits",
+      "evidence": "Paragraph map and topic scope reviewed against stored findings and selected primary rechecks. Provider/product insertions do not alter class answer; keywords/intent could alter emphasis later. No complete roster, stock, fixed lip-flip schedule, superiority, exact fee or combined Estar protocol is claimed."
+    },
+    {
+      "area": "voice/structure/links",
+      "result": "satisfactory agent assessment",
+      "evidence": "Direct opening answer with APP function, reader-centered headings, short paragraphs, concrete daily-mouth-function and event examples, useful goal/product link context, concise label limits. Four content links + separate CTA and two primary external links; no competitor destination."
+    },
+    {
+      "area": "AP/grammar/spelling/proofreading",
+      "result": "completed by same agent; reliability unvalidated",
+      "evidence": "Reviewed names, Dr. placement, board-certification attribution, Oxford-comma series, AP headings, one-to-nine convention, MD geography, compounds and phone. No prose dates/percentages or isolated small-digit flags. Removed unnecessary credential acronym expansion; no independent grammar/AP checker or editor certification."
+    },
+    {
+      "area": "readability",
+      "result": "within heuristic target; not validated",
+      "evidence": "Final estimate approximately grade 8.35; technical terms explained in context. Sentence/paragraph counts measure form only."
+    },
+    {
+      "area": "originality/quality parity",
+      "result": "original drafting assessed; parity unverified",
+      "evidence": "Written from evidence/outline without rewriting supplied reference. No completed writer article or Dontage benchmark opened; no independent originality scan, patient testing, Benchmark writer-quality parity, SEO performance or customer acceptance claimed."
+    }
+  ],
+  "revision_log": [
+    "Replaced research-record voice about unknown fees/protocols with useful reader questions; compressed label and study caveats while retaining clinical distinctions.",
+    "Improved sentence clarity and reduced heuristic readability estimate from 9.06 to 8.35; preserved fuller-than-minimum substantive coverage.",
+    "Retained serious vascular/toxin warnings separately from common reactions and added current NLM-hosted Xeomin label link.",
+    "Kept general credential biographies distinct from unconfirmed lip procedure associations; placed CTA marker before the closing invitation.",
+    "After coordinating-agent editorial feedback, restored qualified Ultra XC/Volbella roughly-year lip-study example with optional touch-up conditions; did not infer Estar inventory or numerical lip-flip duration.",
+    "Moved website/booking product discrepancy into anchored C4 and made internal links explain position/volume and product-family distinctions; kept exact-product reader question.",
+    "Reran all checks against final version and rebuilt anchors/evidence coverage after these revisions."
+  ],
+  "topic_evidence_limits": {
+    "Introduction": "Direct mechanism answer and inferred reader concern; no measured smiling result promised.",
+    "Lip Flip vs. Lip Filler: What Changes?": "Partial muscle relaxation/upper-lip eversion versus added HA gel; website supports advertised services only.",
+    "When Might a Lip Flip Fit Your Goal?": "Small uncontrolled lip studies support mechanism and functional concern, not universal smiling benefit/timing; labels establish brand and off-label distinction.",
+    "When Might Lip Filler Fit Your Goal?": "Added fullness/shape and formulation-specific uses; goals/photo prompts are counseling guidance, not outcome promises or inventory.",
+    "How Do Results and Recovery Differ?": "Ultra XC patient-label sections 5-6 and Volbella lip-label clinical-study/benefits: roughly-year persistence for many under product-specific plans allowing touch-ups. No all-filler/Estar guarantee; lip-flip timing stays qualitative. Studies/labels support swelling and temporary lip control; event prompts are derived guidance.",
+    "What Risks Should You Understand Before Treatment?": "FDA risks/patient advice and toxin warnings/precautions support serious symptoms and immediate help. Product-wide warnings are not lip-specific event rates. Pregnancy/breastfeeding safety unknown is not asserted as a universal formal contraindication; no instruction to stop prescribed medicines.",
+    "Can You Reverse Either Treatment?": "HA dissolution potential, repeat-treatment/allergy limits from consensus; no universal reversal, rescue guarantee or Estar emergency capability claim. Toxin recovery differs from HA dissolution.",
+    "How Should You Compare the Cost?": "Reader questions from D5/D8 and temporary-treatment/touch-up evidence; not empirical price, fee, savings, cost-effectiveness or maintenance-frequency claims.",
+    "What Should You Ask at Estar MedSpa?": "Website-supported consultation approach and named roles/credentials/general injectable context only; no independent registry verification, complete roster or lip procedure assignment. Product-name discrepancy remains in C4; provider booking follow-up corroborates missing association.",
+    "Common Questions About Lip Flips and Lip Filler": "No naturalness/superiority promise. Gummy-smile muscle distinction uses abstract-only 10-person study, not a universal treatment recommendation. FDA combination guidance: safe combined use not evaluated in controlled clinical study; not a prohibition.",
+    "Talk Through Your Lip Goals in Olney": "Supported Olney location/contact number and reachable pathway; no clinician, slot, fee, stock or candidacy promise. Required provider CTA marker retained."
+  },
+  "claim_and_guidance_coverage": [
+    {
+      "lines": [
+        3,
+        3
+      ],
+      "topic": "Introduction",
+      "opening": "If you want fuller-looking lips, a lip flip and lip filler can sound like two ways to get the same r",
+      "finding_ids": [
+        "F1"
+      ],
+      "source_ids": [
+        "M2",
+        "M4",
+        "M6",
+        "M7",
+        "S1"
+      ]
+    },
+    {
+      "lines": [
+        5,
+        5
+      ],
+      "topic": "Introduction",
+      "opening": "That difference matters if your upper lip seems to disappear when you smile, or if you want more ful",
+      "finding_ids": [
+        "F1"
+      ],
+      "source_ids": [
+        "M2",
+        "M4",
+        "M6",
+        "M7",
+        "S1"
+      ]
+    },
+    {
+      "lines": [
+        9,
+        9
+      ],
+      "topic": "Lip Flip vs. Lip Filler: What Changes?",
+      "opening": "A lip flip uses a small amount of botulinum toxin to relax part of the muscle around the upper lip. ",
+      "finding_ids": [
+        "F1",
+        "F19"
+      ],
+      "source_ids": [
+        "M2",
+        "M4",
+        "M6",
+        "M7",
+        "S7",
+        "S8"
+      ]
+    },
+    {
+      "lines": [
+        11,
+        11
+      ],
+      "topic": "Lip Flip vs. Lip Filler: What Changes?",
+      "opening": "Lip filler places gel into the lips to add fullness and shape. The hyaluronic acid, or HA, fillers d",
+      "finding_ids": [
+        "F1",
+        "F19"
+      ],
+      "source_ids": [
+        "M2",
+        "M4",
+        "M6",
+        "M7",
+        "S7",
+        "S8"
+      ]
+    },
+    {
+      "lines": [
+        13,
+        13
+      ],
+      "topic": "Lip Flip vs. Lip Filler: What Changes?",
+      "opening": "Think about the change you want to see:",
+      "finding_ids": [
+        "F1",
+        "F19"
+      ],
+      "source_ids": [
+        "M2",
+        "M4",
+        "M6",
+        "M7",
+        "S7",
+        "S8"
+      ]
+    },
+    {
+      "lines": [
+        15,
+        17
+      ],
+      "topic": "Lip Flip vs. Lip Filler: What Changes?",
+      "opening": "- A lip flip addresses the way the upper lip sits and turns outward.",
+      "finding_ids": [
+        "F1",
+        "F19"
+      ],
+      "source_ids": [
+        "M2",
+        "M4",
+        "M6",
+        "M7",
+        "S7",
+        "S8"
+      ]
+    },
+    {
+      "lines": [
+        19,
+        19
+      ],
+      "topic": "Lip Flip vs. Lip Filler: What Changes?",
+      "opening": "If your goal is to show more of the upper lip without added volume, Estar's [lip-flip service](https",
+      "finding_ids": [
+        "F1",
+        "F19"
+      ],
+      "source_ids": [
+        "M2",
+        "M4",
+        "M6",
+        "M7",
+        "S7",
+        "S8"
+      ]
+    },
+    {
+      "lines": [
+        23,
+        23
+      ],
+      "topic": "When Might a Lip Flip Fit Your Goal?",
+      "opening": "You may like the fullness of your lips at rest but wish more of your upper lip showed. That is a dif",
+      "finding_ids": [
+        "F1",
+        "F2",
+        "F6",
+        "F8"
+      ],
+      "source_ids": [
+        "M2",
+        "M3",
+        "M4",
+        "M5",
+        "M11",
+        "M12",
+        "S4"
+      ]
+    },
+    {
+      "lines": [
+        25,
+        25
+      ],
+      "topic": "When Might a Lip Flip Fit Your Goal?",
+      "opening": "A lip flip can show more of the upper lip without adding volume. The change may be subtle; it will n",
+      "finding_ids": [
+        "F1",
+        "F2",
+        "F6",
+        "F8"
+      ],
+      "source_ids": [
+        "M2",
+        "M3",
+        "M4",
+        "M5",
+        "M11",
+        "M12",
+        "S4"
+      ]
+    },
+    {
+      "lines": [
+        27,
+        27
+      ],
+      "topic": "When Might a Lip Flip Fit Your Goal?",
+      "opening": "Ask your clinician to look at your lips both at rest and as you smile or speak. Muscle movement and ",
+      "finding_ids": [
+        "F1",
+        "F2",
+        "F6",
+        "F8"
+      ],
+      "source_ids": [
+        "M2",
+        "M3",
+        "M4",
+        "M5",
+        "M11",
+        "M12",
+        "S4"
+      ]
+    },
+    {
+      "lines": [
+        29,
+        29
+      ],
+      "topic": "When Might a Lip Flip Fit Your Goal?",
+      "opening": "It also helps to explain how you use your lips day to day. If you play a wind instrument, for exampl",
+      "finding_ids": [
+        "F1",
+        "F2",
+        "F6",
+        "F8"
+      ],
+      "source_ids": [
+        "M2",
+        "M3",
+        "M4",
+        "M5",
+        "M11",
+        "M12",
+        "S4"
+      ]
+    },
+    {
+      "lines": [
+        31,
+        31
+      ],
+      "topic": "When Might a Lip Flip Fit Your Goal?",
+      "opening": "The muscle-relaxing injections described on Estar's [Botox service page](https://estarmedspa.com/ser",
+      "finding_ids": [
+        "F1",
+        "F2",
+        "F6",
+        "F8"
+      ],
+      "source_ids": [
+        "M2",
+        "M3",
+        "M4",
+        "M5",
+        "M11",
+        "M12",
+        "S4"
+      ]
+    },
+    {
+      "lines": [
+        33,
+        33
+      ],
+      "topic": "When Might a Lip Flip Fit Your Goal?",
+      "opening": "Lip flips are an off-label use of Botox Cosmetic, Dysport, and Xeomin. These products have FDA-appro",
+      "finding_ids": [
+        "F1",
+        "F2",
+        "F6",
+        "F8"
+      ],
+      "source_ids": [
+        "M2",
+        "M3",
+        "M4",
+        "M5",
+        "M11",
+        "M12",
+        "S4"
+      ]
+    },
+    {
+      "lines": [
+        37,
+        37
+      ],
+      "topic": "When Might Lip Filler Fit Your Goal?",
+      "opening": "If you want more fullness at rest or a change in lip shape, filler may be the more relevant option t",
+      "finding_ids": [
+        "F1",
+        "F9",
+        "F10",
+        "F19"
+      ],
+      "source_ids": [
+        "M6",
+        "M7",
+        "M8",
+        "M9",
+        "S5"
+      ]
+    },
+    {
+      "lines": [
+        39,
+        39
+      ],
+      "topic": "When Might Lip Filler Fit Your Goal?",
+      "opening": "Be specific about what you want to change. A fuller upper lip, a different balance between the lips,",
+      "finding_ids": [
+        "F1",
+        "F9",
+        "F10",
+        "F19"
+      ],
+      "source_ids": [
+        "M6",
+        "M7",
+        "M8",
+        "M9",
+        "S5"
+      ]
+    },
+    {
+      "lines": [
+        41,
+        41
+      ],
+      "topic": "When Might Lip Filler Fit Your Goal?",
+      "opening": "The clinician needs to assess what suits your lip shape. A photo can help explain your taste, but an",
+      "finding_ids": [
+        "F1",
+        "F9",
+        "F10",
+        "F19"
+      ],
+      "source_ids": [
+        "M6",
+        "M7",
+        "M8",
+        "M9",
+        "S5"
+      ]
+    },
+    {
+      "lines": [
+        43,
+        43
+      ],
+      "topic": "When Might Lip Filler Fit Your Goal?",
+      "opening": "Estar's [Juv\u00e9derm treatments](https://estarmedspa.com/services/juvederm-olney-maryland/) page descri",
+      "finding_ids": [
+        "F1",
+        "F9",
+        "F10",
+        "F19"
+      ],
+      "source_ids": [
+        "M6",
+        "M7",
+        "M8",
+        "M9",
+        "S5"
+      ]
+    },
+    {
+      "lines": [
+        45,
+        45
+      ],
+      "topic": "When Might Lip Filler Fit Your Goal?",
+      "opening": "Products within the same filler family can have different approved uses. Ask about the exact product",
+      "finding_ids": [
+        "F1",
+        "F9",
+        "F10",
+        "F19"
+      ],
+      "source_ids": [
+        "M6",
+        "M7",
+        "M8",
+        "M9",
+        "S5"
+      ]
+    },
+    {
+      "lines": [
+        49,
+        49
+      ],
+      "topic": "How Do Results and Recovery Differ?",
+      "opening": "A lip flip is a developing muscle effect, rather than an instant deposit of volume. Ask what changes",
+      "finding_ids": [
+        "F3",
+        "F4",
+        "F5",
+        "F6"
+      ],
+      "source_ids": [
+        "M2",
+        "M3",
+        "M4",
+        "M5",
+        "M6",
+        "M7",
+        "M11"
+      ]
+    },
+    {
+      "lines": [
+        51,
+        51
+      ],
+      "topic": "How Do Results and Recovery Differ?",
+      "opening": "Filler adds gel during treatment, but early fullness can also include swelling. Your appearance imme",
+      "finding_ids": [
+        "F3",
+        "F4",
+        "F5",
+        "F6"
+      ],
+      "source_ids": [
+        "M2",
+        "M3",
+        "M4",
+        "M5",
+        "M6",
+        "M7",
+        "M11"
+      ]
+    },
+    {
+      "lines": [
+        53,
+        53
+      ],
+      "topic": "How Do Results and Recovery Differ?",
+      "opening": "Both approaches are temporary. Lip-flip research is limited, so a schedule for forehead wrinkle trea",
+      "finding_ids": [
+        "F3",
+        "F4",
+        "F5",
+        "F6"
+      ],
+      "source_ids": [
+        "M2",
+        "M3",
+        "M4",
+        "M5",
+        "M6",
+        "M7",
+        "M11"
+      ]
+    },
+    {
+      "lines": [
+        55,
+        55
+      ],
+      "topic": "How Do Results and Recovery Differ?",
+      "opening": "Lip studies of Juv\u00e9derm Ultra XC and Volbella XC found effects lasting through about a year for many",
+      "finding_ids": [
+        "F3",
+        "F4",
+        "F5",
+        "F6"
+      ],
+      "source_ids": [
+        "M2",
+        "M3",
+        "M4",
+        "M5",
+        "M6",
+        "M7",
+        "M11"
+      ]
+    },
+    {
+      "lines": [
+        57,
+        57
+      ],
+      "topic": "How Do Results and Recovery Differ?",
+      "opening": "Your result may last a different amount of time. Ask when to assess the need for more treatment and ",
+      "finding_ids": [
+        "F3",
+        "F4",
+        "F5",
+        "F6"
+      ],
+      "source_ids": [
+        "M2",
+        "M3",
+        "M4",
+        "M5",
+        "M6",
+        "M7",
+        "M11"
+      ]
+    },
+    {
+      "lines": [
+        59,
+        59
+      ],
+      "topic": "How Do Results and Recovery Differ?",
+      "opening": "Recovery deserves its own discussion. Filler can cause swelling, bruising, tenderness, and lumps or ",
+      "finding_ids": [
+        "F3",
+        "F4",
+        "F5",
+        "F6"
+      ],
+      "source_ids": [
+        "M2",
+        "M3",
+        "M4",
+        "M5",
+        "M6",
+        "M7",
+        "M11"
+      ]
+    },
+    {
+      "lines": [
+        61,
+        61
+      ],
+      "topic": "How Do Results and Recovery Differ?",
+      "opening": "A lip flip can temporarily affect lip control. That can matter when drinking or trying to purse your",
+      "finding_ids": [
+        "F3",
+        "F4",
+        "F5",
+        "F6"
+      ],
+      "source_ids": [
+        "M2",
+        "M3",
+        "M4",
+        "M5",
+        "M6",
+        "M7",
+        "M11"
+      ]
+    },
+    {
+      "lines": [
+        63,
+        63
+      ],
+      "topic": "How Do Results and Recovery Differ?",
+      "opening": "If you have a wedding, trip, or other event coming up, say so before choosing a treatment date. Leav",
+      "finding_ids": [
+        "F3",
+        "F4",
+        "F5",
+        "F6"
+      ],
+      "source_ids": [
+        "M2",
+        "M3",
+        "M4",
+        "M5",
+        "M6",
+        "M7",
+        "M11"
+      ]
+    },
+    {
+      "lines": [
+        67,
+        67
+      ],
+      "topic": "What Risks Should You Understand Before Treatment?",
+      "opening": "Neither treatment is risk-free. A consultation should explain common effects as well as symptoms tha",
+      "finding_ids": [
+        "F5",
+        "F6",
+        "F7",
+        "F10"
+      ],
+      "source_ids": [
+        "M1",
+        "M2",
+        "M6",
+        "M7",
+        "M8",
+        "M9",
+        "M11",
+        "M12"
+      ]
+    },
+    {
+      "lines": [
+        69,
+        69
+      ],
+      "topic": "What Risks Should You Understand Before Treatment?",
+      "opening": "With filler, an accidental injection into a blood vessel can cause serious tissue injury, vision los",
+      "finding_ids": [
+        "F5",
+        "F6",
+        "F7",
+        "F10"
+      ],
+      "source_ids": [
+        "M1",
+        "M2",
+        "M6",
+        "M7",
+        "M8",
+        "M9",
+        "M11",
+        "M12"
+      ]
+    },
+    {
+      "lines": [
+        71,
+        71
+      ],
+      "topic": "What Risks Should You Understand Before Treatment?",
+      "opening": "Unusual pain, vision changes, concerning changes in skin color, or stroke symptoms after filler need",
+      "finding_ids": [
+        "F5",
+        "F6",
+        "F7",
+        "F10"
+      ],
+      "source_ids": [
+        "M1",
+        "M2",
+        "M6",
+        "M7",
+        "M8",
+        "M9",
+        "M11",
+        "M12"
+      ]
+    },
+    {
+      "lines": [
+        73,
+        73
+      ],
+      "topic": "What Risks Should You Understand Before Treatment?",
+      "opening": "Botulinum toxin products also have serious warnings, including problems swallowing, speaking, or bre",
+      "finding_ids": [
+        "F5",
+        "F6",
+        "F7",
+        "F10"
+      ],
+      "source_ids": [
+        "M1",
+        "M2",
+        "M6",
+        "M7",
+        "M8",
+        "M9",
+        "M11",
+        "M12"
+      ]
+    },
+    {
+      "lines": [
+        75,
+        75
+      ],
+      "topic": "What Risks Should You Understand Before Treatment?",
+      "opening": "Get immediate medical help if these symptoms occur after treatment. Do not treat trouble swallowing ",
+      "finding_ids": [
+        "F5",
+        "F6",
+        "F7",
+        "F10"
+      ],
+      "source_ids": [
+        "M1",
+        "M2",
+        "M6",
+        "M7",
+        "M8",
+        "M9",
+        "M11",
+        "M12"
+      ]
+    },
+    {
+      "lines": [
+        77,
+        77
+      ],
+      "topic": "What Risks Should You Understand Before Treatment?",
+      "opening": "Your health history matters for either option. Tell the clinician about allergies, medicines and sup",
+      "finding_ids": [
+        "F5",
+        "F6",
+        "F7",
+        "F10"
+      ],
+      "source_ids": [
+        "M1",
+        "M2",
+        "M6",
+        "M7",
+        "M8",
+        "M9",
+        "M11",
+        "M12"
+      ]
+    },
+    {
+      "lines": [
+        79,
+        79
+      ],
+      "topic": "What Risks Should You Understand Before Treatment?",
+      "opening": "Also mention pregnancy or breastfeeding, because the product information does not establish safety i",
+      "finding_ids": [
+        "F5",
+        "F6",
+        "F7",
+        "F10"
+      ],
+      "source_ids": [
+        "M1",
+        "M2",
+        "M6",
+        "M7",
+        "M8",
+        "M9",
+        "M11",
+        "M12"
+      ]
+    },
+    {
+      "lines": [
+        83,
+        83
+      ],
+      "topic": "Can You Reverse Either Treatment?",
+      "opening": "HA filler can sometimes be reduced with an enzyme called hyaluronidase. Dissolving filler is a medic",
+      "finding_ids": [
+        "F11"
+      ],
+      "source_ids": [
+        "M1",
+        "M2",
+        "M10"
+      ]
+    },
+    {
+      "lines": [
+        85,
+        85
+      ],
+      "topic": "Can You Reverse Either Treatment?",
+      "opening": "It cannot guarantee that every unwanted result or complication will be fully reversed. Before treatm",
+      "finding_ids": [
+        "F11"
+      ],
+      "source_ids": [
+        "M1",
+        "M2",
+        "M10"
+      ]
+    },
+    {
+      "lines": [
+        87,
+        87
+      ],
+      "topic": "Can You Reverse Either Treatment?",
+      "opening": "A lip flip cannot be dissolved in the same way. Its muscle effect wears off, so it is important to u",
+      "finding_ids": [
+        "F11"
+      ],
+      "source_ids": [
+        "M1",
+        "M2",
+        "M10"
+      ]
+    },
+    {
+      "lines": [
+        91,
+        91
+      ],
+      "topic": "How Should You Compare the Cost?",
+      "opening": "Start with what each treatment is meant to change. A lower price does not make a treatment good valu",
+      "finding_ids": [
+        "F17"
+      ],
+      "source_ids": [
+        "M6",
+        "M7"
+      ]
+    },
+    {
+      "lines": [
+        93,
+        93
+      ],
+      "topic": "How Should You Compare the Cost?",
+      "opening": "Ask for a quote that explains the product, treatment amount, consultation fee, and any planned follo",
+      "finding_ids": [
+        "F17"
+      ],
+      "source_ids": [
+        "M6",
+        "M7"
+      ]
+    },
+    {
+      "lines": [
+        95,
+        95
+      ],
+      "topic": "How Should You Compare the Cost?",
+      "opening": "When contacting Estar, confirm the consultation terms and what is included in your treatment quote. ",
+      "finding_ids": [
+        "F17"
+      ],
+      "source_ids": [
+        "M6",
+        "M7"
+      ]
+    },
+    {
+      "lines": [
+        99,
+        99
+      ],
+      "topic": "What Should You Ask at Estar MedSpa?",
+      "opening": "Estar's website describes individual consultation, treatment planning, and follow-up. Use that conve",
+      "finding_ids": [
+        "F14",
+        "F16",
+        "F17"
+      ],
+      "source_ids": [
+        "S1",
+        "V1"
+      ]
+    },
+    {
+      "lines": [
+        101,
+        101
+      ],
+      "topic": "What Should You Ask at Estar MedSpa?",
+      "opening": "The practice lists Dr. Mimi P. Martins as medical director and co-owner and describes her as a board",
+      "finding_ids": [
+        "F14",
+        "F16",
+        "F17"
+      ],
+      "source_ids": [
+        "S1",
+        "V1"
+      ]
+    },
+    {
+      "lines": [
+        103,
+        103
+      ],
+      "topic": "What Should You Ask at Estar MedSpa?",
+      "opening": "Estar describes general injectable experience for both. Its team biographies are useful background, ",
+      "finding_ids": [
+        "F14",
+        "F16",
+        "F17"
+      ],
+      "source_ids": [
+        "S1",
+        "V1"
+      ]
+    },
+    {
+      "lines": [
+        107,
+        107
+      ],
+      "topic": "What Should You Ask at Estar MedSpa?",
+      "opening": "Ask for the exact product name before treatment. Knowing whether you are discussing a muscle relaxer",
+      "finding_ids": [
+        "F14",
+        "F16",
+        "F17"
+      ],
+      "source_ids": [
+        "S1",
+        "V1"
+      ]
+    },
+    {
+      "lines": [
+        109,
+        109
+      ],
+      "topic": "What Should You Ask at Estar MedSpa?",
+      "opening": "Bring these questions:",
+      "finding_ids": [
+        "F14",
+        "F16",
+        "F17"
+      ],
+      "source_ids": [
+        "S1",
+        "V1"
+      ]
+    },
+    {
+      "lines": [
+        111,
+        115
+      ],
+      "topic": "What Should You Ask at Estar MedSpa?",
+      "opening": "- Is my concern lip volume, upper-lip position, or both?",
+      "finding_ids": [
+        "F14",
+        "F16",
+        "F17"
+      ],
+      "source_ids": [
+        "S1",
+        "V1"
+      ]
+    },
+    {
+      "lines": [
+        121,
+        121
+      ],
+      "topic": "Common Questions About Lip Flips and Lip Filler",
+      "opening": "Neither is automatically more natural. The result depends on your anatomy, the treatment plan, and w",
+      "finding_ids": [
+        "F1",
+        "F12",
+        "F13"
+      ],
+      "source_ids": [
+        "M1",
+        "M4",
+        "M6",
+        "M7",
+        "M13"
+      ]
+    },
+    {
+      "lines": [
+        123,
+        123
+      ],
+      "topic": "Common Questions About Lip Flips and Lip Filler",
+      "opening": "Describe the features you want to keep as well as those you want to change. A consultation can help ",
+      "finding_ids": [
+        "F1",
+        "F12",
+        "F13"
+      ],
+      "source_ids": [
+        "M1",
+        "M4",
+        "M6",
+        "M7",
+        "M13"
+      ]
+    },
+    {
+      "lines": [
+        127,
+        127
+      ],
+      "topic": "Common Questions About Lip Flips and Lip Filler",
+      "opening": "No. A conventional lip flip targets the muscle around the lip, while toxin treatment for excess gum ",
+      "finding_ids": [
+        "F1",
+        "F12",
+        "F13"
+      ],
+      "source_ids": [
+        "M1",
+        "M4",
+        "M6",
+        "M7",
+        "M13"
+      ]
+    },
+    {
+      "lines": [
+        129,
+        129
+      ],
+      "topic": "Common Questions About Lip Flips and Lip Filler",
+      "opening": "If gum show is your main concern, name it clearly. Do not assume a lip flip will address every reaso",
+      "finding_ids": [
+        "F1",
+        "F12",
+        "F13"
+      ],
+      "source_ids": [
+        "M1",
+        "M4",
+        "M6",
+        "M7",
+        "M13"
+      ]
+    },
+    {
+      "lines": [
+        133,
+        133
+      ],
+      "topic": "Common Questions About Lip Flips and Lip Filler",
+      "opening": "You can have both a volume concern and a concern about upper-lip movement. That does not mean you au",
+      "finding_ids": [
+        "F1",
+        "F12",
+        "F13"
+      ],
+      "source_ids": [
+        "M1",
+        "M4",
+        "M6",
+        "M7",
+        "M13"
+      ]
+    },
+    {
+      "lines": [
+        135,
+        135
+      ],
+      "topic": "Common Questions About Lip Flips and Lip Filler",
+      "opening": "Ask the clinician to explain whether each concern needs treatment and whether the plan would be stag",
+      "finding_ids": [
+        "F1",
+        "F12",
+        "F13"
+      ],
+      "source_ids": [
+        "M1",
+        "M4",
+        "M6",
+        "M7",
+        "M13"
+      ]
+    },
+    {
+      "lines": [
+        139,
+        139
+      ],
+      "topic": "Talk Through Your Lip Goals in Olney",
+      "opening": "You do not need to choose an injection before asking for advice. Start with what you want to change,",
+      "finding_ids": [
+        "F14",
+        "F19"
+      ],
+      "source_ids": [
+        "S1",
+        "S6"
+      ]
+    },
+    {
+      "lines": [
+        143,
+        143
+      ],
+      "topic": "Talk Through Your Lip Goals in Olney",
+      "opening": "Call Estar MedSpa in Olney, MD, at 301-917-3870 or use its [consultation and contact pathway](https:",
+      "finding_ids": [
+        "F14",
+        "F19"
+      ],
+      "source_ids": [
+        "S1",
+        "S6"
+      ]
+    }
+  ],
+  "coverage_limit": "Each non-heading, non-marker paragraph/list block has a source-linked topic assessment. Guidance/inferred reader concerns are not empirical findings. Source-reference integrity and coverage do not validate clinical/editorial judgment; underlying evidence limits remain.",
+  "unresolved": [
+    {
+      "id": "D1",
+      "fact": "Primary/supporting keywords, topic-selection rationale, target geography, metadata expectations and practical SEO/AEO distinction",
+      "effect": "Current assigned comparison has a supported answer; unknown intent cannot be presented as settled.",
+      "disposition": "retain_working_hypothesis_and_record_customer_dependency"
+    },
+    {
+      "id": "D2",
+      "fact": "Complete current lip-injector roster and which person performs each service",
+      "effect": "Does not change mechanism comparison. Required provider-specific statements must remain incomplete until confirmed.",
+      "disposition": "required_fact_insertable_later"
+    },
+    {
+      "id": "D3",
+      "fact": "Exact neurotoxin(s) currently used for Estar lip flips and approved practice wording",
+      "effect": "Central class distinction stays supported. A product-specific recommendation or dosing/timing discussion would need reassessment after confirmation.",
+      "disposition": "use_class_explanation_and_require_confirmation_for_named_practice_claims"
+    },
+    {
+      "id": "D4",
+      "fact": "Which current fillers/formulations are actually used in Estar lips",
+      "effect": "Does not change central comparison; can change product-specific examples and evidence needed.",
+      "disposition": "omit_unconfirmed_practice_inventory_keep_supported_class_comparison"
+    },
+    {
+      "id": "D5",
+      "fact": "Current lip-flip/filler fees, fee basis and consultation charge/terms",
+      "effect": "No effect on the central answer under the current interpretation; price-led assignment intent would increase this dependency's importance.",
+      "disposition": "omit_exact_prices_and_comparative_value_claims"
+    },
+    {
+      "id": "D6",
+      "fact": "Current Estar aftercare, appointment length, follow-up policy and eligibility restrictions specific to lips",
+      "effect": "Central answer unaffected; any later recommendation must account for actual practice policy and individual assessment.",
+      "disposition": "omit_unverified_practice_protocol_use_product_specific_limits"
+    },
+    {
+      "id": "D7",
+      "fact": "Precise first onset, maximal result and typical duration for the actual Estar lip-flip regimen",
+      "effect": "Not a missing mechanism answer. A fixed timeline is omitted because available evidence does not adequately establish one.",
+      "disposition": "exclude_fixed_range_and_explain_evidence_limits"
+    },
+    {
+      "id": "D8",
+      "fact": "Comparative safety, naturalness, cost-effectiveness or efficacy superiority",
+      "effect": "Central distinction remains; no comparative-superiority premise is adopted.",
+      "disposition": "omit_unsupported_superiority"
+    },
+    {
+      "id": "D9",
+      "fact": "Whether Estar offers combined lip-flip/filler plans and how it selects or sequences them",
+      "effect": "No effect on the core difference; a combined-treatment recommendation would require new support.",
+      "disposition": "omit_practice_protocol_and_universal_combination_recommendation"
+    },
+    {
+      "id": "D10",
+      "fact": "Approved provider quote, useful attributable Google review and confirmed official social handles",
+      "effect": "No effect on central answer or required explanation.",
+      "disposition": "optional_material_omit_and_prepare_later_comment"
+    },
+    {
+      "id": "D11",
+      "fact": "Whether Image Pro technology is used for lip assessment or has a relevant demonstrated benefit",
+      "effect": "No effect on central answer.",
+      "disposition": "optional_irrelevant_unless_supported"
+    },
+    {
+      "id": "D12",
+      "fact": "Current official credential verification and precise current appointment availability",
+      "effect": "No effect on mechanism; affects the correctness of provider-specific and booking promises.",
+      "disposition": "do_not_claim_external_verification_or_time_slots"
+    }
+  ],
+  "prepared_google_doc_comments": [
+    {
+      "id": "C1",
+      "kind": "required_fact",
+      "dependency_ids": [
+        "D2",
+        "D12"
+      ],
+      "anchor": {
+        "exact_quote": "[NEEDS INFORMATION: Confirm all current providers who perform lip flips and lip filler, their credentials, and which procedure each performs.]",
+        "markdown_line": 105,
+        "character_start": 8687,
+        "character_end": 8829
+      },
+      "text": "Alex: Please confirm the complete current lip-treatment provider roster, each name/role/credential, and who performs lip flips, lip filler, or both. The inspected booking provider steps for Dysport Lip Flip, Xeomin Lip Flip and Revanesse Lips showed only First Available/Estar Medspa, not a named clinician. General biographies do not establish procedure associations. Please supply or confirm the text that should replace this marker.",
+      "state": "prepared locally; not posted or sent"
+    },
+    {
+      "id": "C2",
+      "kind": "required_fact",
+      "dependency_ids": [
+        "D2"
+      ],
+      "anchor": {
+        "exact_quote": "[NEEDS INFORMATION: Add all confirmed relevant lip-treatment providers to this consultation invitation, with the correct procedure associations.]",
+        "markdown_line": 141,
+        "character_start": 10790,
+        "character_end": 10935
+      },
+      "text": "Alex: After confirming the provider roster in C1, please confirm which providers should be named in this consultation invitation and their procedure associations. This marker must be resolved before Ready for Review.",
+      "state": "prepared locally; not posted or sent"
+    },
+    {
+      "id": "C3",
+      "kind": "missing_customer_input",
+      "dependency_ids": [
+        "D1"
+      ],
+      "anchor": {
+        "exact_quote": "# What Is the Difference Between a Lip Flip and Lip Filler?",
+        "markdown_line": 1,
+        "character_start": 0,
+        "character_end": 59
+      },
+      "text": "Alex: Which primary/supporting keywords or queries led to Estar prompt 4? Please confirm intended reader/search goal/geography, any practical SEO/AEO distinction, and whether you want metadata. The current article uses the assigned comparison and natural Olney practice context; these are not supplied-keyword compliance. If your answer changes the premise, research/outline must be reconsidered.",
+      "state": "prepared locally; not posted or sent"
+    },
+    {
+      "id": "C4",
+      "kind": "product_wording_confirmation",
+      "dependency_ids": [
+        "D3",
+        "D4"
+      ],
+      "anchor": {
+        "exact_quote": "Ask for the exact product name before treatment.",
+        "markdown_line": 107,
+        "character_start": 8831,
+        "character_end": 8879
+      },
+      "text": "Alex: The website uses Botox lip flip, while the public booking menu lists Dysport Lip Flip and Xeomin Lip Flip. Please confirm current lip-flip formulations and preferred Estar wording. This draft makes only the class comparison and asks the reader to confirm the product; it does not promise named practice inventory. If a named Estar product assertion is required, insert a visible marker until confirmed. Please also confirm any lip-specific filler formulations you want named; the study example is not an inventory claim.",
+      "state": "prepared locally; not posted or sent"
+    },
+    {
+      "id": "C5",
+      "kind": "optional_material",
+      "dependency_ids": [
+        "D10"
+      ],
+      "anchor": {
+        "exact_quote": "Ask your clinician to look at your lips both at rest and as you smile or speak.",
+        "markdown_line": 27,
+        "character_start": 1911,
+        "character_end": 1990
+      },
+      "text": "Alex: An approved quote from a confirmed lip-treatment provider could add perspective here on evaluating lip position, fullness and movement. Please supply exact approved wording, attribution and role, if available. The current draft omits quotations.",
+      "state": "prepared locally; not posted or sent"
+    },
+    {
+      "id": "C6",
+      "kind": "optional_material",
+      "dependency_ids": [
+        "D10"
+      ],
+      "anchor": {
+        "exact_quote": "Call Estar MedSpa in Olney, MD, at 301-917-3870",
+        "markdown_line": 143,
+        "character_start": 10937,
+        "character_end": 10984
+      },
+      "text": "Alex: If useful here, please supply a genuine attributable Google review relevant to lip consultation or the patient experience, with exact text, reviewer attribution and source. It would illustrate experience, not establish medical efficacy or safety. Please also confirm official Facebook/Instagram handles if you want a relevant social resource added; no authenticated account or testimonial is included now.",
+      "state": "prepared locally; not posted or sent"
+    },
+    {
+      "id": "C7",
+      "kind": "optional_material",
+      "dependency_ids": [
+        "D5"
+      ],
+      "anchor": {
+        "exact_quote": "When contacting Estar, confirm the consultation terms and what is included in your treatment quote.",
+        "markdown_line": 95,
+        "character_start": 7830,
+        "character_end": 7929
+      },
+      "text": "Alex: Confirm current consultation terms and procedure fee basis if you want them included. Exact fees and free-consultation promises are omitted. Do not use an unrelated promotional snippet as a treatment quote.",
+      "state": "prepared locally; not posted or sent"
+    },
+    {
+      "id": "C8",
+      "kind": "optional_material",
+      "dependency_ids": [
+        "D6",
+        "D7"
+      ],
+      "anchor": {
+        "exact_quote": "If you have a wedding, trip, or other event coming up, say so before choosing a treatment date.",
+        "markdown_line": 63,
+        "character_start": 5083,
+        "character_end": 5178
+      },
+      "text": "Alex: A verified Estar lip-treatment aftercare/review policy could improve this section. Please supply current instructions, follow-up arrangements and event-planning advice if you want practice-specific detail. Any numerical expectations require evidence review; no fixed lip-flip timing or prescription-stopping advice is included.",
+      "state": "prepared locally; not posted or sent"
+    },
+    {
+      "id": "C9",
+      "kind": "optional_material",
+      "dependency_ids": [
+        "D9",
+        "D8"
+      ],
+      "anchor": {
+        "exact_quote": "Ask the clinician to explain whether each concern needs treatment and whether the plan would be staged.",
+        "markdown_line": 135,
+        "character_start": 10316,
+        "character_end": 10419
+      },
+      "text": "Alex: If Estar offers a selected-patient combined or staged lip-flip/filler plan, please confirm availability and the intended explanation. No Estar combination protocol or superiority claim is included; practice confirmation cannot itself establish medical superiority.",
+      "state": "prepared locally; not posted or sent"
+    },
+    {
+      "id": "C10",
+      "kind": "optional_material",
+      "dependency_ids": [
+        "D11"
+      ],
+      "anchor": {
+        "exact_quote": "Estar's website describes individual consultation, treatment planning, and follow-up.",
+        "markdown_line": 99,
+        "character_start": 8055,
+        "character_end": 8140
+      },
+      "text": "Alex: If Image Pro has a documented role in lip assessment, please supply that role and supporting information if useful to this article. It is omitted because the current evidence does not connect it to lip consultations or better outcomes.",
+      "state": "prepared locally; not posted or sent"
+    }
+  ],
+  "comment_anchor_limit": "Exact local Markdown quote, line and Unicode code-point offsets. Convert/re-anchor in delivered Google Doc and verify; these are not Google Docs API indices or posted comments.",
+  "link_rechecks": [
+    {
+      "url": "https://estarmedspa.com/services/botox-lip-flip-olney-maryland/",
+      "method": "web extraction reopen",
+      "result": "content returned; cached extraction, not live HTTP/browser navigation"
+    },
+    {
+      "url": "https://estarmedspa.com/services/lip-filler-in-olney-maryland/",
+      "method": "web extraction reopen",
+      "result": "content returned; cached extraction, not live HTTP/browser navigation"
+    },
+    {
+      "url": "https://estarmedspa.com/services/botox-olney-maryland/",
+      "method": "web extraction reopen",
+      "result": "content returned; cached extraction, not live HTTP/browser navigation"
+    },
+    {
+      "url": "https://estarmedspa.com/services/juvederm-olney-maryland/",
+      "method": "web extraction reopen",
+      "result": "content returned; cached extraction, not live HTTP/browser navigation"
+    },
+    {
+      "url": "https://estarmedspa.com/contact/",
+      "method": "web extraction reopen",
+      "result": "content returned; cached extraction, not live HTTP/browser navigation"
+    },
+    {
+      "url": "https://estarmedspa.com/about/",
+      "method": "web extraction reopen",
+      "result": "content returned; cached extraction, not live HTTP/browser navigation"
+    },
+    {
+      "url": "https://www.fda.gov/medical-devices/aesthetic-cosmetic-devices/dermal-fillers-soft-tissue-fillers",
+      "method": "web extraction reopen",
+      "result": "content returned; cached extraction, not live HTTP/browser navigation"
+    },
+    {
+      "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ccdc3aae-6e2d-4cd0-a51c-8375bfee9458",
+      "method": "web extraction reopen",
+      "result": "content returned; cached extraction, not live HTTP/browser navigation"
+    },
+    {
+      "url": "https://www.rxabbvie.com/pdf/juvederm-ultra-xc_lip_pt_lb.pdf",
+      "method": "web extraction reopen",
+      "result": "content returned; cached extraction, not live HTTP/browser navigation"
+    },
+    {
+      "url": "https://www.rxabbvie.com/pdf/juvederm-volbella_lp_aug_pr_ln_pt_lb.pdf",
+      "method": "web extraction reopen",
+      "result": "content returned; cached extraction, not live HTTP/browser navigation"
+    }
+  ],
+  "cold_exposure_log": [
+    "Read only own stage artifacts, current governing docs/full writing guide, allowed practice/service/contact/about pages and previously used primary labels/regulator guidance.",
+    "Permitted pages exposed Blog/navigation and service educational text; no Blog or completed assigned article opened or followed.",
+    "No new Google or social queries; earlier incidental Estar Instagram/directory exposure stays documented in stage 4.",
+    "No other thread, root research, Dontage example or completed writer reference opened."
+  ],
+  "historical_preservation": {
+    "files_checked": 21,
+    "all_sha256_unchanged": true,
+    "included": "all baseline docs/AGENTS and own earlier article artifacts, including provider-booking-followup.json"
+  },
+  "prototype_limits": [
+    "Local agent/tool orchestration with reproducible article-specific checks; no unattended or production pipeline implemented.",
+    "Same-agent editorial/evidence/dependency judgments lack independent review/calibrated validation; a reliability pass is not established.",
+    "Readability uses transparent heuristic syllable counting; counts do not establish quality or medical safety.",
+    "No Google Doc rendering/content-preservation/comment verification or Sheet status update; Drive dependency remains deferred.",
+    "Required facts prevent Ready for Review/Accepted; Alex review/acceptance pending."
+  ],
+  "artifact_hashes": {
+    "writing-rules.json": "ffa8d2f3d5a9d8b54eff81de021184c72dedd0609339a9c2c8dd6d88ad1e1d92",
+    "outline.json": "c47b87cc2e77cfc8455165bd7ed0450add23f26fb0d0be27afd21bce84cf0a94",
+    "first-draft.md": "dd9754b1be9838890329ddd05dbfc5057e70b059b66e0d66ed75b91f96f27fa0",
+    "revised-article.md": "c39c93b982c40e4f7417db7f55523bc158e1eaaba47f7a61ed506568fa7c47c7",
+    "check-article.py": "d9ed17425ee62478dd77147ca01b315fe2b9070eecdcb544eec0d3e5ae3e0a15",
+    "first-draft-checks.json": "906c9d634847d18f181b1479b482cedf51f28f6539d89d1bf05a498e8cd1113b",
+    "final-checks.json": "4c6851a004daaf50e8b37bd9ad74a3c1b8b4b0bb644c2ed1ec8bc285124793ae"
+  }
+}

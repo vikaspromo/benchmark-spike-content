@@ -1,0 +1,40 @@
+{
+  "article_id": "estar-04-cold",
+  "recorded_date": "2026-10-06",
+  "timezone": "America/New_York",
+  "scope": "Operator-authorized follow-up to check provider associations beyond the public service menu. Supplements stage 4 without replacing historical inputs.",
+  "source": {
+    "url": "https://web2.myaestheticspro.com/BN/index.cfm?09A34384BD8ADA8F126181374535D729",
+    "surface": "Live Estar AestheticsPro booking flow in Codex in-app browser",
+    "method": "Selected each treatment individually and advanced to Select Provider; inspected rendered provider choices. For Revanesse Lips, also selected the practice-level provider label and inspected Select Time."
+  },
+  "observations": [
+    {
+      "service": "Dysport Lip Flip",
+      "provider_choices": ["First Available", "Estar Medspa"],
+      "individual_clinician_named": false
+    },
+    {
+      "service": "Xeomin Lip Flip",
+      "provider_choices": ["First Available", "Estar Medspa"],
+      "individual_clinician_named": false
+    },
+    {
+      "service": "Revanesse Lips",
+      "provider_choices": ["First Available", "Estar Medspa"],
+      "individual_clinician_named": false,
+      "time_step": "Calendar and appointment times appeared under Estar Medspa, with no individual clinician name. No date or time was selected."
+    }
+  ],
+  "result": "The inspected treatment-to-provider steps do not establish individual clinician associations. They expose a practice-level booking resource only.",
+  "limits": [
+    "This is not an exhaustive test of every filler menu item.",
+    "A practice-level resource does not identify the treating person or establish the complete injector roster.",
+    "The observed product-specific filler menu choice is not a clinical assessment or a guarantee of stock or availability."
+  ],
+  "effect_on_stage_4_dependency_D2": "Provider attribution remains unresolved after this additional supported acquisition route. Keep general website-supported injectable biographies separate from procedure-specific associations. If naming individual lip-treatment providers in the article, ask Alex to confirm which providers perform each procedure.",
+  "question_for_alex": "Which current providers perform lip flips and lip filler? The booking flow lists only First Available or Estar Medspa for the inspected treatments. Please confirm the relevant names, roles and procedure associations for this article.",
+  "questions_sent": false,
+  "external_actions": "No personal or payment data entered, no appointment time selected, and no appointment request submitted.",
+  "cold_boundary": "Only the public booking portal was inspected; no Estar blog or completed article was opened."
+}

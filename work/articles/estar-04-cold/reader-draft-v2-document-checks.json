@@ -1,0 +1,13 @@
+{
+  "article_sha256": "e42488676d02e8a55d896f073375dc3f6a16dc6d29ce52cfa26a8b0d17d8b098",
+  "docx_sha256": "cf6919591ef8e35f0f22210785e74e1f1de734bf715d81aacf5a97085f058ae0",
+  "content_match": "PASS",
+  "paragraphs": 51,
+  "links": 7,
+  "comment_text_and_anchors": "PASS",
+  "comment_count": 6,
+  "rendered_pages": 4,
+  "visual_review": "All four final pages inspected; no clipping, missing glyphs or orphan headings. Closing practice section kept together.",
+  "title_sanitizer": "PASS; title style border removed before rendering.",
+  "limits": "Local document verification only; no Google Docs import or customer acceptance."
+}

@@ -1,6 +1,6 @@
 # BMP CONTENT WRITER GUIDE
 
-Source: [BMP CONTENT WRITER GUIDE 2026-V3.pdf](../imports/seo-aeo/BMP%20CONTENT%20WRITER%20GUIDE%202026-V3.pdf), 16 pages.
+Source: [BMP CONTENT WRITER GUIDE 2026-V3.pdf](BMP%20CONTENT%20WRITER%20GUIDE%202026-V3.pdf), 16 pages.
 
 Conversion note: All pages were extracted from the original PDF and checked against the rendered pages. Wording, examples, and links are preserved; page breaks and list symbols are normalized for Markdown.
 

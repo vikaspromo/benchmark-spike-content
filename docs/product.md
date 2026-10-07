@@ -2,7 +2,7 @@
 
 Product owns system purpose and scope. It defines why the content production product exists and the assignment and system boundaries within which it operates.
 
-Read Product when determining whether a proposed capability or scope change belongs within the product’s scope. User Design owns product-user behavior, language and voice; Data Model owns record meanings, identity and validity; Architecture owns component responsibilities, processing and serving; Engineering owns implementation discipline and verification; Release owns deployment and recovery; AGENTS owns agent responsibilities, authorization and governing-document changes.
+Read Product when determining whether a proposed capability or scope change belongs within the product’s scope. User Design owns product-user behavior, language and voice; Writing Standards owns article content and writing standards; Data Model owns record meanings, identity and validity; Architecture owns component responsibilities, processing and serving; Engineering owns implementation discipline and verification; Release owns deployment and recovery; AGENTS owns agent responsibilities, authorization and governing-document changes.
 
 Product establishes the system’s purpose and scope boundaries. The other governing documents define the experience, records, component behavior, verification and delivery that fulfill them.
 
@@ -18,6 +18,6 @@ The product starts with the assigned articles. Alex’s keyword research, third-
 
 ## Assignment Scope
 
-The product supports both long-form SEO articles and long-form AEO articles. The initial workload comprises 52 articles: 22 for DC Derm Docs, 22 for La-Mon’e Aesthetics, and eight for Estar MedSpa. [Assignment](assignment.md) contains the topics and assignment requirements.
+The product supports both long-form SEO articles and long-form AEO articles. The initial workload comprises 52 articles: 22 for DC Derm Docs, 22 for La-Mon’e Aesthetics, and eight for Estar MedSpa. The [archived assignment](../sources/seo-aeo/assignment.md) contains the supplied topics and client instructions. [Writing Standards](writing-standards.md) consolidates the active content and writing requirements.
 
-[User Design](userdesign.md#article-content-and-writing-standards) owns the article content and writing requirements. Its [Review, Revision, and Writing Feedback](userdesign.md#review-revision-and-writing-feedback) section defines customer review and acceptance.
+[Writing Standards](writing-standards.md) owns article content and writing requirements. [User Design](userdesign.md#review-revision-and-writing-feedback) defines customer review and acceptance.

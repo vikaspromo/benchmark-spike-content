@@ -1,0 +1,29 @@
+{
+  "comments": [
+    {
+      "anchor": "[NEEDS INFORMATION: Confirm which current providers perform lip flips and lip filler, and add the appropriate provider names to the consultation invitation.]",
+      "text": "Alex: Please confirm all current lip-treatment providers and which procedure each performs. The booking provider step showed only First Available or Estar Medspa for the inspected treatments. Replace this marker with the correct procedure associations and name the appropriate providers in the consultation invitation."
+    },
+    {
+      "anchor": "What Is the Difference Between a Lip Flip and Lip Filler?",
+      "text": "Alex: Please supply the primary and supporting keywords, intended search goal and geography, and any metadata requirements for Estar prompt 4. The assigned comparison title is preserved. Keyword compliance remains uncheckable; a different reader goal may require further revision."
+    },
+    {
+      "anchor": "The exact formulation matters: a filler designed for another part of the face should not be assumed suitable for lips.",
+      "text": "Alex: Please confirm current lip-filler formulations if you want them named. The website describes Juv\u00e9derm Ultra XC and Volbella XC, but current lip-specific stock and use remain unconfirmed. Also confirm lip-flip product wording: the website says Botox lip flip, while the booking menu lists Dysport and Xeomin. The article uses treatment-class explanations and makes no exact inventory promise."
+    },
+    {
+      "anchor": "Describe what you want to keep as clearly as what you want to change.",
+      "text": "Alex: An approved quote from a confirmed lip-treatment provider could add useful perspective here on planning a subtle change while preserving the patient's familiar features. Please provide exact approved wording and attribution if available. No quote has been invented or included."
+    },
+    {
+      "anchor": "Estar's current prices should come from the practice.",
+      "text": "Alex: Current lip-treatment fees, consultation terms and the fee basis could make this comparison more useful. Please supply them if you want exact prices or consultation terms included. Unsupported prices and a free-consultation promise are omitted."
+    },
+    {
+      "anchor": "To discuss your options at Estar MedSpa in Olney, MD, call 301-917-3870",
+      "text": "Alex: If useful for the consultation invitation, please supply a genuine attributable review about lip treatment or consultation, with exact text, reviewer attribution and source. Confirm official social handles if a relevant social resource should be included. No review or unconfirmed social account is included."
+    }
+  ],
+  "state": "Prepared locally; no Google Doc comments or external questions posted."
+}

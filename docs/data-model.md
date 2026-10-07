@@ -2,7 +2,7 @@
 
 Data Model owns record meanings, identity and validity. It defines which records remain distinct, what their fields mean, which representations are valid, and how provenance and history are preserved.
 
-Read the sections governing the affected records, relationships and responses. Product owns system purpose and scope; User Design owns product-user behavior, language and voice; Architecture owns component responsibilities, processing and serving; Engineering owns implementation discipline and verification; Release owns deployment and recovery; AGENTS owns agent responsibilities, authorization and governing-document changes.
+Read the sections governing the affected records, relationships and responses. Product owns system purpose and scope; User Design owns product-user behavior, language and voice; Writing Standards owns article content and writing standards; Architecture owns component responsibilities, processing and serving; Engineering owns implementation discipline and verification; Release owns deployment and recovery; AGENTS owns agent responsibilities, authorization and governing-document changes.
 
 Data Model defines the information and constraints those owners use. Architecture defines how records are created, updated and served; User Design defines what product users receive.
 

@@ -312,13 +312,3 @@ Peter
 *Managing Director*  
 *Benchmark **Medical** Partners* <https://benchmarkmedicalpartners.com/>  
 m: 240-418-2413
-
-## Follow-Up Questions for Alex
-
-These questions remain open pending Alex’s response.
-
-1. What keywords or search queries led to each article assignment, identified by client and prompt number? Which is the primary keyword? If an assignment was not selected from keywords or search queries, how was the topic chosen, and what reader question or goal should it address? This context could guide the research approach. The style guide calls for the primary keyword in the article and its meta title and meta description, but this assignment supplies titles without explicit primary keywords. Should we also draft a proposed meta title and meta description for each article using the keywords you provide?
-
-2. How do Benchmark’s writers distinguish SEO articles from AEO articles in practice? The assignment labels them separately, but the style guide does not explain a different writing approach, and the assignment asks every article to support both SEO and AEO discovery. What should change in research, structure, content, or review criteria based on the label? Can you provide an example of each and explain the differences you expect?
-
-3. Can you confirm that articles may be delivered directly to you after substantial editing, fact checking, and verification, with your customer review providing human review after delivery? The style guide requires human review before submission; the proposed workflow has no human review before delivery.

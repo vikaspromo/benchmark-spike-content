@@ -1,0 +1,240 @@
+{
+  "article_id": "estar-04-cold",
+  "recorded_date": "2026-10-06",
+  "timezone": "America/New_York",
+  "scope": "Cold test of Understand the Assignment, Understand the Practice, and Plan the Research only.",
+  "stage": "Understand the Practice",
+  "evidence_rule": "Website-supported means the permitted practice pages publish this information. It does not mean external credential checks, medical verification or current appointment availability have been completed.",
+  "findings": [
+    {
+      "id": "P1",
+      "classification": "website_supported",
+      "finding": "Practice name appears as Estar MedSpa & Innovative Health Center; assignment client name remains Estar MedSpa.",
+      "source_ids": [
+        "S2",
+        "S7",
+        "S8"
+      ],
+      "locator": "About introduction; service CTAs",
+      "limits": "Retain assignment identity separately from website styling."
+    },
+    {
+      "id": "P2",
+      "classification": "website_supported",
+      "finding": "Homepage lists 3300 Olney Sandy Spring Rd #140, Olney, MD 20832; telephone 301-917-3870 and email info@estarmedspa.com.",
+      "source_ids": [
+        "S1"
+      ],
+      "locator": "Contact Us; Our Location",
+      "limits": "One listed physical location; no complete location inventory or assigned target geography established."
+    },
+    {
+      "id": "P3",
+      "classification": "website_supported",
+      "finding": "Homepage describes individualized consultation, treatment planning and follow-up with an emphasis on natural appearance.",
+      "source_ids": [
+        "S1"
+      ],
+      "locator": "About Us; How We Work",
+      "limits": "Published approach, not a guarantee or independently demonstrated differentiator."
+    },
+    {
+      "id": "P4",
+      "classification": "website_supported",
+      "finding": "Estar explicitly advertises Botox lip flips and customized lip-filler treatments on separate service pages.",
+      "source_ids": [
+        "S7",
+        "S8"
+      ],
+      "locator": "Final practice consultation CTAs",
+      "limits": "Services advertised; current stock, exact products, appointments and individual treatment suitability remain unknown."
+    },
+    {
+      "id": "P5",
+      "classification": "website_supported",
+      "finding": "Website names Dr. Mimi P. Martins as medical director/co-owner and describes her as a board-certified family medicine physician with injectable practice.",
+      "source_ids": [
+        "S2"
+      ],
+      "locator": "Dr. Mimi P. Martins",
+      "limits": "Do not relabel her as a dermatologist or plastic surgeon. Exact lip-treatment responsibilities and current credentials have not been independently confirmed."
+    },
+    {
+      "id": "P6",
+      "classification": "website_supported",
+      "finding": "Website names Nana Mensah as proprietor and lead aesthetic nurse practitioner, reports FNP board certification through AANP, and associates her with neurotoxins and dermal fillers.",
+      "source_ids": [
+        "S2"
+      ],
+      "locator": "Nana Mensah",
+      "limits": "General injectable association does not prove that she performs both lip services or is currently bookable."
+    },
+    {
+      "id": "P7",
+      "classification": "website_supported",
+      "finding": "Asha Rayner is listed with MSN, RN, LE.",
+      "source_ids": [
+        "S2"
+      ],
+      "locator": "Asha Rayner roster entry",
+      "limits": "No lip-injection association established. Do not treat every team member as an injector."
+    },
+    {
+      "id": "P8",
+      "classification": "website_supported",
+      "finding": "Injectables page lists Botox and Juvéderm products; Juvéderm page describes Ultra XC and Volbella XC for lip-related uses.",
+      "source_ids": [
+        "S3",
+        "S5"
+      ],
+      "locator": "Treatment cards; What Are the Different Types of Juvederm?",
+      "limits": "Published product context; lip-specific approved uses and current inventory require confirmation. Other facial fillers are not assumed suitable for lips."
+    },
+    {
+      "id": "P9",
+      "classification": "website_supported",
+      "finding": "Injectables page mentions Image Pro 3D Skin Imaging Analysis.",
+      "source_ids": [
+        "S3"
+      ],
+      "locator": "Introduction",
+      "limits": "No evidence it is used for lip consultations or improves lip outcomes; omit unless relevance is later established."
+    },
+    {
+      "id": "P10",
+      "classification": "website_supported",
+      "finding": "Contact page points to AestheticsPro; lip service CTAs also expose a scheduling link.",
+      "source_ids": [
+        "S6",
+        "S7",
+        "S8"
+      ],
+      "locator": "Contact CLICK HERE; schedule links",
+      "limits": "Link destinations observed only. Booking interface, live appointment inventory, provider selection and consultation fees were not accessed or tested."
+    },
+    {
+      "id": "P11",
+      "classification": "website_supported",
+      "finding": "Live footers exposed Facebook and Instagram URLs ending in /%20.",
+      "source_ids": [
+        "S1",
+        "S6",
+        "S7"
+      ],
+      "locator": "Live footer social icons",
+      "limits": "These do not establish official account handles. Social profiles were not opened."
+    },
+    {
+      "id": "P12",
+      "classification": "website_claim_pending_verification",
+      "finding": "Lip-flip page describes muscle relaxation without adding lip size; filler page describes volume from injectable gel.",
+      "source_ids": [
+        "S7",
+        "S8"
+      ],
+      "locator": "Treatment descriptions",
+      "limits": "Starting comparison claims only; verify mechanism and anatomical distinctions with authoritative evidence."
+    },
+    {
+      "id": "P13",
+      "classification": "website_claim_pending_verification",
+      "finding": "Botox overview suggests immediate early effects; dedicated lip-flip page says onset is delayed.",
+      "source_ids": [
+        "S4",
+        "S7"
+      ],
+      "locator": "Lip flip/results sections; When Will I See a Botox Lip Flip Results?",
+      "limits": "Unresolved source conflict. Do not select one onset claim without further evidence."
+    },
+    {
+      "id": "P14",
+      "classification": "website_claim_pending_verification",
+      "finding": "Lip-flip page gives three-to-four-month persistence; lip-filler page gives six-to-12-month persistence.",
+      "source_ids": [
+        "S7",
+        "S8"
+      ],
+      "locator": "How Long ... Results Last?",
+      "limits": "Unverified numerical ranges; product, technique and patient variation need later investigation."
+    },
+    {
+      "id": "P15",
+      "classification": "website_claim_pending_verification",
+      "finding": "Lip-flip page uses comparative affordability/naturalness claims and a broad over-21 candidate statement.",
+      "source_ids": [
+        "S7"
+      ],
+      "locator": "Why Choose ...; Am I a Good Candidate ...",
+      "limits": "Not proof of superiority, Estar prices, a universal age rule or medical eligibility."
+    },
+    {
+      "id": "P16",
+      "classification": "website_claim_pending_verification",
+      "finding": "Lip-filler page uses broad safety, recovery and dissolution language.",
+      "source_ids": [
+        "S8"
+      ],
+      "locator": "Skin types; recovery; candidacy",
+      "limits": "Do not promise universal safety, no meaningful restrictions or guaranteed reversibility; verify limitations later."
+    },
+    {
+      "id": "P17",
+      "classification": "website_claim_pending_verification",
+      "finding": "Injectables overview says Xeomin adds volume.",
+      "source_ids": [
+        "S3"
+      ],
+      "locator": "XEOMIN card",
+      "limits": "Potential treatment-category error affecting the comparison; verify later, do not adopt as a medical fact."
+    }
+  ],
+  "relevant_links": [
+    {
+      "purpose": "Lip-flip service / educational context",
+      "source_id": "S7",
+      "url": "https://estarmedspa.com/services/botox-lip-flip-olney-maryland/"
+    },
+    {
+      "purpose": "Lip-filler service / educational context",
+      "source_id": "S8",
+      "url": "https://estarmedspa.com/services/lip-filler-in-olney-maryland/"
+    },
+    {
+      "purpose": "Related Botox service",
+      "source_id": "S4",
+      "url": "https://estarmedspa.com/services/botox-olney-maryland/"
+    },
+    {
+      "purpose": "Related Juvéderm service",
+      "source_id": "S5",
+      "url": "https://estarmedspa.com/services/juvederm-olney-maryland/"
+    },
+    {
+      "purpose": "Relevant provider information",
+      "source_id": "S2",
+      "url": "https://estarmedspa.com/about/#team"
+    },
+    {
+      "purpose": "Contact CTA",
+      "source_id": "S6",
+      "url": "https://estarmedspa.com/contact/"
+    },
+    {
+      "purpose": "Homepage/contact scheduling destination observed; unopened",
+      "source_id": "S6",
+      "url": "https://web2.myaestheticspro.com/BN/index.cfm?09A34384BD8ADA8F126181374535D729"
+    },
+    {
+      "purpose": "Service scheduling destination observed; unopened",
+      "source_id": "S7",
+      "url": "https://web2.myaestheticspro.com/booknow/index.cfm?09A34384BD8ADA8F126181374535D729"
+    }
+  ],
+  "missing_practice_facts": [
+    "U3",
+    "U4",
+    "U5"
+  ],
+  "hypothesis_review": "Practice evidence supports retaining the brief's single working reader/purpose hypothesis. No assignment title or SEO label changed.",
+  "exit_assessment": "Article-specific practice context and source-linked limits are recorded. This is not a full client inventory, a verified medical comparison or proof of current booking availability."
+}

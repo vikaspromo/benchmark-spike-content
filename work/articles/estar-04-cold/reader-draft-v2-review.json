@@ -1,0 +1,52 @@
+{
+  "article_id": "estar-04-cold",
+  "version": "reader-draft-v2",
+  "recorded_date": "2026-10-06",
+  "timezone": "America/New_York",
+  "article_sha256": "e42488676d02e8a55d896f073375dc3f6a16dc6d29ce52cfa26a8b0d17d8b098",
+  "status": "Needs Information",
+  "purpose": "New draft after Vikas identified poor reader usefulness and word-count padding in the previous version. Earlier files are retained for comparison; this file does not establish governing requirements.",
+  "reader": "Adult considering lip enhancement, comparing options before an Estar consultation; inherited working hypothesis, not customer-supplied intent.",
+  "section_value_review": [
+    {"section": "Introduction", "reader_value": "States the difference immediately and identifies concrete concerns: fullness at rest, upper-lip movement and definition."},
+    {"section": "What a Lip Flip Can Change", "reader_value": "Explains why upper-lip visibility differs from adding fullness, when that distinction matters, the limit of a flip, gummy-smile distinction and off-label use."},
+    {"section": "What Lip Filler Can Change", "reader_value": "Explains volume and shape goals, conservative planning and the importance of formulation; adds a specific hypothetical goal instead of generic consultation advice."},
+    {"section": "Will a Lip Flip Look More Natural Than Filler", "reader_value": "Addresses the common fear of an oversized result and shows why choosing a subtle treatment is different from choosing a treatment that fits the goal."},
+    {"section": "What Happens During Treatment and Recovery", "reader_value": "Describes injections, numbing, early swelling versus settled appearance, approximate developing effect, oral-function tradeoffs and event planning."},
+    {"section": "How Long Do the Results Last", "reader_value": "Gives qualified concrete expectations from clinical guidance and lip-specific labeling; connects maintenance to time and cost."},
+    {"section": "How to Compare the Cost Without Choosing the Wrong Treatment", "reader_value": "Explains what to compare in a quote without inventing current Estar prices."},
+    {"section": "The Risks and What Happens if You Dislike the Result", "reader_value": "Groups common tradeoffs, urgent symptoms and reversal limits into one bounded section instead of repeatedly interrupting the comparison."},
+    {"section": "Choosing a Lip Treatment at Estar MedSpa", "reader_value": "Adds supported team context, a single required-provider marker and a direct local consultation invitation."}
+  ],
+  "evidence": [
+    {"claims": "Mechanisms, lip visibility versus volume, temporary effect and gummy-smile distinction", "sources": ["stage-4 M2–M4, M6–M9 and M13"], "limits": "No head-to-head superiority or individual treatment suitability claim."},
+    {"claims": "Different filler goals, conservative fullness and formulation distinctions", "sources": ["stage-4 M6–M9; Cleveland Clinic lip-fillers patient guidance"], "limits": "Hypothetical goal example is illustrative, not a testimonial or promise of an outcome."},
+    {"claims": "Needle discomfort, topical numbing and early swelling", "sources": ["Cleveland Clinic lip-fillers guidance; Ultra XC lip patient labeling"], "limits": "No painless-treatment promise, fixed appointment length or Estar-specific protocol."},
+    {"claims": "Common Ultra XC reactions usually lasted two weeks or less", "sources": ["https://www.rxabbvie.com/pdf/juvederm-ultra-xc_lip_pt_lb.pdf, section 7"], "limits": "Product-specific study observation; persistent reactions possible. Reopened October 6, 2026."},
+    {"claims": "Visible lip-flip change after about a week; roughly two-to-five-month duration estimate", "sources": ["https://my.clevelandclinic.org/health/treatments/22362-lip-flip, Recovery and Outlook / How long does a lip flip last"], "limits": "Medically reviewed clinical patient guidance, last updated February 4, 2022; full page read October 6, 2026. Estimate attributed to Cleveland Clinic, not a trial-derived universal interval or exact Estar regimen. Small 2026 study and competing ranges still establish uncertainty; stronger comparison evidence has not been found."},
+    {"claims": "Ultra XC/Volbella lip effects through about a year for many participants, with touch-up conditions", "sources": ["https://www.rxabbvie.com/pdf/juvederm-ultra-xc_lip_pt_lb.pdf, sections 5–6", "https://www.rxabbvie.com/pdf/juvederm-volbella_lp_aug_pr_ln_pt_lb.pdf, clinical study/benefits"], "limits": "Both labels reopened October 6, 2026. No universal filler range or current Estar inventory promise."},
+    {"claims": "Oral-function effects, vascular complications, urgent symptoms, suitability and off-label status", "sources": ["stage-4 M1–M5, M8–M9 and M11–M12"], "limits": "No comparative complication rates, guarantees or risk-free claim; general label warnings remain distinct from common lip-specific effects."},
+    {"claims": "HA dissolution and toxin wearing-off distinction", "sources": ["stage-4 M1–M2 and M10"], "limits": "Clinical consensus; no guaranteed reversal or emergency rescue claim."},
+    {"claims": "Estar services, provider roles and credentials, location and phone", "sources": ["stage-1/2 S1–S8; stage-4 V1–V4; provider-booking-followup.json; https://estarmedspa.com/about/ reopened October 6, 2026"], "limits": "Biographies do not establish individual lip-procedure associations or independently verified credentials. Marker remains."},
+    {"claims": "Quote contents, repeat-treatment costs and specific goals as consultation tools", "sources": ["Reasoning from supported treatment mechanisms and maintenance differences"], "limits": "Decision aids, not invented price data or medical recommendations."}
+  ],
+  "additional_sources": [
+    {"url": "https://my.clevelandclinic.org/health/treatments/22362-lip-flip", "type": "medically_reviewed_patient_guidance", "last_updated": "2022-02-04", "use": "Limited approximate onset/duration and treatment-experience context.", "excluded_claims": "No automatic naturalness/safety superiority, drug-unit guidance, medication-stopping instructions or universal aftercare rules adopted."},
+    {"url": "https://my.clevelandclinic.org/health/treatments/22133-lip-fillers", "type": "medically_reviewed_patient_guidance", "last_updated": "2021-12-01", "use": "Limited procedural/numbing and shape-goal context.", "excluded_claims": "No universal 12–18-month range, no painless guarantee, no guaranteed dissolution or blanket provider-category claim adopted."}
+  ],
+  "editorial_assessment": {
+    "method": "Coordinating agent authored and reread the complete new draft as a prospective patient; each section was checked for a distinct question, useful answer, evidence and repeated material. No independent reader test or validated judge.",
+    "changes": ["Removed repeated FAQ explanations and broad consultation-question lists.", "Reduced risk content to one section and kept limitations beside the claims they qualify.", "Added concrete procedure and timing information through further research instead of repeatedly deferring answers.", "Kept website/menu conflicts and optional content requests in comments.", "Used one consolidated provider marker instead of repeating the same missing fact."],
+    "remaining_judgments": "Reader usefulness, conversational quality and substantive value remain editorial judgments for evaluation; count and readability results do not establish article quality."
+  },
+  "verification": {
+    "report": "reader-draft-v2-checks.json",
+    "checker": "check-reader-draft-v2.py",
+    "supplied_keywords": "Unavailable; no passed keyword or metadata claim.",
+    "external_authority": "FDA regulator guidance and Cleveland Clinic academic medical-center patient education reviewed individually; the writing guide's preferred-source list is not exclusive.",
+    "markers": "One marker explicitly covers all required provider associations and the consultation invitation. The previous checker's literal expectation of two occurrences is not a requirement.",
+    "comments": "Six unique anchors verified in local article; Word conversion and Google Docs import need separate checks."
+  },
+  "cold_boundary": "No Estar blog or completed writer article opened for this rewrite. Only prior prototype artifacts, user feedback and additional authority/provider pages were used. The coordinating agent had previously disclosed exposure before the original fresh cold test; this rewrite is not claimed to be a new independently blind test.",
+  "delivery": "No Google Doc, external question, sharing, commit or push. Previous draft remains available; v2 is a local replacement candidate."
+}
