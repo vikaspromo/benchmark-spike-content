@@ -1,6 +1,6 @@
 # Writing Standards
 
-Writing Standards owns the research, content, evidence, structure, language, and formatting standards that assigned writing must satisfy. It defines required and conditional standards, applicability, and approved interpretations and exceptions.
+Writing Standards owns the research, reader persona, content, evidence, writing voice, structure, language, and formatting standards that assigned writing must satisfy. It defines required and conditional standards, applicability, and approved interpretations and exceptions.
 
 Read the sections governing the article and its missing inputs. Product owns system purpose and assignment scope; User Design owns product-user behavior, delivery, missing-information presentation, and customer review; Data Model owns record meanings and valid associations; Architecture owns the production flow; Engineering owns verification methods and evidence; Release owns deployment and recovery; AGENTS owns agent responsibilities, authorization, and governing-document changes.
 
@@ -23,9 +23,26 @@ Use the article's reader question to determine relevance. Preserve explicit requ
 
 An article-specific client instruction overrides the affected standard when the instruction explicitly requests a different treatment. Keep that override distinct from the general rule. Do not silently replace the assigned topic, invent requirements, or report an unavailable input as a passed check. Resolve ambiguous instructions with the operator or Alex as appropriate under AGENTS and User Design.
 
+## Reader Persona and Priorities
+
+Write for the target reader established from the assignment and practice context under [Architecture](architecture.md#understand-the-assignment). Reader persona means the reader's relevant knowledge, concern, purpose, and priorities. Do not assume every assignment addresses a patient; professional training articles must serve the medical professionals considering that training.
+
+For patient-facing articles, address a capable adult making a personal health or appearance decision who may lack clinical knowledge. Explain unfamiliar concepts without treating the reader as inexperienced in life. First-time treatment does not imply an unsophisticated reader.
+
+Give greatest attention to the question that brought the reader to the article and the information that helps answer it. Depending on the assignment, prioritize:
+
+- **Desired result:** What the treatment can change, what it cannot change, and how those distinctions relate to the reader's concern.
+- **Relevant tradeoffs:** Differences in results, risks, recovery, durability, repeat treatment, or cost that could affect the reader's choice.
+- **Confidence in the practice:** Supported details that explain the clinicians' relevant expertise, treatment approach, or patient experience.
+- **An appropriate next step:** What the reader can understand from the article and which personal decisions require assessment.
+
+These are priorities to select for the assigned question, not a mandatory outline. Adapt the depth of explanation to the reader's likely knowledge and decision stage. Do not invent demographics, emotions, previous treatment experiences, or preferences. Simple language must still convey useful substance; do not reduce the article to a sequence of obvious tips.
+
+The [writing voice](#writing-voice-introduction-and-structure) must serve this reader's needs. Persona determines whom the article serves and what matters to that reader; writing voice determines how the article communicates its explanations.
+
 ## Reader Answer and Substantive Content
 
-Answer the assigned question clearly, accurately, and thoroughly for the intended reader. Give supported explanations, practical expectations, and distinctions that help the reader understand the topic or make the decision the article addresses. Demonstrate familiarity with reader concerns, use trusted evidence, and avoid exaggerated claims or unsupported promises. Relevance, accuracy, useful explanations, and meaningful practice customization guide the selection and writing of content.
+Answer the assigned question clearly, accurately, and thoroughly for the intended reader under [Reader Persona and Priorities](#reader-persona-and-priorities). Give supported explanations, practical expectations, and distinctions that help the reader understand the topic or make the decision the article addresses. Demonstrate familiarity with reader concerns, use trusted evidence, and avoid exaggerated claims or unsupported promises. Relevance, accuracy, useful explanations, and meaningful practice customization guide the selection and writing of content.
 
 Explain what research can establish before referring the reader to a provider. Reserve consultation advice for individual suitability, a personal treatment plan, or another decision that needs individual assessment. Do not use repeated instructions to ask a provider in place of supported answers the article can give. Keep appropriate safety advice and individualized medical limits explicit.
 
@@ -58,17 +75,21 @@ Look for the following kinds of material. These are research opportunities, not 
 
 Include providers whose supported roles or expertise help explain the topic or consultation choice. Avoid focusing arbitrarily on one person when several are relevant, unless the prompt requires that individual. Relevant provider coverage does not require a complete practice roster or procedure-by-provider mapping. Confirm a procedure-provider association before making that claim; do not require the association when supported wording satisfies the article's purpose without it.
 
-## Voice, Introduction, and Structure
+## Writing Voice, Introduction, and Structure
 
-Use conversational language, active voice, clear explanations, natural transitions, and real-world examples when appropriate. Avoid repetitive wording, keyword stuffing, generic AI phrases, unnecessary technical language, long walls of text, excessive keyword bolding, and introductions that immediately start selling.
+Write as an informed health and aesthetics writer explaining the assigned topic and the practice to the intended reader. Be warm, direct, and assured, with the depth appropriate to [Reader Persona and Priorities](#reader-persona-and-priorities). Give the article an editorial point of view by explaining what matters and why through supported details and meaningful distinctions. Respect the reader's judgment; do not adopt the tone of a basic how-to script.
+
+Present supported practice information as part of the explanation. Make the practice, clinician, treatment, or patient experience the subject rather than routinely narrating what a website “says,” “lists,” or “describes.” Explain what a relevant feature means for the reader instead of reciting a catalogue of equipment, credentials, or services. Preserve attribution and uncertainty when needed under [Practice Research and Provider Coverage](#practice-research-and-provider-coverage) and [Medical Claims and Optional Supporting Material](#medical-claims-and-optional-supporting-material).
+
+Use conversational language, active voice, clear explanations, natural transitions, and real-world examples when appropriate. Develop connected explanations rather than repetitive fact lists, mechanical transitions, or closing statements that merely announce why the preceding paragraph was useful. Express necessary qualifications in plain language beside the points they qualify. The article must remain informative while meeting the existing safety and consultation requirements under [Reader Answer and Substantive Content](#reader-answer-and-substantive-content).
+
+Create warmth through attention to the reader's concerns and specific explanations. Avoid stock enthusiasm, inflated praise, a sales-script tone, repetitive wording, keyword stuffing, generic AI phrases, unnecessary technical language, long walls of text, excessive keyword bolding, and introductions that immediately start selling. Avoid generic phrases such as "In today's fast-paced world," "When it comes to," "Unlock the secrets," "Delve into," and "Game-changing." Do not copy content from competitors.
 
 Use the APP introduction framework whenever possible: agree with the reader's concern, introduce the solution or answer the article will explore, and preview what the reader will learn. This is a conditional framework, not a rigid sentence template or permission to promise medical outcomes.
 
 Use descriptive, specific, reader-focused headings that answer relevant questions. Organize content into logical H2 sections. Use a clear H1/H2/H3 hierarchy as needed; H3s and a separate FAQ block are conditional on improving organization or answering reader questions. Do not require every heading level or an FAQ block in every article.
 
 Keep paragraphs short; most should contain one or two sentences. Use bullets whenever possible to improve readability. Aim for a sixth- to ninth-grade reading level, short sentences, and easy scanning. These are readability expectations, not proof that a formula score establishes editorial quality.
-
-Avoid generic phrases such as "In today's fast-paced world," "When it comes to," "Unlock the secrets," "Delve into," and "Game-changing." Do not copy content from competitors.
 
 ## SEO, AEO, and Geography
 
@@ -119,6 +140,6 @@ AI may assist research, brainstorming, outlining, draft generation, and phone ch
 
 Existing approved product exception: Alex provides human review after delivery through User Design's customer review process. Human review is not required before delivery in this product version. Customer confirmation remains open in [Roadmap](roadmap.md#open-questions-for-alex). AI review does not establish human review or customer acceptance.
 
-Before delivery, verify the answer, accuracy, substantive length, readability, call to action, links, geography, AP formatting, Oxford commas, numbers, phone number, business name, headings, and short paragraphs. Check grammar and spelling, verify facts, complete a final proofread, and remove repetitive AI language. Engineering owns verification methods and evidence; Architecture runs the checks automatically as part of production.
+Before delivery, verify the answer, accuracy, substantive length, fit to the reader persona and priorities, writing voice, readability, call to action, links, geography, AP formatting, Oxford commas, numbers, phone number, business name, headings, and short paragraphs. Check grammar and spelling, verify facts, complete a final proofread, and remove repetitive AI language. Engineering owns verification methods and evidence; Architecture runs the checks automatically as part of production.
 
 Verify conditional requirements against their applicability and supporting evidence. Distinguish failed requirements, missing required inputs, unavailable optional material, and requirements that do not apply. Do not fail an article merely because an optional feature is absent. Writing Standards defines compliance; User Design defines permitted delivery with missing required facts and Alex's acceptance process.
