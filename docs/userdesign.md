@@ -8,13 +8,17 @@ Read the sections governing the affected user experience and follow references t
 
 Each article must address its assigned topic and follow the applicable company, client, and assignment requirements. [Assignment](assignment.md#long-form-seoaeo-content-standards) supplies the assignment-specific standards, and [Content Style Guide](content_style_guide.md) supplies the writing standards. Each article in the initial workload must contain at least 1,200 words of substantive content; this assignment minimum overrides the shorter lengths in the style guide.
 
+For this product version, Alex provides human review after delivery through the customer review process defined in [Review, Revision, and Writing Feedback](#review-revision-and-writing-feedback). This replaces the style guide’s requirement for human review before submission. Customer confirmation of this exception remains open in [Follow-Up Questions for Alex](assignment.md#follow-up-questions-for-alex).
+
 Articles must reflect the actual client practice, including relevant providers, credentials, services, locations, terminology, and writing preferences. [Data Model](data-model.md#client-information) defines the client-information distinctions and associations that articles must preserve.
 
 Claims, quotations, reviews, and links must have supporting evidence relevant to the article. Missing or conflicting client information must be made visible for resolution rather than filled with assumptions. The [Review, Revision, and Writing Feedback](#review-revision-and-writing-feedback) section defines how required facts and optional material are handled.
 
-[Architecture](architecture.md#client-research-and-evidence-use) defines the research requirements. [Engineering](engineering.md#article-verification) defines the editing and verification requirements before submission.
+[Assignment](assignment.md#long-form-seoaeo-content-standards) supplies the research requirements. [Architecture](architecture.md#article-production-flow) defines the production stages and their agreed research responsibilities. [Engineering](engineering.md#article-verification) defines the editing and verification requirements before submission.
 
 ## Assignment Delivery and Tracking
+
+The system prepares and delivers assigned articles directly to Alex without requiring Vikas to review or approve individual articles. Vikas can monitor assignment progress, delivered articles, and unresolved issues through the batch Sheet and article Docs.
 
 Each assignment batch has a Google Drive folder containing one subfolder per client and one Google Doc per article.
 

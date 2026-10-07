@@ -8,7 +8,7 @@ Engineering uses those governing requirements to establish implementation and ve
 
 ## Article Verification
 
-Before submission, fact check, edit, and obtain human review of each article, and verify its customization for the client. Never submit AI-generated content without substantial editing and verification, as required by the [Content Style Guide’s AI Usage Policy](content_style_guide.md#ai-usage-policy).
+Before delivery, fact check and edit each article, and verify its quality and customization for the client. Never deliver AI-generated content without substantial editing and verification. [User Design](userdesign.md#article-content-and-writing-standards) defines the applicable writing standards and the exception to pre-submission human review. Article verification must support direct delivery without requiring Vikas to review or approve individual articles.
 
 Use the [Content Style Guide’s Final Submission Checklist](content_style_guide.md#final-submission-checklist) to verify content, SEO, formatting, and quality control against the requirements owned by [User Design](userdesign.md#article-content-and-writing-standards). Apply the assignment minimum defined in User Design rather than the shorter lengths in the style guide.
 
