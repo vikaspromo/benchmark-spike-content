@@ -26,7 +26,7 @@ Identify claims implied by the title that need investigation, including superior
 
 Establish the practice context and find supported material useful to this article under [Writing Standards](writing-standards.md#content-types).
 
-Use the assignment brief to research relevant services, treatments, technology, providers, credentials, locations, practice approach, terminology, and differentiators on the client's website. Examine relevant text and images, including captions and text within images, using Writing Standards' material categories to guide the search. Find useful service, provider, educational, contact, and booking links, and investigate relevant practice claims from the brief.
+Use the assignment brief to research relevant services, treatments, technology, providers, credentials, locations, practice approach, terminology, and differentiators on the client's website. Review team and provider pages to establish useful provider context under [Writing Standards](writing-standards.md#medical-providers). Examine relevant text and images, including captions and text within images, using Writing Standards' material categories to guide the search. Find useful service, provider, educational, contact, and booking links, and investigate relevant practice claims from the brief.
 
 Keep source evidence and limits needed to use the findings accurately under [Data Model](data-model.md#article-research-material). Preserve correct provider associations and distinguish physical locations from article target geography and treatments from bookable appointments under [Client Information](data-model.md#client-information). A website image does not establish who or what it depicts; product-brand evidence does not establish every formulation or model.
 

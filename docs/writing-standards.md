@@ -24,11 +24,13 @@ Produce localized, treatment-specific education with useful subtopics, natural p
 
 ## Article Voice
 
-Write as an informed health and aesthetics writer explaining the assigned topic and the practice to the intended reader. Be warm, direct, and assured, with the depth appropriate to [Article Audience](#article-audience). Give the article an editorial point of view by explaining what matters and why through supported details and meaningful distinctions. Respect the reader's judgment; do not adopt the tone of a basic how-to script.
+Write as an informed health and aesthetics writer explaining the assigned topic and the practice to the intended reader. Be warm, direct, and assured, with the depth appropriate to [Article Audience](#article-audience). Explain what matters and why through supported details and meaningful distinctions. Respect the reader's judgment; do not adopt the tone of a basic how-to script.
 
-Present supported practice information as part of the explanation. Make the practice, clinician, treatment, or patient experience the subject of the sentence rather than routinely narrating what a website “says,” “lists,” or “describes.” Explain what a relevant feature means for the reader instead of reciting a catalogue of equipment, credentials, or services. Preserve attribution and uncertainty when needed under [Content Types](#content-types) and [Medical Claims](#medical-claims).
+Present supported practice information as part of the explanation. Make the practice, clinician, treatment, or patient experience the subject of the sentence rather than routinely narrating what a website “says,” “lists,” or “describes.” Explain what a relevant feature means for the reader instead of reciting a catalogue of equipment, credentials, or services. Preserve attribution and uncertainty under [Content Types](#content-types) and [Medical Claims](#medical-claims).
 
-Answer the reader's question directly and explain relevant facts clearly. Use conversational language, active voice, natural transitions, and real-world examples when appropriate. Develop connected explanations rather than repetitive fact lists, mechanical transitions, or closing statements that merely announce why the preceding paragraph was useful. Express necessary qualifications in plain language beside the points they qualify. Preserve the safety and consultation limits in [Medical Claims](#medical-claims).
+Answer the reader's question with concrete information. Explain available treatment facts, practical expectations, and relevant differences rather than repeatedly telling the reader what a good consultation or recommendation should explain. Reserve consultation advice for individual suitability and treatment planning under [Medical Claims](#medical-claims).
+
+Use conversational language, active voice, natural transitions, and real-world examples when appropriate. Each passage must develop the answer rather than restate a point already made. Combine repeated explanations and remove mechanical transitions or closing statements that merely announce why the preceding paragraph was useful. Keep necessary qualifications in plain language beside the claims they qualify.
 
 Create warmth through attention to the reader's concerns and specific explanations. Avoid stock enthusiasm, inflated praise, a sales-script tone, repetitive wording, keyword stuffing, generic AI phrases, unnecessary technical language, long walls of text, excessive keyword bolding, and introductions that immediately start selling. Avoid generic phrases such as "In today's fast-paced world," "When it comes to," "Unlock the secrets," "Delve into," and "Game-changing." Do not copy content from competitors.
 
@@ -50,7 +52,9 @@ Each section must address its heading and add distinct reader value. Every parag
 
 ### Readability
 
-Keep paragraphs short; most should contain one, two or three sentences. Use bullets whenever possible to improve readability. Aim for a sixth- to ninth-grade reading level, short sentences, and easy scanning while maintaining reader usefulness.
+Keep paragraphs short. Most body paragraphs must contain one or two sentences. Longer paragraphs must remain focused and easy to read. Aim for a sixth- to ninth-grade reading level, short sentences, and easy scanning while maintaining reader usefulness.
+
+Use bullets when parallel items are easier to scan or compare than prose, such as treatment options, preparation steps, risks, or package coverage. Use connected prose for explanations that depend on sequence or cause and effect. Keep each item's necessary qualifications with that item.
 
 ### Links
 
@@ -109,9 +113,9 @@ The following kinds of material can support practice customization; they are not
 
 ### Medical Providers
 
-Include medical providers when their confirmed roles or expertise help the reader understand the treatment or choose a consultation. When several providers are relevant, do not single out one without a reason unless the assignment names that person. The article does not need to list the whole team.
+Include providers whose confirmed roles or expertise help explain the treatment or guide the reader toward a consultation. When several providers are relevant, represent the team rather than defaulting to one person. Name providers in the closing CTA when doing so makes the invitation more useful. Attribute procedures only when supported by evidence.
 
-State that a provider performs a treatment only when source evidence confirms that association. Otherwise, describe the provider’s supported role or expertise without assigning the treatment to them. Do not require a list of who performs each procedure when the article can answer the reader’s question without it.
+Keep the focus on a specific provider when the assignment names that person. When evidence establishes a provider's role or expertise without confirming a treatment association, describe that role or expertise without assigning the treatment to them. The article does not need to list the whole team or identify who performs every procedure when it can answer the reader's question without that information.
 
 ### Geography
 

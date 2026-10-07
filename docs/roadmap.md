@@ -6,7 +6,21 @@ This document records the plan and progress for operator-authorized work. It doe
 
 These questions are for discussion, not current or optional production work. Record Alex's answers here. Propose a scope or governing-document change only if those answers establish work the operator wants to adopt.
 
-1. What keywords or search queries led to each article assignment, identified by client and prompt number? Which is the primary keyword? If an assignment was not selected from keywords or search queries, how was the topic chosen, and what reader question or goal should it address? This context could guide the research approach. The style guide calls for the primary keyword in the article and its meta title and meta description, but this assignment supplies titles without explicit primary keywords. Should we also draft a proposed meta title and meta description for each article using the keywords you provide?
+1. How are these article topics chosen, and what SEO keywords or search queries is each article intended to address?
+
+   Under “Primary Keyword,” the [original style guide](../sources/writing-standards/content_style_guide.md#primary-keyword) states:
+
+   > Include naturally in:
+   > - Title
+   > - First 100 words
+   > - At least one H2 heading
+   > - Meta title
+   > - Meta description
+   > - URL (when applicable)
+
+   The assignment supplies titles and reference URLs but does not identify primary keywords. For each client and prompt number, can you provide the primary keyword and any supporting terms or search queries used to select the topic? Should writers receive those terms or infer them from the title? If a topic was not selected from keyword research, how was it chosen, and what reader question or goal should it address? This context would help guide research and establish how to apply the quoted requirement.
+
+   Does this assignment also include drafting a meta title, meta description, and proposed URL, or are those handled separately during publication?
 
 2. How do Benchmark’s writers distinguish SEO articles from AEO articles in practice? The assignment labels them separately, but the style guide does not explain a different writing approach, and the assignment asks every article to support both SEO and AEO discovery. What should change in research, structure, content, or review criteria based on the label? Can you provide an example of each and explain the differences you expect?
 
