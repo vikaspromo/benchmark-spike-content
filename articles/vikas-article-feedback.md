@@ -110,4 +110,40 @@ Passage:
 
 > La-Mon’e's [patient gallery](https://www.lamoneaesthetics.com/gallery/) includes paired lip photographs. They offer a more relevant starting point than an unrelated social-media image because you can ask the practice about its own published work.
 
+### October 7, 2026 — Estar MedSpa, Prompt 4 — v001
+
+**Article:** [What Is the Difference Between a Lip Flip and Lip Filler?](estar-04/v001/article.md)
+
+**Present practice facts rather than describe website listings**
+
+Vikas's feedback, edited for clarity:
+
+Same feedback as for the other articles: do not frame the explanation around these treatments being listed on the practice's website. Present the relevant facts instead.
+
+Passage:
+
+> The useful question is what makes your lips look smaller than you would like. At Estar MedSpa & Innovative Health Center in Olney, MD, both treatments are listed services, so you can compare the options against your goal rather than choose from a name alone.
+
+**Same feedback on the lip flip explanation**
+
+Vikas's feedback, edited for clarity:
+
+The same feedback applies here: present the relevant facts rather than describe what the practice's service page says.
+
+Passage:
+
+> Estar's [Botox lip flip service](https://estarmedspa.com/services/botox-lip-flip-olney-maryland/) describes this as a muscle-relaxing approach rather than an increase in lip size. That distinction matters more than a general promise that one option looks more natural.
+
+**Caption should support the article**
+
+Vikas's feedback, edited for clarity:
+
+The same caption feedback from the other article applies here: turn the literal image description into a caption that supports the article.
+
+Caption:
+
+> Caption: Lip-filler example from Estar's before-and-after gallery. The source does not identify the product, amount, treating clinician, or time between photographs. Individual results vary.
+
+**Candidate for later discussion:** Vikas identified caption-writing instructions as a candidate for a Writing Standards update. This records the candidate; it does not authorize drafting or applying the update.
+
 For each observation, record the date, article and passage or image, the article version, and Vikas's feedback. Add a discussion outcome only when Vikas asks to discuss the observation or makes a decision. Do not infer an action from recording feedback.

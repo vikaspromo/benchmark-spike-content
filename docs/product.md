@@ -1,23 +1,23 @@
 # Content Production
 
-Product owns system purpose and scope. It defines why the content production product exists and the assignment and system boundaries within which it operates.
+Product defines why the content production product exists, the outcomes it must achieve, and the assignment and system boundaries within which it operates.
 
-Read Product when determining whether a proposed capability or scope change belongs within the product’s scope. User Design owns product-user behavior, language and voice; Writing Standards owns article content and writing standards; Data Model owns record meanings, identity and validity; Architecture owns component responsibilities, processing and serving; Engineering owns implementation discipline and verification; Release owns deployment and recovery; AGENTS owns agent responsibilities, authorization and governing-document changes.
-
-Product establishes the system’s purpose and scope boundaries. The other governing documents define the experience, records, component behavior, verification and delivery that fulfill them.
+[Writing Standards](writing-standards.md) owns article requirements. [User Design](userdesign.md) owns the operator and customer experience; [Architecture](architecture.md) owns the production flow; [Data Model](data-model.md) owns records and their meanings; [Engineering](engineering.md) owns implementation and verification; [Release](release.md) owns deployment and recovery. AGENTS owns agent responsibilities and governing-document changes.
 
 ## Purpose and Scope
 
-Enable Vikas to fulfill the assigned long-form SEO and AEO writing work for Benchmark Medical Partners with articles whose quality matches the work of Benchmark’s writers.
+Enable Vikas to fulfill Benchmark Medical Partners’ assigned long-form SEO and AEO writing work with articles whose quality matches the work of Benchmark’s writers.
 
-Vikas is the product user and the operator directing the agent’s work. He is the writer responsible for delivering the articles to Alex. Alex, a founder of Benchmark Medical Partners, is the customer who reviews and accepts the delivered articles.
+Vikas is the product user and the operator directing the agent’s work. He is the writer responsible for delivering the articles to Alex. Alex, a founder of Benchmark Medical Partners, is the customer who reviews and accepts them. The intended result is direct delivery to Alex without Vikas reviewing or approving each article, under [User Design](userdesign.md#assignment-delivery-and-tracking).
 
-The product starts with the assigned articles. Alex’s keyword research, third-party research tools and their data, and decisions about which articles to write are outside this version’s scope.
+Articles must answer the assigned reader’s main question with useful explanations, an informed writing voice, supported medical claims, and meaningful content specific to the practice. [Writing Standards](writing-standards.md) defines these requirements and the article’s structure, length, and conventions. Meeting measurable requirements alone does not establish article quality.
 
-[Benchmark](benchmark.md) records company context, including its 100+ clients and production of more than 1,000 pieces of content per month.
+The product must give Vikas confidence in delivery through evaluation of the completed article against its applicable requirements. [Architecture](architecture.md#evaluate-and-revise) owns the evaluation and revision flow; [Engineering](engineering.md#article-verification) owns the evidence needed to establish the result. Alex’s review and acceptance under [User Design](userdesign.md#review-revision-and-writing-feedback) determine whether the delivered articles meet the customer’s quality expectations.
+
+The product starts with supplied article assignments and covers their research, drafting, evaluation, revision, and customer delivery. Alex’s keyword research, his third-party research tools and data workflows, and decisions about which articles to commission remain outside this version’s scope.
+
+[Benchmark](benchmark.md) records company context, including its 100+ clients and production of more than 1,000 pieces of content per month. Those figures describe Benchmark’s operation; the current product scope is the assigned workload below.
 
 ## Assignment Scope
 
-The product supports both long-form SEO articles and long-form AEO articles. The initial workload comprises 52 articles: 22 for DC Derm Docs, 22 for La-Mon’e Aesthetics, and eight for Estar MedSpa. The [archived assignment](../sources/writing-standards/assignment.md) records the supplied topics and historical client instructions. It provides assignment context, not additional active writing standards. [Writing Standards](writing-standards.md) consolidates the active content and writing requirements.
-
-[Writing Standards](writing-standards.md) owns article content and writing requirements. [User Design](userdesign.md#review-revision-and-writing-feedback) defines customer review and acceptance.
+The initial workload comprises 52 long-form SEO and AEO articles: 22 for DC Derm Docs, 22 for La-Mon’e Aesthetics, and eight for Estar MedSpa.
