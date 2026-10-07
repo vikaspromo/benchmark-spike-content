@@ -1,8 +1,8 @@
 # Architecture
 
-Architecture defines how components work together to produce and maintain the content production product’s required outcomes. Each section establishes a distinct architectural responsibility. Read the sections governing the affected components and operations, and follow references to their dependencies.
+Architecture owns the production flow and component responsibilities that achieve [Product’s required outcomes](product.md#purpose-and-scope). It defines how research, drafting, the single evaluation and revision flow, and article delivery work together, including how missing inputs are handled.
 
-Product owns system purpose and scope; User Design owns product-user behavior, language and voice; Writing Standards owns article content and writing standards; Data Model owns record meanings, identity and validity; Engineering owns implementation discipline and verification; Release owns deployment and recovery; AGENTS owns agent responsibilities, authorization and governing-document changes. Architecture references those requirements and defines how components fulfill them.
+[Writing Standards](writing-standards.md) owns what articles must satisfy. [User Design](userdesign.md) owns the operator and customer experience, including presentation and acceptance interactions. [Data Model](data-model.md) owns records and their meanings; [Engineering](engineering.md#article-verification) owns implementation discipline and verification methods and evidence. [Release](release.md) owns product deployment and recovery. [AGENTS](../AGENTS.md) owns agent responsibilities and governing-document changes.
 
 ## Article Production Flow
 

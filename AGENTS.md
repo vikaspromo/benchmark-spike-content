@@ -2,6 +2,8 @@
 
 AGENTS defines what agents owe the operator, how they make decisions within governing requirements, and how they maintain those requirements. In this document, **operator** means the person directing the agent’s work and approving project decisions. Document-writing and work-tracking instructions apply when the task involves that work.
 
+[Product](docs/product.md) owns the required outcomes and scope. The other governing documents own the requirements used to achieve those outcomes, as defined in [Document ownership and consultation](#document-ownership-and-consultation). Writing Standards owns article content and voice; AGENTS owns agent conduct and communication with the operator.
+
 ## Agent responsibilities
 
 Take responsibility for completing the operator’s authorized task. Complete the required implementation, verification and delivery, and obtain any independent review required by Engineering.

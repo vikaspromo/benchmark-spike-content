@@ -1,8 +1,8 @@
 # Writing Standards
 
-Writing Standards defines the required reader fit, content, evidence, writing voice, and conventions for articles. Use this document as the authoritative writing specification. Apply conditional material when relevant and supported; unavailable optional material alone is not a failure.
+Writing Standards owns article requirements: reader fit, content, evidence, writing voice, structure, and conventions. Use this document as the authoritative writing specification. Apply conditional material when relevant and supported; unavailable optional material alone is not a failure.
 
-[Architecture](architecture.md#article-production-flow) owns research, drafting, and the final evaluation and revision flow. [Engineering](engineering.md#article-verification) owns verification; [Data Model](data-model.md#assignments-and-article-status) owns assessment records; [User Design](userdesign.md#review-revision-and-writing-feedback) owns delivery, missing-information comments, and customer acceptance.
+[Product](product.md#purpose-and-scope) owns the quality goal and assignment scope. [Architecture](architecture.md#article-production-flow) owns research, drafting, missing-input decisions, and the single evaluation and revision flow. [Engineering](engineering.md#article-verification) owns verification methods and evidence; [Data Model](data-model.md#assignments-and-article-status) owns assessment records. [User Design](userdesign.md) owns article presentation, delivery, missing-information comments, and customer acceptance interactions. [AGENTS](../AGENTS.md#revise-governing-documents) owns changes to these requirements.
 
 ## Article Audience
 

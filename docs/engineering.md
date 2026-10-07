@@ -1,10 +1,8 @@
 # Engineering
 
-Engineering owns implementation discipline and verification. It defines how content production product changes are implemented, investigated and reviewed, and what evidence establishes their correctness.
+Engineering owns implementation discipline and verification. It defines how product changes are developed, investigated, and reviewed, and which methods and evidence establish that articles and product behavior satisfy their requirements.
 
-Read the sections governing the change and the claims being made. Product owns system purpose and scope; User Design owns product-user behavior, language and voice; Writing Standards owns article content and writing standards; Data Model owns record meanings, identity and validity; Architecture owns component responsibilities, processing and serving; Release owns deployment and recovery; AGENTS owns agent responsibilities, authorization and governing-document changes.
-
-Engineering uses those governing requirements to establish implementation and verification expectations. It does not independently define product behavior or deployment procedures.
+[Product](product.md) owns the required outcomes and scope; [Writing Standards](writing-standards.md) owns article requirements; [User Design](userdesign.md) owns the operator and customer experience. [Architecture](architecture.md#evaluate-and-revise) owns the single article evaluation and revision flow; Engineering defines how to verify its requirements without adding editorial obligations or another revision flow. [Data Model](data-model.md#assignments-and-article-status) owns assessment records. [Release](release.md) owns product deployment and recovery; [AGENTS](../AGENTS.md) owns agent responsibilities and governing-document changes.
 
 ## Article Verification
 

@@ -1,8 +1,8 @@
 # User Design
 
-User Design defines what Vikas can accomplish through the content production product and the experience he receives. It also defines Alex’s customer review and acceptance interactions. It owns product capabilities, required information, information presentation, layout, interactions, and product-user-facing language and voice. Writing Standards owns the content and writing standards of the articles themselves.
+User Design owns the operator and customer experience: what Vikas can accomplish and inspect, how articles are presented and delivered to Alex, and how Alex provides information, feedback, and acceptance. It defines product interactions, presentation, and interface language. [Writing Standards](writing-standards.md) owns the articles’ content and writing voice.
 
-Read the sections governing the affected user experience and follow references to its dependencies. Product owns system purpose and scope; Data Model owns record meanings, identity and validity; Architecture owns component responsibilities, processing and serving; Engineering owns implementation discipline and verification; Release owns deployment and recovery; AGENTS owns agent responsibilities, authorization and governing-document changes. Those documents reference User Design for product-user behavior, language and voice.
+[Product](product.md) owns the required outcomes and scope. [Architecture](architecture.md#article-production-flow) owns how production fulfills this experience; [Data Model](data-model.md) owns records and their meanings; [Engineering](engineering.md#article-verification) owns verification. [Release](release.md) owns product deployment and recovery. [AGENTS](../AGENTS.md) owns agent conduct, communication with the operator, and governing-document changes.
 
 ## Article Content and Writing Standards
 
