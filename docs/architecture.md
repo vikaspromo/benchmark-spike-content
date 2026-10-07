@@ -10,7 +10,7 @@ Produce each assigned article through research, outlining, and drafting, then ru
 
 The production stages provide working context for writing. Keep the structured assignment brief, source evidence needed to support the article, and unresolved dependencies that affect its answer. Research plans, notes, and outlines may be adjusted as useful without maintaining stage histories, candidate-material inventories, or reasons for each unused item. [Data Model](data-model.md#article-research-material) defines the retained research evidence; [Assignments and Article Status](data-model.md#assignments-and-article-status) defines the article assessment.
 
-Review the client's website as needed for different purposes. Research the client's own website before using third-party sources; [Writing Standards](writing-standards.md#practice-specific-material) defines the relevant practice material. Later evidence may change the working interpretation or require more research. Production adjustments do not require separate compliance reviews at each stage.
+Review the client's website as needed for different purposes. Research the client's own website before using third-party sources; [Writing Standards](writing-standards.md#content-types) defines the relevant practice material. Later evidence may change the working interpretation or require more research. Production adjustments do not require separate compliance reviews at each stage.
 
 ### Understand the Assignment
 
@@ -24,7 +24,7 @@ Identify claims implied by the title that need investigation, including superior
 
 ### Understand the Practice
 
-Establish the practice context and find supported material useful to this article under [Writing Standards](writing-standards.md#practice-specific-material).
+Establish the practice context and find supported material useful to this article under [Writing Standards](writing-standards.md#content-types).
 
 Use the assignment brief to research relevant services, treatments, technology, providers, credentials, locations, practice approach, terminology, and differentiators on the client's website. Examine relevant text and images, including captions and text within images, using Writing Standards' material categories to guide the search. Find useful service, provider, educational, contact, and booking links, and investigate relevant practice claims from the brief.
 
@@ -38,7 +38,7 @@ Use the assignment brief and practice findings to plan an article-specific inves
 
 Use supplied reference URLs and the client website as starting points, then consult authoritative third-party sources to verify relevant claims. Treat supplied references as starting points rather than material to rewrite or the only sources to consult.
 
-Include a review of leading organic Google results for the same topic. Derive queries from the assignment and working interpretation, including geography when relevant. Examine reader questions, comparisons, considerations, answer structure, omissions, and weak explanations to inform a more useful original article. Search ranking does not establish medical accuracy, and competitor research does not permit competitor links in the delivered article under [Writing Standards](writing-standards.md#links-and-closing-call-to-action).
+Include a review of leading organic Google results for the same topic. Derive queries from the assignment and working interpretation, including geography when relevant. Examine reader questions, comparisons, considerations, answer structure, omissions, and weak explanations to inform a more useful original article. Search ranking does not establish medical accuracy, and competitor research does not permit competitor links in the delivered article under [Writing Standards](writing-standards.md#links).
 
 Identify questions that only Alex can resolve under [User Design](userdesign.md#review-revision-and-writing-feedback). Do not require a saved investigation record or completion status for every planned question.
 
@@ -46,13 +46,15 @@ Identify questions that only Alex can resolve under [User Design](userdesign.md#
 
 Establish a supported central answer using the supplied references, relevant practice pages, authoritative sources, and leading organic Google results. Keep the evidence needed to support the article under [Data Model](data-model.md#article-research-material). Investigate conflicting information and adjust the working interpretation when warranted.
 
-Apply [Writing Standards](writing-standards.md#missing-information) to unresolved facts. Omit optional material when supported content answers the question without it, using User Design's optional-material comment process when applicable. For a required fact that Alex can supply without changing the supported direction, prepare a marker and Google Doc comment under [User Design](userdesign.md#review-revision-and-writing-feedback).
+Determine whether a missing fact is needed to satisfy [Writing Standards](writing-standards.md), an applicable assignment requirement, or the article's central answer. Use supported wording or omit the detail when that satisfies the requirements without weakening the answer. Material that could improve an otherwise complete, compliant article is optional. Prepare the article without unavailable optional material and use [User Design's optional-material comments](userdesign.md#review-revision-and-writing-feedback).
 
-Resolve a missing answer before drafting when it could change the premise, treatment focus, central answer, or recommendation. Investigate further or bring the specific question to Alex when only he can resolve it. Keep the dependency explicit; a marker does not establish a supported direction. This judgment concerns the article's actual needs, not a fixed classification for a kind of fact. It does not require a separate dependency report or histories of possible answers.
+Resolve a missing answer before drafting when it could change the premise, treatment focus, central answer, or recommendation. Investigate further or bring the specific question to Alex when only he can resolve it. Keep the dependency explicit; a marker does not establish a supported direction.
+
+For a required fact that Alex can supply without changing the supported direction, draft the supported content and prepare a marker and Google Doc comment under [User Design](userdesign.md#review-revision-and-writing-feedback). Base these decisions on the article's actual needs; do not require a separate dependency report or histories of possible answers.
 
 ### Build the Outline
 
-Arrange the supported central answer and reader questions into a useful sequence. Plan headings and substantive answers, using supported practice material where it helps the article under [Writing Standards](writing-standards.md#reader-answer-and-substantive-content). Do not assign section word budgets.
+Arrange the supported central answer and reader questions into a useful sequence. Plan headings and substantive answers, using supported practice material where it helps the article under [Writing Standards](writing-standards.md#section-focus). Do not assign section word budgets.
 
 Plan relevant provider context, useful internal links, appropriate external links, and the closing call to action under Writing Standards. Place useful practice material and images where they support an explanation, and identify locations for unresolved required facts and comments.
 
