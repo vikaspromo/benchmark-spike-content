@@ -16,10 +16,10 @@ This document can change through the governing-document approval process indepen
 |---|---|
 | Required standard | Follow the stated rule with its conditions and exceptions. |
 | Explicit override | Apply the stated replacement of another rule within its defined scope. |
-| Conditional requirement | Apply when relevant to the article and supported. Record applicability and material availability rather than treating the feature as universally required. |
+| Conditional requirement | Apply when relevant to the article and supported; the feature is not universally required. |
 | Optional enhancement | Useful material that is unavailable or not needed for the article's answer. Its absence alone does not prevent Ready for Review. |
 
-Use the article's reader question to determine relevance. Preserve explicit requirements and exceptions. Do not turn examples or useful details into universal requirements. For conditional requirements, record whether they apply, whether supporting material is available, and whether the article includes or omits the material.
+Use the article's reader question to determine relevance. Preserve explicit requirements and exceptions. Do not turn examples or useful details into universal requirements. Assess conditional requirements in the final article checklist under [Editing, Verification, and Human Review](#editing-verification-and-human-review); no separate material-availability or omission record is required.
 
 An article-specific client instruction overrides the affected standard when the instruction explicitly requests a different treatment. Keep that override distinct from the general rule. Do not silently replace the assigned topic, invent requirements, or report an unavailable input as a passed check. Resolve ambiguous instructions with the operator or Alex as appropriate under AGENTS and User Design.
 

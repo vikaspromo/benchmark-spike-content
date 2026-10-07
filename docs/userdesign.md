@@ -6,11 +6,13 @@ Read the sections governing the affected user experience and follow references t
 
 ## Article Content and Writing Standards
 
-Articles must meet [Writing Standards](writing-standards.md), the consolidated content and writing specification. That document owns the style-guide baseline, assignment additions, their applicability, approved interpretations, material eligibility, and the product exception for human review after delivery.
+Articles must meet [Writing Standards](writing-standards.md), the consolidated content and writing specification. That document owns the style-guide baseline, assignment additions, applicability, approved interpretations, material eligibility, and the product exception for human review after delivery.
 
-Selected images appear within the article Doc at locations that help explain the relevant content. Each image has a nearby caption explaining its relevance using supported details. Images and relevant labels must be clear enough to read, with proportions preserved and without cropping that changes their meaning. An image link or placement note does not replace an embedded image in the completed article. Image selection and captions follow [Writing Standards](writing-standards.md#practice-research-and-provider-coverage); this does not require images in every article.
+Images used in the article are embedded inline between paragraphs where they help explain the content. Each image has a caption immediately below it explaining its relevance with supported details, and a Google Doc comment anchored to that caption containing the image's source link. The source link identifies the page providing context for the image; include the direct image link too when it differs from the page link. Alex reviews the images and captions in the same Doc as the article. Images and relevant labels must be clear enough to read, with proportions preserved and without cropping that changes their meaning. An image link or placement note does not replace an embedded image. Delivery does not include separate original-image files in Drive. Image use and captions follow [Writing Standards](writing-standards.md#practice-research-and-provider-coverage); this does not require images in every article.
 
-The system delivers articles directly to Alex under [Assignment Delivery and Tracking](#assignment-delivery-and-tracking). Missing required facts and optional material are presented through [Review, Revision, and Writing Feedback](#review-revision-and-writing-feedback). [Data Model](data-model.md#article-research-material) defines the source material and intended-use records, and [Client Information](data-model.md#client-information) defines valid client associations. [Architecture](architecture.md#article-production-flow) defines acquisition, production, and delivery; [Engineering](engineering.md#article-verification) defines verification before submission.
+Vikas receives the final checklist outcome for the resulting article, including remaining failures and required facts awaiting Alex, through the current production process. The assessment supports confidence in delivery without requiring Vikas to approve each article. Earlier material choices, unused candidates, and acquisition attempts do not require separate reports. [Data Model](data-model.md#assignments-and-article-status) defines the assessment and status meanings.
+
+The system delivers articles directly to Alex under [Assignment Delivery and Tracking](#assignment-delivery-and-tracking). Missing required facts and optional material follow [Review, Revision, and Writing Feedback](#review-revision-and-writing-feedback). [Data Model](data-model.md#article-research-material) defines retained research evidence, and [Client Information](data-model.md#client-information) defines valid client associations. [Architecture](architecture.md#article-production-flow) owns production and the single evaluation and revision flow; [Engineering](engineering.md#article-verification) owns verification methods and evidence.
 
 ## Assignment Delivery and Tracking
 
@@ -36,7 +38,7 @@ For missing optional material, prepare the article without that material and add
 
 For missing required facts, draft the supported content and place a clear marker where each missing fact belongs. Add a comment explaining what Alex must supply or confirm. Set the status to Needs Information. Alex can answer in the comment or suggest text directly.
 
-When Alex supplies the required information, move the article to Revising while incorporating it. Once required facts are resolved and revisions are complete, move the article to Ready for Review.
+When Alex supplies the required information, move the article to Revising while incorporating it. Once required facts are resolved and the revised article passes [Architecture's evaluation and revision flow](architecture.md#evaluate-and-revise), move the article to Ready for Review.
 
 Completing revisions does not itself establish acceptance. Alex confirms acceptance; unresolved required facts prevent Accepted status.
 
