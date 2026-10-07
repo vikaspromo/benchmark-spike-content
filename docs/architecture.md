@@ -66,13 +66,15 @@ This stage is complete when the central answer has supporting evidence and each 
 
 ### Build the Outline
 
-Produce a practice-specific outline that shows how the article will answer the assigned question for its intended reader.
+Produce a practice-specific outline that shows how the article will answer the assigned question for its intended reader. Select coverage for relevance, supported answers, and distinct reader value under [Writing Standards](writing-standards.md#reader-answer-and-substantive-content), rather than assigning section word budgets.
 
-Use the assignment brief, practice findings, and research record to state the main answer and arrange the reader’s questions into a useful sequence. For each planned section, record its heading, purpose, and supporting evidence. Place relevant practice and provider information where it helps explain the topic, and plan internal links, appropriate external links, and the closing call to action under [Writing Standards](writing-standards.md#links-and-closing-call-to-action).
+Use the assignment brief, practice findings, and research record to state the main answer and arrange the reader's questions into a useful sequence. For each planned section, record its heading, the reader question it answers, the supported answer and evidence, and the distinct information it adds beyond other sections. A section purpose alone is insufficient if the outline cannot yet state its answer.
 
-Identify where unresolved required facts need markers and comments. If outlining exposes an unsupported central answer or a dependency that changes the direction, return to research rather than commit to that answer.
+Place practice and provider information where it adds relevant context under [Writing Standards](writing-standards.md#practice-research-and-provider-coverage). Identify which planned passages would need factual rewriting for another practice and connect them to supporting practice evidence. If the outline relies only on interchangeable names, credentials, locations, or links, return to practice research. Plan useful internal links, appropriate external links, and the closing call to action under [Writing Standards](writing-standards.md#links-and-closing-call-to-action).
 
-This stage is complete when the outline covers the assigned question, connects the planned sections to evidence, and provides enough substantive coverage for the required article length. It must give drafting a clear basis for writing the whole article.
+Identify where unresolved required facts need markers and comments. If outlining exposes an unsupported central answer or a dependency that changes the direction, return to research. Merge or remove sections that repeat another answer, and exclude material that does not support its heading. If research cannot support the coverage needed to answer the assigned question, report the specific gap for an operator decision rather than invent material or silently change the assignment.
+
+This stage is complete when the outline covers the assigned question, connects each planned answer to evidence, and identifies each section's distinct reader value and the article's meaningful practice context. It must give drafting a clear basis for writing the whole article. Evaluate and Revise measures the resulting draft's length and resolves findings.
 
 ### Write the First Draft
 
@@ -86,17 +88,19 @@ This stage is complete when the whole article is written and basic check finding
 
 ### Evaluate and Revise
 
-Produce a revised article that completes the applicable production checks, with any required facts still needing Alex’s input handled under [User Design](userdesign.md#review-revision-and-writing-feedback).
+Produce a revised article that satisfies the applicable quality standards and final length range, with any required facts still needing Alex's input handled under [User Design](userdesign.md#review-revision-and-writing-feedback).
 
-Automatically evaluate the complete article against the applicable writing standards, assignment brief, practice findings, research evidence, and outline. Run deterministic checks and automated editorial and evidence assessments as part of the flow, without a manual trigger or Vikas’s article-by-article review. Use the same applicable standards that guide drafting, and apply [Engineering’s verification requirements](engineering.md#article-verification).
+Automatically evaluate the complete article against the applicable writing standards, assignment brief, practice findings, research evidence, and outline. Run deterministic checks and automated editorial and evidence assessments as part of the flow, without a manual trigger or Vikas's article-by-article review. Use the same applicable standards that guide drafting, and apply [Engineering's verification requirements](engineering.md#article-verification).
 
-Evaluate substantive coverage, reader-question coverage, practice customization, factual support, quotations and reviews, medical claims, natural terminology, structure, links, localization, call to action, voice, readability, formatting, and proofreading. Counts and detected phrases establish only what those checks measure; they do not establish substantive content, medical accuracy, or editorial quality. Assessment methods and evidence of their reliability belong in Engineering.
+Assess substantive coverage, reader-question coverage, factual support, quotations and reviews, medical claims, natural terminology, links, localization, call to action, voice, readability, formatting, and proofreading. Verify that each paragraph, bullet, and example supports its heading and that sections add distinct reader value under [Writing Standards](writing-standards.md#reader-answer-and-substantive-content). Apply the [practice-substitution test](writing-standards.md#practice-research-and-provider-coverage); return to practice research and revision when customization fails. Counts and detected phrases establish only what those checks measure; they do not establish substantive content, medical accuracy, or editorial quality. Assessment methods and evidence of their reliability belong in Engineering.
 
-Automatically correct issues the system can resolve. Return to research or outlining when a finding requires it. Repeat affected checks after revisions, including checks affected indirectly by a change. Evaluate the resulting article version rather than treating checks on an earlier version as proof that the revised article passes.
+After assessing article quality, measure the body-word count against the range defined in Writing Standards. If the draft exceeds the range, remove tangents, repetition and lower-value detail, and make useful explanations more concise. If it falls below the range, identify useful explanations or relevant practice context that remain underdeveloped; return to research when needed. Do not pad the article or cut necessary information merely to meet the range.
 
-When a required fact needs Alex’s input, retain supported content, the visible marker, and the question prepared for a Google Doc comment. Missing optional material follows User Design’s optional-material process. Missing information does not excuse other failed checks. If the system cannot resolve another failure, keep the finding explicit and the article incomplete rather than mark it Ready for Review.
+Automatically correct issues the system can resolve, returning to research or outlining when needed. Repeat affected checks after revisions, including quality and evidence assessments affected by length changes. Evaluate the resulting article version rather than treating checks on an earlier version as proof that the revised article passes. Repeat evaluation until the article satisfies both the quality standards and the length range. If those requirements cannot be reconciled, report the specific conflict to the operator and keep the article incomplete.
 
-This stage is complete when the resulting article completes the applicable checks, apart from explicitly identified required facts awaiting Alex’s input. Such facts follow the Needs Information process. Articles with required facts resolved proceed to delivery as Ready for Review under User Design. Verification does not establish customer acceptance.
+When a required fact needs Alex's input, retain supported content, the visible marker, and the question prepared for a Google Doc comment. Missing optional material follows User Design's optional-material process. Missing information does not excuse other failed checks. If the system cannot resolve another failure, keep the finding explicit and the article incomplete rather than mark it Ready for Review.
+
+This stage is complete when the resulting article completes the applicable checks, apart from explicitly identified required facts awaiting Alex's input. Such facts follow the Needs Information process. Articles with required facts resolved proceed to delivery as Ready for Review under User Design. Verification does not establish customer acceptance.
 
 ### Deliver to Alex
 

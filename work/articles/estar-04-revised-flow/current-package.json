@@ -1,0 +1,14 @@
+{
+  "article": "article.md",
+  "comments": "comments.json",
+  "rules": "rules.json",
+  "checks": "checks.json",
+  "evidence_and_outline": "research.md",
+  "assessment": "assessment.json",
+  "independent_review": "independent-review.json",
+  "document_verification": "document-verification.json",
+  "status": "Drafting",
+  "customer_delivery": false,
+  "accepted": false,
+  "verification_scope": "Prior assessments apply to the standards used for the completed run. The current 1,600-word article fails the newly approved length range and needs substantive practice customization before readiness can be established under the revised standards."
+}

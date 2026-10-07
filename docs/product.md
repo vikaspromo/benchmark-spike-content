@@ -18,6 +18,6 @@ The product starts with the assigned articles. Alex’s keyword research, third-
 
 ## Assignment Scope
 
-The product supports both long-form SEO articles and long-form AEO articles. The initial workload comprises 52 articles: 22 for DC Derm Docs, 22 for La-Mon’e Aesthetics, and eight for Estar MedSpa. The [archived assignment](../sources/seo-aeo/assignment.md) contains the supplied topics and client instructions. [Writing Standards](writing-standards.md) consolidates the active content and writing requirements.
+The product supports both long-form SEO articles and long-form AEO articles. The initial workload comprises 52 articles: 22 for DC Derm Docs, 22 for La-Mon’e Aesthetics, and eight for Estar MedSpa. The [archived assignment](../sources/writing-standards/assignment.md) records the supplied topics and historical client instructions. It provides assignment context, not additional active writing standards. [Writing Standards](writing-standards.md) consolidates the active content and writing requirements.
 
 [Writing Standards](writing-standards.md) owns article content and writing requirements. [User Design](userdesign.md#review-revision-and-writing-feedback) defines customer review and acceptance.

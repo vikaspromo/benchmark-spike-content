@@ -1,0 +1,13 @@
+{
+  "article_sha256": "161d44fc5a61a2b9acbf40f0dd73c4f8c5d165168f403f749609db572cc625e6",
+  "docx_sha256": "45037e8e155f6eac22dda56b4f68c63270582e68a1c4d407294a9329f7e4bbd4",
+  "article_text_preserved": true,
+  "hyperlinks": 7,
+  "native_comments": 1,
+  "unique_complete_comment_ranges": true,
+  "comment_text_preserved": true,
+  "rendered_pages": 4,
+  "all_pages_visually_inspected": true,
+  "layout_findings": "No clipping, overlap, missing glyph or isolated final CTA page after spacing adjustment",
+  "native_google_delivery": false
+}
