@@ -14,7 +14,7 @@ Client information must accommodate multiple websites and physical locations. It
 
 ## Article Research Material
 
-Article research evidence belongs to a particular assignment and supports the article's factual claims, practice associations, images, and captions. Keep source references and the passages or assets needed to establish that support, including material limits or conflicts that affect the resulting article. [Writing Standards](writing-standards.md#practice-research-and-provider-coverage) owns material eligibility.
+Article research evidence belongs to a particular assignment and supports the article's factual claims, practice associations, images, and captions. Keep source references and the passages or assets needed to establish that support, including material limits or conflicts that affect the resulting article. [Writing Standards](writing-standards.md#practice-specific-material) owns material eligibility.
 
 Source statements remain distinguishable from the agent's interpretation. An unknown association is not confirmed. An image's presence on a website does not establish that it depicts the practice or its work; evidence for one product does not establish another formulation or device model. For each included image, retain the source page reference, direct image reference, and context supporting its use. These references identify the source of the embedded image; they do not require a separate archive of original image files. [User Design](userdesign.md#article-content-and-writing-standards) defines the source-link comment that Alex receives.
 

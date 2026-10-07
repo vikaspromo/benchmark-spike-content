@@ -10,7 +10,7 @@ Produce each assigned article through research, outlining, and drafting, then ru
 
 The production stages provide working context for writing. Keep the structured assignment brief, source evidence needed to support the article, and unresolved dependencies that affect its answer. Research plans, notes, and outlines may be adjusted as useful without maintaining stage histories, candidate-material inventories, or reasons for each unused item. [Data Model](data-model.md#article-research-material) defines the retained research evidence; [Assignments and Article Status](data-model.md#assignments-and-article-status) defines the article assessment.
 
-Review the client's website as needed for different purposes. Follow the research order in [Writing Standards](writing-standards.md#practice-research-and-provider-coverage): research the client's own website before using third-party sources. Later evidence may change the working interpretation or require more research. Production adjustments do not require separate compliance reviews at each stage.
+Review the client's website as needed for different purposes. Research the client's own website before using third-party sources; [Writing Standards](writing-standards.md#practice-specific-material) defines the relevant practice material. Later evidence may change the working interpretation or require more research. Production adjustments do not require separate compliance reviews at each stage.
 
 ### Understand the Assignment
 
@@ -24,9 +24,9 @@ Identify claims implied by the title that need investigation, including superior
 
 ### Understand the Practice
 
-Establish the practice context and find supported material useful to this article under [Writing Standards](writing-standards.md#practice-research-and-provider-coverage).
+Establish the practice context and find supported material useful to this article under [Writing Standards](writing-standards.md#practice-specific-material).
 
-Use the assignment brief to research relevant services, treatments, technology, providers, credentials, locations, practice approach, terminology, and differentiators on the client's website. Look for the material categories in Writing Standards, including relevant images, captions, and text within images. Find useful service, provider, educational, contact, and booking links, and investigate relevant practice claims from the brief.
+Use the assignment brief to research relevant services, treatments, technology, providers, credentials, locations, practice approach, terminology, and differentiators on the client's website. Examine relevant text and images, including captions and text within images, using Writing Standards' material categories to guide the search. Find useful service, provider, educational, contact, and booking links, and investigate relevant practice claims from the brief.
 
 Keep source evidence and limits needed to use the findings accurately under [Data Model](data-model.md#article-research-material). Preserve correct provider associations and distinguish physical locations from article target geography and treatments from bookable appointments under [Client Information](data-model.md#client-information). A website image does not establish who or what it depicts; product-brand evidence does not establish every formulation or model.
 
@@ -36,7 +36,7 @@ Investigate practice facts needed for the article's answer. Use the supported ma
 
 Use the assignment brief and practice findings to plan an article-specific investigation of the questions the article must answer and the claims it needs to support. The plan is working guidance and may change as research develops.
 
-Use supplied reference URLs and the client website as starting points, then consult authoritative third-party sources to verify relevant claims. Treat references as starting points rather than material to rewrite under [Writing Standards](writing-standards.md#practice-research-and-provider-coverage).
+Use supplied reference URLs and the client website as starting points, then consult authoritative third-party sources to verify relevant claims. Treat supplied references as starting points rather than material to rewrite or the only sources to consult.
 
 Include a review of leading organic Google results for the same topic. Derive queries from the assignment and working interpretation, including geography when relevant. Examine reader questions, comparisons, considerations, answer structure, omissions, and weak explanations to inform a more useful original article. Search ranking does not establish medical accuracy, and competitor research does not permit competitor links in the delivered article under [Writing Standards](writing-standards.md#links-and-closing-call-to-action).
 
@@ -46,7 +46,7 @@ Identify questions that only Alex can resolve under [User Design](userdesign.md#
 
 Establish a supported central answer using the supplied references, relevant practice pages, authoritative sources, and leading organic Google results. Keep the evidence needed to support the article under [Data Model](data-model.md#article-research-material). Investigate conflicting information and adjust the working interpretation when warranted.
 
-Apply [Writing Standards](writing-standards.md#medical-claims-and-optional-supporting-material) to unresolved facts. Omit optional material when supported content answers the question without it, using User Design's optional-material comment process when applicable. For a required fact that Alex can supply without changing the supported direction, prepare a marker and Google Doc comment under [User Design](userdesign.md#review-revision-and-writing-feedback).
+Apply [Writing Standards](writing-standards.md#missing-information) to unresolved facts. Omit optional material when supported content answers the question without it, using User Design's optional-material comment process when applicable. For a required fact that Alex can supply without changing the supported direction, prepare a marker and Google Doc comment under [User Design](userdesign.md#review-revision-and-writing-feedback).
 
 Resolve a missing answer before drafting when it could change the premise, treatment focus, central answer, or recommendation. Investigate further or bring the specific question to Alex when only he can resolve it. Keep the dependency explicit; a marker does not establish a supported direction. This judgment concerns the article's actual needs, not a fixed classification for a kind of fact. It does not require a separate dependency report or histories of possible answers.
 
