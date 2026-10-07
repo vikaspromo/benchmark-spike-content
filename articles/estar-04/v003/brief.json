@@ -1,0 +1,28 @@
+{
+  "prompt_number": 4,
+  "label": "SEO",
+  "supplied_title": "What Is the Difference Between a Lip Flip and Lip Filler?",
+  "practice_website": "https://estarmedspa.com/",
+  "supplied_reference": "https://www.theskincentermd.com/lip-flip-vs-lip-filler-what-is-the-difference/",
+  "interpretation": {
+    "target_reader": "An adult comparing lip flip and lip filler near Olney, MD, seeking a modest or fuller result and clarity about the relevant tradeoffs.",
+    "main_question": "Which differences between a lip flip and lip filler matter for the appearance a patient wants to change?",
+    "working_hypothesis": "Use upper-lip movement versus added volume as the central distinction, then show that degree of change, timeline, duration, and risk are separate decisions. Estar’s small-amount case makes the comparison concrete.",
+    "supporting_evidence": [
+      "The title explicitly asks for a comparison.",
+      "The practice offers a Botox lip flip and identifies lip-specific filler among its wider filler range.",
+      "The gallery includes a 0.5 mL example, supporting discussion of a modest filler change."
+    ],
+    "constraints": [
+      "Current Writing Standards at production commit",
+      "Same source set as v002; existing sources rechecked",
+      "Practice blogs excluded",
+      "Revision uses v002 and existing conversation; not a fresh context",
+      "Local article, not customer delivery"
+    ],
+    "required_unresolved_inputs": []
+  },
+  "production_commit": "0607aad6fd87fe32b2d765d32f4f6b7d5c9dd407",
+  "version": "v003",
+  "revision_of": "v002"
+}

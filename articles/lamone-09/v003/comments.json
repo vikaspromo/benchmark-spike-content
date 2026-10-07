@@ -1,0 +1,18 @@
+{
+  "assignment": "lamone-09",
+  "version": "v003",
+  "article_sha256": "743e8c9cb97ff4e250ffb102a6291b90e1c67069a411d902eaf587a4114f95c0",
+  "delivery_state": "Prepared locally; not native Google Doc comments",
+  "comments": [
+    {
+      "type": "image_source",
+      "anchor": "Added fullness and upper-lip definition in a La-Mon’e lip-enhancement example. Individual results vary.",
+      "text": "Source page: https://www.lamoneaesthetics.com/gallery/\nDirect image: https://www.lamoneaesthetics.com/wp-content/uploads/2025/10/Lip-Filler.png"
+    },
+    {
+      "type": "optional_material",
+      "anchor": "The proposed treatment should identify the product and amount as well as the intended result.",
+      "text": "Alex: Could you supply an approved La-Mon’e clinician quote explaining how the team plans a modest first lip-filler treatment? It could add practice-specific judgment here; its absence does not prevent review."
+    }
+  ]
+}

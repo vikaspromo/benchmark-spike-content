@@ -22,7 +22,14 @@ The current v001 drafts have [retrospectively reconstructed provenance](runs/202
 | DC Derm Docs, prompt 3 | v002 | October 7, 2026 | [Laser hair removal](dc-derm-03/v002/article.md) |
 | La-Mon’e Aesthetics, prompt 9 | v002 | October 7, 2026 | [First-time lip filler](lamone-09/v002/article.md) |
 | Estar MedSpa, prompt 4 | v002 | October 7, 2026 | [Lip flip versus filler](estar-04/v002/article.md) |
+| DC Derm Docs, prompt 3 | v003 | October 7, 2026 | [Laser hair removal revision](dc-derm-03/v003/article.md) |
+| La-Mon’e Aesthetics, prompt 9 | v003 | October 7, 2026 | [First-time lip filler revision](lamone-09/v003/article.md) |
+| Estar MedSpa, prompt 4 | v003 | October 7, 2026 | [Lip flip versus filler revision](estar-04/v003/article.md) |
 
-The latest v002 packages use [committed production inputs](runs/2026-10-07-writing-standards-v002/README.md). Each contains a new article, source support, prepared comments, local HTML preview, final checklist assessment, and hashes. v001 remains available for feedback comparison.
+The v002 packages use [committed production inputs](runs/2026-10-07-writing-standards-v002/README.md). Each contains a new article, source support, prepared comments, local HTML preview, final checklist assessment, and hashes. v001 remains available for feedback comparison.
+
+DC Derm Docs v003 tests the revised voice and readability guidance using the same source set. See its [passage comparison](dc-derm-03/v003/comparison.md) and [production record](runs/2026-10-07-dc-voice-v003/README.md).
+
+La-Mon’e and Estar v003 use the same current guidance and source sets, without adopting the held evidence-use finding. See the [shared production record](runs/2026-10-07-two-practice-v003/README.md), [La-Mon’e comparison](lamone-09/v003/comparison.md), and [Estar comparison](estar-04/v003/comparison.md).
 
 This file explains the local draft organization; it does not define article writing requirements or the production flow.
