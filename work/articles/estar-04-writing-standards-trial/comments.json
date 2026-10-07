@@ -1,0 +1,42 @@
+{
+  "article_sha256": "ca39b385bd0b746fbe88b07a18429499d2df9cd19e811edd49ced540d8240d75",
+  "delivery_status": "prepared_local_only_not_google_doc_comments",
+  "comments": [
+    {
+      "id": "C1",
+      "type": "unknown_required_input",
+      "anchor_text": "What Is the Difference Between a Lip Flip and Lip Filler?",
+      "markdown_utf8_byte_start": 2,
+      "markdown_utf8_byte_end": 59,
+      "occurrences": 1,
+      "comment": "Alex, what primary and supporting keywords were supplied for Estar prompt 4? No keywords accompanied this title, so their required placements have not been verified. Please also confirm whether you want a meta title, meta description, and proposed URL. We have kept the assigned title and have not treated a research query as your keyword."
+    },
+    {
+      "id": "C2",
+      "type": "optional_material",
+      "anchor_text": "Which Treatment Fits Your Lip Goals?",
+      "markdown_utf8_byte_start": 2527,
+      "markdown_utf8_byte_end": 2563,
+      "occurrences": 1,
+      "comment": "Alex, an approved comment from Dr. Mimi P. Martins or Nana Mensah about distinguishing lip movement from added volume could strengthen this section. Please supply a quote approved for publication if available. The article is prepared without one."
+    },
+    {
+      "id": "C3",
+      "type": "optional_material",
+      "anchor_text": "How Do Costs and Maintenance Compare?",
+      "markdown_utf8_byte_start": 6830,
+      "markdown_utf8_byte_end": 6867,
+      "occurrences": 1,
+      "comment": "Alex, current Estar pricing and the consultation/follow-up or touch-up policy could make this section more specific. Please supply approved details if you want them included. The supported comparison does not depend on a numerical price, so none has been invented."
+    },
+    {
+      "id": "C4",
+      "type": "customer_preference",
+      "anchor_text": "Explore Lip Enhancement in Olney, MD",
+      "markdown_utf8_byte_start": 8849,
+      "markdown_utf8_byte_end": 8885,
+      "occurrences": 1,
+      "comment": "Alex, this assignment is labeled SEO. Please confirm whether Benchmark expects a different structure or approach for SEO versus AEO articles. This draft uses direct answers and supported practice information under the current standards; we have not invented a distinction."
+    }
+  ]
+}

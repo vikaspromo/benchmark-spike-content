@@ -14,13 +14,13 @@ Review the client’s website as needed at different stages for different purpos
 
 Produce a structured assignment brief that gives the next stage a clear target for investigation.
 
-Preserve the supplied client, prompt number, original title, SEO/AEO label, keywords, reference URLs, and special instructions so Alex can trace the article to its assignment. Keep the supplied assignment distinct from its interpretation. Preserve the prompt number through revisions as required by [Data Model](data-model.md#assignments-and-article-status).
+Preserve the supplied client, prompt number, original title, SEO/AEO label, reference URLs, and special instructions so Alex can trace the article to its assignment. Keep the supplied assignment distinct from its interpretation. Preserve the prompt number through revisions as required by [Data Model](data-model.md#assignments-and-article-status).
 
 Use the assignment and a focused review of the client’s website to infer the target reader and the main question or decision the article should address. Choose one working interpretation, record it as a hypothesis with its supporting evidence, and move forward. Do not maintain competing interpretations. Revise the hypothesis if later evidence warrants a change.
 
-Flag claims implied by the title for verification, including claims about superiority, permanence, pricing, availability, or provider expertise. The assigned title does not establish that those claims are true. Record missing inputs and material uncertainties explicitly. Do not invent Alex’s keywords or topic-selection rationale; these remain open in [Follow-Up Questions for Alex](writing-standards.md#follow-up-questions-for-alex).
+Flag claims implied by the title for verification, including claims about superiority, permanence, pricing, availability, or provider expertise. The assigned title does not establish that those claims are true. Record missing inputs and material uncertainties explicitly.
 
-This stage is complete when the structured brief records the working audience and article purpose, supplied constraints, supporting evidence, claims to investigate, and explicit unknowns. Unknown keywords or practice facts may remain open. Interpret the assigned topic without silently replacing it; a proposed topic change requires resolution with Alex.
+This stage is complete when the structured brief records the working audience and article purpose, supplied constraints, supporting evidence, claims to investigate, and explicit unknowns. Unresolved practice facts may remain open. Interpret the assigned topic without silently replacing it; a proposed topic change requires resolution with Alex.
 
 ### Understand the Practice
 
@@ -40,7 +40,7 @@ Identify the main and supporting questions the article must answer, the claims r
 
 Include the supplied reference URLs and client website as research starting points, and authoritative third-party sources to verify relevant claims. Treat the supplied references as starting points rather than material to rewrite, as required by [Writing Standards](writing-standards.md#practice-research-and-provider-coverage).
 
-Plan a review of the leading organic Google results for the same topic. Derive research queries from the assignment and working interpretation, including geography when relevant. These research queries do not replace a primary keyword supplied by Alex. Plan to examine the reader questions, treatments, comparisons, considerations, answer structure, omissions, and weak explanations in the competing articles to identify how this article can be more useful.
+Plan a review of the leading organic Google results for the same topic. Derive research queries from the assignment and working interpretation, including geography when relevant. Plan to examine the reader questions, treatments, comparisons, considerations, answer structure, omissions, and weak explanations in the competing articles to identify how this article can be more useful.
 
 Search ranking identifies competing answers to examine; it does not establish medical accuracy. Plan authoritative verification of relevant claims and develop an original article. Researching competitor pages does not permit linking to direct competitors in the delivered article; the [Writing Standards for external links](writing-standards.md#links-and-closing-call-to-action) still apply.
 
@@ -80,7 +80,7 @@ Produce a complete article from the outline and supported research, following th
 
 Follow the outline while allowing changes that improve clarity and flow. Integrate practice and provider details naturally, include the planned links and customized call to action, and place visible markers for unresolved required facts. Prepare the associated questions for Google Doc comments. Flag any new factual claims introduced during writing for verification.
 
-Use a machine-readable representation of the applicable writing standards to guide drafting and run basic checks automatically on the completed draft. Preserve the standards’ conditions, exceptions, and assignment overrides. Basic checks include word count, supplied keyword placements, heading structure, link counts and repeated destinations, phone-number formatting, known business-name spelling, and listed generic phrases. Check missing inputs explicitly; an unavailable primary keyword cannot produce a passed keyword check.
+Use a machine-readable representation of the applicable writing standards to guide drafting and run basic checks automatically on the completed draft. Preserve the standards’ conditions, exceptions, and assignment overrides. Basic checks include word count, heading structure, link counts and repeated destinations, phone-number formatting, known business-name spelling, and listed generic phrases. Apply the active requirements in Writing Standards; do not turn unresolved customer questions into additional checks or delivery dependencies.
 
 This stage is complete when the whole article is written and basic check findings and unresolved claims are available to Evaluate and Revise. The first draft need not pass every check before entering evaluation.
 
@@ -90,7 +90,7 @@ Produce a revised article that completes the applicable production checks, with 
 
 Automatically evaluate the complete article against the applicable writing standards, assignment brief, practice findings, research evidence, and outline. Run deterministic checks and automated editorial and evidence assessments as part of the flow, without a manual trigger or Vikas’s article-by-article review. Use the same applicable standards that guide drafting, and apply [Engineering’s verification requirements](engineering.md#article-verification).
 
-Evaluate substantive coverage, reader-question coverage, practice customization, factual support, quotations and reviews, medical claims, natural keyword use, structure, links, localization, call to action, voice, readability, formatting, and proofreading. Counts and detected phrases establish only what those checks measure; they do not establish substantive content, medical accuracy, or editorial quality. Assessment methods and evidence of their reliability belong in Engineering.
+Evaluate substantive coverage, reader-question coverage, practice customization, factual support, quotations and reviews, medical claims, natural terminology, structure, links, localization, call to action, voice, readability, formatting, and proofreading. Counts and detected phrases establish only what those checks measure; they do not establish substantive content, medical accuracy, or editorial quality. Assessment methods and evidence of their reliability belong in Engineering.
 
 Automatically correct issues the system can resolve. Return to research or outlining when a finding requires it. Repeat affected checks after revisions, including checks affected indirectly by a change. Evaluate the resulting article version rather than treating checks on an earlier version as proof that the revised article passes.
 

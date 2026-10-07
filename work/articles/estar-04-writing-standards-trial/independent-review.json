@@ -1,0 +1,37 @@
+{
+  "reviewer": "Fresh-context independent AI reviewer /root/fresh_trial_review",
+  "candidate": "article.md",
+  "candidate_sha256": "ca39b385bd0b746fbe88b07a18429499d2df9cd19e811edd49ced540d8240d75",
+  "verdict": "REVISE_PACKAGE_THEN_SEND_AS_NEEDS_INFORMATION",
+  "findings": [
+    {
+      "severity": "required_package_correction",
+      "issue": "Keyword input classified as required in C1, but no visible missing-input marker beside the question",
+      "fix": "Add visible editorial primary-keyword and metadata-scope note beside title and preserve anchored question; do not invent keyword"
+    },
+    {
+      "severity": "optional_editorial_improvement",
+      "issue": "A supported swelling window could make event planning more useful",
+      "disposition": "Not a failed requirement; deferred to preserve the trial prose"
+    }
+  ],
+  "content_assessment": "Worth sending; no material factual defect requiring prose rewrite. Central comparison, Estar customization, risks, timing and reversal supported. No provider-procedure mapping needed for actual text. Approximate 1,403 body words substantially useful. Four internal content links, separate CTA, two authoritative external links.",
+  "sources_checked": [
+    "https://estarmedspa.com/about/",
+    "https://my.clevelandclinic.org/health/treatments/22362-lip-flip",
+    "https://www.fda.gov/medical-devices/aesthetic-cosmetic-devices/fda-approved-dermal-fillers",
+    "https://www.fda.gov/medical-devices/aesthetic-cosmetic-devices/dermal-fillers-soft-tissue-fillers",
+    "https://www.rxabbvie.com/pdf/botox-cosmetic_pi.pdf"
+  ],
+  "limitations": [
+    "Prepared comments are local, not posted Google Doc comments",
+    "Native delivery and batch status unverified",
+    "No clinical expert validation, exhaustive originality comparison, SEO prediction or customer acceptance"
+  ],
+  "final_review": {
+    "article": "article-reviewed.md",
+    "sha256": "53de295e0848d389c9016beb318fa1f27a1fe8c52f0de320d0f3e2d73cb1e87d",
+    "verdict": "SEND_AS_NEEDS_INFORMATION",
+    "findings": "Visible missing-input marker with anchored C1 resolves required package correction. Prose unchanged. All four anchors match. No material editorial or factual defect remains identified. Provider mapping unnecessary for actual text. Exact keywords and metadata scope unresolved."
+  }
+}

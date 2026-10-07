@@ -51,17 +51,15 @@ Avoid generic phrases such as "In today's fast-paced world," "When it comes to,"
 
 ## SEO, AEO, and Geography
 
-Baseline: place the supplied primary keyword naturally in the title, first 100 words, at least one H2, meta title, meta description, and URL when applicable. Include related supporting terms naturally to establish topic context. Do not force a keyword count or density.
+Use relevant topic terms naturally to explain the assigned subject and its context. Preserve the supplied title and SEO or AEO label.
 
-Unknown keywords cannot produce a passed keyword check. The initial assignment supplies titles without explicit primary keywords. Keyword inputs and the expected metadata deliverable remain open in [Follow-Up Questions for Alex](#follow-up-questions-for-alex). Do not silently declare the title or a research query to be Alex's primary keyword.
+Include city, state, and service area naturally when applicable. Include neighborhoods and surrounding markets when they help explain location or service coverage. Do not force geographic keywords or imply a physical location unsupported by practice evidence.
 
-Include city, state, and service area naturally when applicable. Assignment interpretation: include neighborhoods and surrounding markets when they help explain location or service coverage. Do not force geographic keywords or imply a physical location unsupported by the practice evidence.
-
-Assignment addition: support traditional SEO and AI/AEO discovery through direct answers and clear, supported information about relevant practices, providers, expertise, services, and geography. This does not require a separate AEO section or establish a ranking guarantee. Preserve the assignment's SEO or AEO label; the expected difference in writing approach remains an open customer question.
+Support traditional SEO and AI/AEO discovery through direct answers and clear, supported information about relevant practices, providers, expertise, services, and geography. This does not require a separate AEO section or establish a ranking guarantee.
 
 ## Links and Closing Call to Action
 
-Baseline: include two to four internal content links, with two for a 300-word article and four for an article of 600 or more words. The initial workload therefore requires four internal content links. The call-to-action link does not count toward that total. Prioritize the main service page, related service pages, and relevant educational articles. The first internal link should typically point to the primary service being promoted unless it is in the keyword or keyword phrase. Do not link to the same internal destination twice.
+Baseline: include two to four internal content links, with two for a 300-word article and four for an article of 600 or more words. The initial workload therefore requires four internal content links. The call-to-action link does not count toward that total. Prioritize the main service page, related service pages, and relevant educational articles. The first internal link should typically point to the primary service being promoted. Do not link to the same internal destination twice.
 
 Assignment addition: provider, contact, and booking pages are also useful internal destinations where relevant. A contact or team link used as the call to action remains excluded from the content-link count. Choose links for reader usefulness rather than inserting unrelated destinations to meet the count.
 
@@ -100,18 +98,8 @@ The [archived guide](../sources/seo-aeo/content_style_guide.md#ap-style-requirem
 
 Baseline: AI may assist research, brainstorming, outlining, draft generation, and phone checks. Each article must still be fact checked, edited, customized for the client, and substantially verified. Never deliver AI-generated content without substantial editing and verification.
 
-Existing approved product exception: Alex provides human review after delivery through User Design's customer review process. This replaces the guide's pre-submission human-review requirement for this product version. Customer confirmation remains open below. AI review does not establish human review or customer acceptance.
+Existing approved product exception: Alex provides human review after delivery through User Design's customer review process. This replaces the guide's pre-submission human-review requirement for this product version. Customer confirmation remains open in [Roadmap](roadmap.md#open-questions-for-alex). AI review does not establish human review or customer acceptance.
 
-Before delivery, verify the answer, accuracy, substantive length, readability, call to action, applicable keywords and metadata, links, geography, AP formatting, Oxford commas, numbers, phone number, business name, headings, and short paragraphs. Check grammar and spelling, verify facts, complete a final proofread, and remove repetitive AI language. Engineering owns verification methods and evidence; Architecture runs the checks automatically as part of production.
+Before delivery, verify the answer, accuracy, substantive length, readability, call to action, links, geography, AP formatting, Oxford commas, numbers, phone number, business name, headings, and short paragraphs. Check grammar and spelling, verify facts, complete a final proofread, and remove repetitive AI language. Engineering owns verification methods and evidence; Architecture runs the checks automatically as part of production.
 
 Verify conditional requirements against their applicability and supporting evidence. Distinguish failed requirements, missing required inputs, unavailable optional material, and requirements that do not apply. Do not fail an article merely because an optional feature is absent. Writing Standards defines compliance; User Design defines permitted delivery with missing required facts and Alex's acceptance process.
-
-## Follow-Up Questions for Alex
-
-These questions remain open pending Alex's response. They do not establish new requirements or resolve the stated uncertainties.
-
-1. What keywords or search queries led to each article assignment, identified by client and prompt number? Which is the primary keyword? If an assignment was not selected from keywords or search queries, how was the topic chosen, and what reader question or goal should it address? This context could guide the research approach. The style guide calls for the primary keyword in the article and its meta title and meta description, but this assignment supplies titles without explicit primary keywords. Should we also draft a proposed meta title and meta description for each article using the keywords you provide?
-
-2. How do Benchmark’s writers distinguish SEO articles from AEO articles in practice? The assignment labels them separately, but the style guide does not explain a different writing approach, and the assignment asks every article to support both SEO and AEO discovery. What should change in research, structure, content, or review criteria based on the label? Can you provide an example of each and explain the differences you expect?
-
-3. Can you confirm that articles may be delivered directly to you after substantial editing, fact checking, and verification, with your customer review providing human review after delivery? The style guide requires human review before submission; the proposed workflow has no human review before delivery.
