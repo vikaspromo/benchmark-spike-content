@@ -20,15 +20,15 @@ Preserve the supplied client, prompt number, original title, SEO/AEO label, refe
 
 Use the assignment and a focused review of the client's website to infer the target reader and main question or decision. Choose one working interpretation, record it as a hypothesis with supporting evidence, and move forward. Update that interpretation when later evidence warrants a change; do not maintain competing interpretations or an interpretation history.
 
-Identify claims implied by the title that need investigation, including superiority, permanence, pricing, availability, and provider expertise. The title does not establish their truth. Keep missing inputs explicit when they affect the article's answer or an applicable requirement. The brief must establish the audience, purpose, and supplied constraints without silently replacing the assigned topic; resolve a proposed topic change with Alex.
+Identify claims implied by the title that need investigation, including superiority, permanence, pricing, availability, and clinician expertise. The title does not establish their truth. Keep missing inputs explicit when they affect the article's answer or an applicable requirement. The brief must establish the audience, purpose, and supplied constraints without silently replacing the assigned topic; resolve a proposed topic change with Alex.
 
 ### Understand the Practice
 
 Establish the practice context and find supported material useful to this article under [Writing Standards](writing-standards.md#content-types).
 
-Use the assignment brief to research relevant services, treatments, technology, providers, credentials, locations, practice approach, terminology, and differentiators on the client's website. Examine relevant text and images, including captions and text within images, using Writing Standards' material categories to guide the search. Find useful service, provider, educational, contact, and booking links, and investigate relevant practice claims from the brief.
+Use the assignment brief to research relevant services, treatments, technology, clinicians, credentials, locations, practice approach, terminology, and differentiators on the client's website. Examine relevant text and images, including captions and text within images, using Writing Standards' material categories to guide the search. Find useful service, clinician, educational, contact, and booking links, and investigate relevant practice claims from the brief.
 
-Keep source evidence and limits needed to use the findings accurately under [Data Model](data-model.md#article-research-material). Preserve correct provider associations and distinguish physical locations from article target geography and treatments from bookable appointments under [Client Information](data-model.md#client-information). A website image does not establish who or what it depicts; product-brand evidence does not establish every formulation or model.
+Keep source evidence and limits needed to use the findings accurately under [Data Model](data-model.md#article-research-material). Preserve correct clinician associations and distinguish physical locations from article target geography and treatments from bookable appointments under [Client Information](data-model.md#client-information). A website image does not establish who or what it depicts; product-brand evidence does not establish every formulation or model.
 
 Investigate practice facts needed for the article's answer. Use the supported material available; this stage does not require material from every category, a general client model, or records of unused material.
 
@@ -56,7 +56,7 @@ For a required fact that Alex can supply without changing the supported directio
 
 Arrange the supported central answer and reader questions into a useful sequence. Plan headings and substantive answers, using supported practice material where it helps the article under [Writing Standards](writing-standards.md#section-focus). Do not assign section word budgets.
 
-Plan relevant provider context, useful internal links, appropriate external links, and the closing call to action under Writing Standards. Place useful practice material and images where they support an explanation, and identify locations for unresolved required facts and comments.
+Plan clinician selection under [Writing Standards](writing-standards.md#clinician-selection), useful internal links, appropriate external links, and the closing call to action. Place useful practice material and images where they support an explanation, and identify locations for unresolved required facts and comments.
 
 Adjust coverage or return to research when the outline lacks a supported answer. Combine repetitive sections and omit material that does not support its heading. If research cannot support the assigned answer, bring the specific gap to the operator rather than invent material or silently change the topic. The outline guides drafting; it does not require a selection record for every material item or a separate customization review.
 

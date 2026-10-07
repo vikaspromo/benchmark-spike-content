@@ -8,7 +8,7 @@ Writing Standards owns article requirements: reader fit, content, evidence, writ
 
 ### Target Reader
 
-Write for the target reader established from the assignment and practice context under [Architecture](architecture.md#understand-the-assignment). Reader persona means the reader's relevant knowledge, concern, purpose, and priorities. Do not assume every assignment addresses a patient; professional training articles must serve the medical professionals considering that training.
+Write for the target reader established from the assignment and practice context under [Architecture](architecture.md#understand-the-assignment). Reader persona means the reader's relevant knowledge, concern, purpose, and priorities. Do not assume every assignment addresses a patient; professional training articles must serve the clinicians considering that training.
 
 For patient-facing articles, address a capable adult making a personal health or appearance decision who may lack clinical knowledge. Explain unfamiliar concepts without treating the reader as inexperienced in life. First-time treatment does not imply an unsophisticated reader.
 
@@ -16,7 +16,7 @@ Adapt the depth of explanation to the reader's likely knowledge and decision sta
 
 ### Reader Priorities
 
-Prioritize information according to the reader's main question. For a treatment comparison, explain the differences that affect the choice. For a first-time treatment article, explain expected results, the treatment experience, and meaningful commitments or risks. For a provider-selection article, explain supported expertise and the practice's approach. Include other information only when it helps answer that main question.
+Prioritize information according to the reader's main question. For a treatment comparison, explain the differences that affect the choice. For a first-time treatment article, explain expected results, the treatment experience, and meaningful commitments or risks. For a clinician-selection article, explain supported expertise and the practice's approach. Include other information only when it helps answer that main question.
 
 Answer the assigned question clearly, accurately, and thoroughly for the intended reader. Give supported explanations, practical expectations, and distinctions that help the reader understand the topic or make the decision it addresses.
 
@@ -60,7 +60,7 @@ Use bullets when parallel items are easier to scan or compare than prose, such a
 
 Include two to four internal content links, with two for a 300-word article and four for an article of 600 or more words. The initial workload therefore requires four internal content links. The call-to-action link does not count toward that total. Prioritize the main service page, related service pages, and relevant educational articles. The first internal link should typically point to the primary service being promoted. Do not link to the same internal destination twice.
 
-Provider, contact, and booking pages are also useful internal destinations where relevant. Choose links for reader usefulness rather than inserting unrelated destinations to meet the count.
+Clinician, contact, and booking pages are also useful internal destinations where relevant. Choose links for reader usefulness rather than inserting unrelated destinations to meet the count.
 
 Include one or two external links when appropriate. Prefer authoritative sources such as the American Academy of Dermatology, Mayo Clinic, NIH, CDC, FDA, and the American Society of Plastic Surgeons. Other authoritative sources may be used. Do not link to direct competitors or directories such as Wikipedia.
 
@@ -86,6 +86,7 @@ Follow AP Style for spelling, grammar, punctuation, capitalization, and usage, s
 - Format phone numbers as 301-555-1234 and verify the actual number.
 - Use AP headline-style capitalization for headings.
 - Spell business names correctly and preserve practice terminology.
+- Use clinician as the general term for a person providing or overseeing clinical care. Preserve specific professional titles and credentials when relevant.
 
 ## Practice-Specific Content
 
@@ -107,9 +108,13 @@ The following kinds of material can support practice customization; they are not
 - **Products and technology:** Named formulations, devices, or treatment systems relevant to the topic, including supported descriptions of their purpose or reasons for selection. Distinguish product characteristics from a clinician's stated preference, and general product information from evidence that the practice uses the product.
 - **Follow-up and adjustments:** Details about when results are reviewed, what the clinician checks, how concerns are handled, or how additional treatment is arranged. Use specific published details; a general promise of ongoing care does not establish a schedule, assessment, or adjustment policy.
 - **Clinician observations:** Attributed practical insights, recurring patient questions, or misunderstandings that a clinician explains. These can show how experience informs care or patient education. Website FAQs may supply useful answers without establishing a named clinician's experience.
-- **Quotes, testimonials, and social posts:** Approved provider quotes, genuine Google reviews or testimonials, and posts from the practice’s Facebook or Instagram accounts can add expertise, patient experience, or treatment context. Use material only when it helps answer the article’s question. Attribute it to the speaker, reviewer, or practice, and include a direct link to the specific source passage, review, testimonial, or post. Never fabricate quotations or review language. Treat patient accounts as individual experiences, not evidence of general medical outcomes.
+- **Quotes, testimonials, and social posts:** Approved clinician quotes, genuine Google reviews or testimonials, and posts from the practice’s Facebook or Instagram accounts can add expertise, patient experience, or treatment context. Use material only when it helps answer the article’s question. Attribute it to the speaker, reviewer, or practice, and include a direct link to the specific source passage, review, testimonial, or post. Never fabricate quotations or review language. Treat patient accounts as individual experiences, not evidence of general medical outcomes.
 - **Practice images:** Relevant images of the practice's clinicians, setting, equipment, or treatment examples. Distinguish images depicting the practice or its work from stock and manufacturer images; appearing on the website alone does not establish that distinction. Use images to help explain the topic or patient experience, with captions limited to supported details. An image can contribute without supplying a complete patient case.
 - **Product and technology images:** Use images only for products, formulations, devices, or treatment systems that evidence confirms the practice uses and that are relevant to the article. A general product description or comparison does not establish practice use. Match the image to the confirmed product or technology; confirmation of a brand does not establish use of every formulation or model. Use imagery to support the explanation rather than as decoration. A shared manufacturer image does not by itself establish practice customization.
+
+### Clinician Selection
+
+Help the reader choose a clinician within the practice for the concern discussed in the article. Feature up to two clinicians, using supported experience, expertise, treatment involvement, or approach to explain why each is relevant. Give the reader a reason to consider each clinician rather than simply list names and credentials.
 
 ### Geography
 
@@ -121,4 +126,4 @@ Support each medical claim with either a link to a reputable independent medical
 
 Check claims from both sources before using them. Remove guarantees, misleading promises, unsupported statistics, and claims that treatment is risk-free. If the evidence leaves a claim doubtful, omit it. Use qualifications only when they accurately reflect the evidence.
 
-Answer general treatment questions directly. Refer the reader to a clinician for individual suitability and treatment planning. Include safety advice when relevant to the article’s question; do not add unrelated warnings or repeatedly substitute “ask your provider” for an available answer.
+Answer general treatment questions directly. Refer the reader to a clinician for individual suitability and treatment planning. Include safety advice when relevant to the article’s question; do not add unrelated warnings or repeatedly substitute “ask your clinician” for an available answer.

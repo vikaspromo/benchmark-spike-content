@@ -6,7 +6,7 @@ Data Model owns records and their meanings, identity, relationships, and validit
 
 ## Client Information
 
-Client information must accommodate multiple websites and physical locations. It must distinguish physical locations from article target geography, and treatments from bookable appointments. Provider roles, credentials, and treatment associations must refer to the correct person.
+Client information must accommodate multiple websites and physical locations. It must distinguish physical locations from article target geography, and treatments from bookable appointments. Clinician roles, credentials, and treatment associations must refer to the correct person.
 
 [User Design](userdesign.md#article-content-and-writing-standards) defines how articles reflect client information and make missing or conflicting information visible.
 
