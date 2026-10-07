@@ -24,13 +24,13 @@ Produce localized, treatment-specific education with useful subtopics, natural p
 
 ## Article Voice
 
-Write as an informed health and aesthetics writer explaining the assigned topic and the practice to the intended reader. Be warm, direct, and assured, with the depth appropriate to [Article Audience](#article-audience). Explain what matters and why through supported details and meaningful distinctions. Respect the reader's judgment; do not adopt the tone of a basic how-to script.
+Write as an informed health and aesthetics writer explaining the assigned topic and the practice to the intended reader. Be warm, direct, and assured, with the depth appropriate to [Article Audience](#article-audience). Respect the reader's judgment; do not adopt the tone of a basic how-to script.
 
-Present supported practice information as part of the explanation. Make the practice, clinician, treatment, or patient experience the subject of the sentence rather than routinely narrating what a website “says,” “lists,” or “describes.” Explain what a relevant feature means for the reader instead of reciting a catalogue of equipment, credentials, or services. Preserve attribution and uncertainty under [Content Types](#content-types) and [Medical Claims](#medical-claims).
+Give concrete answers using supported treatment facts, practical expectations, and relevant differences. Explain how important details affect the result, experience, choice, or commitment when the evidence supports that connection. Do not replace an available answer with advice about what a good consultation should explain or what the reader should ask. Reserve consultation advice for individual suitability and treatment planning under [Medical Claims](#medical-claims).
 
-Answer the reader's question with concrete information. Explain available treatment facts, practical expectations, and relevant differences rather than repeatedly telling the reader what a good consultation or recommendation should explain. Reserve consultation advice for individual suitability and treatment planning under [Medical Claims](#medical-claims).
+Integrate supported practice information into the explanation. Make the practice, clinician, treatment, or patient experience the subject of the sentence rather than routinely narrating what a website “says,” “lists,” or “describes.” Use relevant features to explain the topic instead of reciting equipment, credentials, or services. Preserve attribution and uncertainty under [Content Types](#content-types) and [Medical Claims](#medical-claims).
 
-Use conversational language, active voice, natural transitions, and real-world examples when appropriate. Each passage must develop the answer rather than restate a point already made. Combine repeated explanations and remove mechanical transitions or closing statements that merely announce why the preceding paragraph was useful. Keep necessary qualifications in plain language beside the claims they qualify.
+Use conversational language, active voice, natural transitions, and real-world examples when appropriate. Develop the answer across sections: a later passage must add information, apply an earlier point to a different situation, or supply a necessary qualification. Combine passages that make the same point without developing it. Remove closing statements that merely announce the value of the preceding explanation. State necessary qualifications beside the affected claim; do not follow a clear limitation with another generic warning that adds no information.
 
 Create warmth through attention to the reader's concerns and specific explanations. Avoid stock enthusiasm, inflated praise, a sales-script tone, repetitive wording, keyword stuffing, generic AI phrases, unnecessary technical language, long walls of text, excessive keyword bolding, and introductions that immediately start selling. Avoid generic phrases such as "In today's fast-paced world," "When it comes to," "Unlock the secrets," "Delve into," and "Game-changing." Do not copy content from competitors.
 
@@ -66,7 +66,7 @@ Include one or two external links when appropriate. Prefer authoritative sources
 
 ### Call to Action
 
-End each article with a clear, customized invitation and a scheduling link and/or phone number. Direct the reader toward an appropriate consultation or booking pathway. Name relevant providers when supported and useful, under [Medical Providers](#medical-providers); do not invent procedure associations or consultation terms to make the invitation more specific.
+End each article with a clear, customized invitation and a scheduling link and/or phone number. Direct the reader toward an appropriate consultation or booking pathway. Do not invent procedure associations or consultation terms to make the invitation more specific.
 
 ### Images
 
@@ -110,12 +110,6 @@ The following kinds of material can support practice customization; they are not
 - **Quotes, testimonials, and social posts:** Approved provider quotes, genuine Google reviews or testimonials, and posts from the practice’s Facebook or Instagram accounts can add expertise, patient experience, or treatment context. Use material only when it helps answer the article’s question. Attribute it to the speaker, reviewer, or practice, and include a direct link to the specific source passage, review, testimonial, or post. Never fabricate quotations or review language. Treat patient accounts as individual experiences, not evidence of general medical outcomes.
 - **Practice images:** Relevant images of the practice's clinicians, setting, equipment, or treatment examples. Distinguish images depicting the practice or its work from stock and manufacturer images; appearing on the website alone does not establish that distinction. Use images to help explain the topic or patient experience, with captions limited to supported details. An image can contribute without supplying a complete patient case.
 - **Product and technology images:** Use images only for products, formulations, devices, or treatment systems that evidence confirms the practice uses and that are relevant to the article. A general product description or comparison does not establish practice use. Match the image to the confirmed product or technology; confirmation of a brand does not establish use of every formulation or model. Use imagery to support the explanation rather than as decoration. A shared manufacturer image does not by itself establish practice customization.
-
-### Medical Providers
-
-Include providers whose confirmed roles or expertise help explain the treatment or guide the reader toward a consultation. When several providers are relevant, represent the team rather than defaulting to one person. Name providers in the closing CTA when doing so makes the invitation more useful. Attribute procedures only when supported by evidence.
-
-Keep the focus on a specific provider when the assignment names that person. When evidence establishes a provider's role or expertise without confirming a treatment association, describe that role or expertise without assigning the treatment to them. The article does not need to list the whole team or identify who performs every procedure when it can answer the reader's question without that information.
 
 ### Geography
 
