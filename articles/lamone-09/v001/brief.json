@@ -1,0 +1,19 @@
+{
+  "client": "La-Mon’e Aesthetics",
+  "number": 9,
+  "title": "Lip Filler Appointments in Bryn Mawr PA for First-Time Patients",
+  "reference": "https://www.healthline.com/health/dermal-fillers",
+  "site": "https://www.lamoneaesthetics.com/",
+  "reader": "First-time lip-filler patients in Bryn Mawr and the Philadelphia/Main Line area.",
+  "question": "What should I know and ask before my first lip filler appointment at this practice?",
+  "hypothesis": "The reader needs a realistic goal, a clear first-visit experience, the practice’s actual examples and published fees, and actionable recovery/safety guidance.",
+  "support": [
+    "The supplied prompt explicitly names first-time patients and Bryn Mawr.",
+    "The website places the practice in Bryn Mawr and publishes lip services, fees, gallery examples, and clinician background."
+  ],
+  "type": "SEO",
+  "special_instructions": [
+    "Exclude the practice’s blogs and previously completed same-topic articles.",
+    "Use active governing Writing Standards; archived assignment lengths and writing rules do not override them."
+  ]
+}

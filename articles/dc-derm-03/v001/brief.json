@@ -1,0 +1,19 @@
+{
+  "client": "DC Derm Docs",
+  "number": 3,
+  "title": "Laser Hair Removal in Washington DC: How to Achieve Long-Lasting Hair Reduction Safely",
+  "reference": "https://www.healthline.com/health/laser-hair-removal",
+  "site": "https://dc-dermdocs.com/",
+  "reader": "Adults in the Washington, DC, area considering professional hair reduction.",
+  "question": "How can I obtain useful lasting hair reduction while choosing and preparing for treatment safely?",
+  "hypothesis": "The reader needs practical expectations, skin/hair suitability, and an explanation of the practice’s actual treatment choices before booking.",
+  "support": [
+    "The assigned title asks about longevity and safety.",
+    "The non-blog service pages name systems, explain treatment, and list package boundaries."
+  ],
+  "type": "SEO",
+  "special_instructions": [
+    "Exclude the practice’s blogs and previously completed same-topic articles.",
+    "Use active governing Writing Standards; archived assignment lengths and writing rules do not override them."
+  ]
+}
