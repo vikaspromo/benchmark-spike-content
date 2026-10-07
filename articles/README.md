@@ -19,5 +19,10 @@ The current v001 drafts have [retrospectively reconstructed provenance](runs/202
 | DC Derm Docs, prompt 3 | v001 | October 7, 2026 | [Laser hair removal](dc-derm-03/v001/article.md) |
 | La-Mon’e Aesthetics, prompt 9 | v001 | October 7, 2026 | [First-time lip filler](lamone-09/v001/article.md) |
 | Estar MedSpa, prompt 4 | v001 | October 7, 2026 | [Lip flip versus filler](estar-04/v001/article.md) |
+| DC Derm Docs, prompt 3 | v002 | October 7, 2026 | [Laser hair removal](dc-derm-03/v002/article.md) |
+| La-Mon’e Aesthetics, prompt 9 | v002 | October 7, 2026 | [First-time lip filler](lamone-09/v002/article.md) |
+| Estar MedSpa, prompt 4 | v002 | October 7, 2026 | [Lip flip versus filler](estar-04/v002/article.md) |
+
+The latest v002 packages use [committed production inputs](runs/2026-10-07-writing-standards-v002/README.md). Each contains a new article, source support, prepared comments, local HTML preview, final checklist assessment, and hashes. v001 remains available for feedback comparison.
 
 This file explains the local draft organization; it does not define article writing requirements or the production flow.

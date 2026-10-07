@@ -1,0 +1,18 @@
+{
+  "assignment": "estar-04",
+  "version": "v002",
+  "article_sha256": "2cc8ba332c25650c0e753f34e2b6d7f0b0afae29396aafcf91318f80667d870a",
+  "delivery_state": "Prepared locally; not Google Doc comments yet",
+  "comments": [
+    {
+      "type": "image_source",
+      "anchor": "A modest increase in fullness in Estar's 0.5 mL lip-filler example. Individual results vary.",
+      "text": "Source page: https://estarmedspa.com/before-and-afters/\nDirect image: https://estarmedspa.com/wp-content/uploads/lip-filler-2-576x1024.jpg"
+    },
+    {
+      "type": "optional_material",
+      "anchor": "A recommendation should connect that finding with the treatment's mechanism.",
+      "text": "Alex: Could you supply an approved Estar clinician quote explaining how the clinician distinguishes upper-lip movement from a need for added volume? It could strengthen this comparison; the supported article can be reviewed without it."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "prompt_number": 3,
+  "label": "SEO",
+  "supplied_title": "Laser Hair Removal in Washington DC: How to Achieve Long-Lasting Hair Reduction Safely",
+  "practice_website": "https://dc-dermdocs.com/",
+  "supplied_reference": "https://www.healthline.com/health/laser-hair-removal",
+  "interpretation": {
+    "target_reader": "An adult considering a course of professional laser hair removal in Washington, DC, who wants less regrowth and a sound basis for judging safety and the commitment.",
+    "main_question": "What makes long-lasting hair reduction a realistic goal, and how should a patient evaluate treatment at DC Derm Docs?",
+    "working_hypothesis": "Explain reduction rather than promise permanent removal, then connect skin and hair suitability, clinical judgment, and package boundaries to the decision.",
+    "supporting_evidence": [
+      "The assignment asks for long-lasting reduction safely, not guaranteed permanent removal.",
+      "The practice service page identifies systems and six-treatment package boundaries.",
+      "The medical team and service pages establish dermatology and cosmetic care context."
+    ],
+    "constraints": [
+      "Current Writing Standards at production commit",
+      "No practice blog research",
+      "No previous article package reads",
+      "Local draft and preview, not customer delivery"
+    ],
+    "required_unresolved_inputs": []
+  },
+  "production_commit": "780d1fb313aa862c3f861df20dcd9caaf0a471c5",
+  "version": "v002"
+}
