@@ -24,13 +24,17 @@ Identify claims implied by the title that need investigation, including superior
 
 ### Understand the Practice
 
-Establish the practice context and find supported material useful to this article under [Writing Standards](writing-standards.md#content-types).
+Establish the practice context and find supported material useful to this article under [Writing Standards](writing-standards.md#content-types). Use the assignment brief to guide research into relevant services, treatments, technology, clinicians, credentials, locations, practice approach, terminology, and differentiators.
 
-Use the assignment brief to research relevant services, treatments, technology, clinicians, credentials, locations, practice approach, terminology, and differentiators on the client's website. Examine relevant text and images, including captions and text within images, using Writing Standards' material categories to guide the search. Find useful service, clinician, educational, contact, and booking links, and investigate relevant practice claims from the brief.
+Use the site's navigation and sitemap, when available, to discover likely pages for each main treatment or service in the assignment. Read relevant pages and follow links to more specific or complementary information. Search the site for important practice questions that remain unanswered. Combine relevant facts across pages; a service page, product page, clinician biography, gallery, or policy page may each supply different parts of the answer.
+
+Examine relevant text and images, including captions and text within images, using Writing Standards' material categories to guide the search. Find useful service, clinician, educational, contact, and booking links, and investigate relevant practice claims from the brief.
+
+Stop expanding the website review when the needed practice questions have supported answers and additional relevant pages mostly repeat information, or when targeted searches yield no further usable evidence. Handle remaining gaps and conflicting facts under [Research and Resolve](#research-and-resolve) before relying on them in the article. Later research or drafting may identify a specific question that requires another website visit.
 
 Keep source evidence and limits needed to use the findings accurately under [Data Model](data-model.md#article-research-material). Preserve correct clinician associations and distinguish physical locations from article target geography and treatments from bookable appointments under [Client Information](data-model.md#client-information). A website image does not establish who or what it depicts; product-brand evidence does not establish every formulation or model.
 
-Investigate practice facts needed for the article's answer. Use the supported material available; this stage does not require material from every category, a general client model, or records of unused material.
+Use the supported material available. This stage does not require material from every category, a general client model, or records of unused material.
 
 ### Plan the Research
 
