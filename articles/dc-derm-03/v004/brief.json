@@ -1,0 +1,41 @@
+{
+  "client": "DC Derm Docs",
+  "prompt_number": 3,
+  "type": "SEO",
+  "original_title": "Laser Hair Removal in Washington DC: How to Achieve Long-Lasting Hair Reduction Safely",
+  "reference_urls": [
+    "https://www.healthline.com/health/laser-hair-removal"
+  ],
+  "practice_url": "https://dc-dermdocs.com/",
+  "production_input_commit": "21704a8aa0a7929050aacdba7362582c00d82e34",
+  "interpretation": {
+    "kind": "working hypothesis",
+    "reader": "Adult considering professional laser hair removal in Washington DC who needs useful expectations for results, safety, and treatment commitment.",
+    "main_question": "How can I pursue lasting hair reduction safely, and what does treatment at DC Derm Docs offer?",
+    "basis": "Assignment asks lasting reduction and safety; practice service pages identify adjustable Splendor X technology, cooling, repeated sessions, and packages.",
+    "title_claims_to_verify": [
+      "long-lasting reduction versus permanent total removal",
+      "safety and individual suitability",
+      "practice availability and technology"
+    ]
+  },
+  "constraints": [
+    "Frozen consolidated Writing Standards, including 1150\u20131250 body words, governs.",
+    "Fresh practice research before third parties; no previous articles or research.",
+    "No Google delivery in this run.",
+    "No invented clinician\u2013procedure association."
+  ],
+  "supported_direction": "Long-lasting reduction requires suitable hair/skin assessment, individualized technology, repeated treatment, sun protection, and realistic maintenance expectations.",
+  "required_missing_facts": [],
+  "optional_material_requests": [
+    "Approved treating-clinician quote on skin/hair assessment; attributed treatment example with permission."
+  ],
+  "outline": [
+    "Meaning of lasting reduction",
+    "Skin/hair and device selection",
+    "Consultation and preparation",
+    "Visit and recovery",
+    "Series/packages and clinician relevance",
+    "Local consultation invitation"
+  ]
+}

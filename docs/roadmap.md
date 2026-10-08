@@ -71,3 +71,14 @@ At Vikas's direction, DC Derm Docs prompt 3 was then revised as v003 to test the
 
 
 Vikas then directed the same current process on La-Mon’e and Estar, holding the evidence-use finding without changing guidance. The [v003 production record](../articles/runs/2026-10-07-two-practice-v003/README.md) preserves input tracing and comparisons with unchanged v002 packages. Final counts are 1,163 and 1,157 body words; 36 of 38 and 34 of 35 prose paragraphs contain one or two sentences. Each has two useful lists and the same practice image/source set. Final local checks and temporary PDF inspection passed by producing-agent assessment. Governing documents remain unchanged. Comparisons identify limited clinician insight for La-Mon’e and recurring movement-versus-volume explanations for Estar. Customer delivery, acceptance, and assessment reliability remain unverified.
+
+
+## Current Resumption Point
+
+All three fresh v004 drafts are complete and preserved in [the article index](../articles/README.md), with the [run record](../articles/runs/2026-10-07-three-practice-v004/README.md) identifying their frozen `21704a8` baseline. The packages retain the format used for that run. Their producing-agent assessments report no writing failures or required facts awaiting Alex; DC and La-Mon’e visual rendering remains unverified. Estar's local preview was inspected. Google delivery and customer acceptance remain unverified. The run record discloses accidental practice-blog exposure in DC navigation and Estar search output; those materials were excluded from article evidence and drafting authority.
+
+Vikas approved the missing-information, images-and-captions, and two-item retention revisions. They are incorporated in the governing documents for subsequent production. Future versions retain the article with images/comments and one compact support-and-check record. Existing v001–v004 packages stay intact. The article feedback log was deleted at Vikas's request.
+
+The [evidence-to-explanation proposal](../work/proposals/evidence-explanation.diff) remains pending approval and is not applied. Its content is unchanged from the proposal presented in the session; patch context was refreshed against the current documents. Retain this proposal only while needed for that decision. No new draft run is authorized by this resumption note.
+
+Next decisions: review the pending proposal, then decide whether to review v004 or authorize subsequent drafts using the updated governing documents. No article has been sent to Alex in this run.

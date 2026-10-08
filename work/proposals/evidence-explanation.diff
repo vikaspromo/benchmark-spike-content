@@ -1,0 +1,39 @@
+--- a/docs/writing-standards.md
++++ b/docs/writing-standards.md
+@@ -24,7 +24,7 @@
+ 
+ Include other information only when it helps answer that main question.
+ 
+-Answer the assigned question clearly, accurately, and thoroughly for the intended reader. Give supported explanations, practical expectations, and distinctions that help the reader understand the topic or make the decision it addresses.
++Answer the assigned question clearly, accurately, and thoroughly with supported treatment facts, practical expectations, and relevant distinctions. Explain how important details affect the result, experience, choice, or commitment when the evidence supports that connection. Do not replace an available answer with advice about what a good consultation should explain or what the reader should ask. [Medical Claims](#medical-claims) defines when personal assessment is needed and the factual limits of these explanations.
+ 
+ Produce localized, treatment-specific education with useful subtopics, natural practice integration, authoritative support, and a localized call to action.
+ 
+@@ -32,9 +32,7 @@
+ 
+ Write as an informed health and aesthetics writer explaining the assigned topic and the practice to the intended reader. Be warm, direct, and assured, with the depth appropriate to [Article Audience](#article-audience). Respect the reader's judgment; do not adopt the tone of a basic how-to script.
+ 
+-Give concrete answers using supported treatment facts, practical expectations, and relevant differences. Explain how important details affect the result, experience, choice, or commitment when the evidence supports that connection. Do not replace an available answer with advice about what a good consultation should explain or what the reader should ask. Reserve consultation advice for individual suitability and treatment planning under [Medical Claims](#medical-claims).
+-
+-Integrate supported practice information into the explanation. Make the practice, clinician, treatment, or patient experience the subject of the sentence rather than routinely narrating what a website “says,” “lists,” or “describes.” Use relevant features to explain the topic instead of reciting equipment, credentials, or services. Preserve attribution and uncertainty under [Content Types](#content-types) and [Medical Claims](#medical-claims).
++Present the answers required by [Reader Priorities](#reader-priorities) in natural prose. Integrate supported practice information into the explanation rather than recite equipment, credentials, or services. Make the practice, clinician, treatment, or patient experience the subject of the sentence rather than routinely narrating what a website “says,” “lists,” or “describes.” Preserve attribution and uncertainty under [Content Types](#content-types) and [Medical Claims](#medical-claims).
+ 
+ Use conversational language, active voice, natural transitions, and real-world examples when appropriate. Develop the answer across sections: a later passage must add information, apply an earlier point to a different situation, or supply a necessary qualification. Combine passages that make the same point without developing it. Remove closing statements that merely announce the value of the preceding explanation. State necessary qualifications beside the affected claim; do not follow a clear limitation with another generic warning that adds no information.
+ 
+@@ -136,4 +134,4 @@
+ 
+ Check claims from both sources before using them. Remove guarantees, misleading promises, unsupported statistics, and claims that treatment is risk-free. If the evidence leaves a claim doubtful, omit it. Use qualifications only when they accurately reflect the evidence.
+ 
+-Answer general treatment questions directly. Refer the reader to a clinician for individual suitability and treatment planning. Include safety advice when relevant to the article’s question; do not add unrelated warnings or repeatedly substitute “ask your clinician” for an available answer.
++Refer the reader to a clinician for individual suitability and treatment planning. Include safety advice when relevant to the article’s question; do not add unrelated warnings. [Reader Priorities](#reader-priorities) governs the supported general answers the article must provide.
+--- a/docs/engineering.md
++++ b/docs/engineering.md
+@@ -14,7 +14,7 @@
+ 
+ Verify [Readability](writing-standards.md#readability) by counting prose body paragraphs and the sentences in each. Exclude headings, list items, captions, and comments; account for abbreviations and initials when identifying sentence boundaries. Record the number and proportion of body paragraphs containing one or two sentences in the final assessment. Review whether parallel information would be clearer as bullets, and identify passages that need that change.
+ 
+-Verify [Reader Priorities](writing-standards.md#reader-priorities), [Article Voice](writing-standards.md#article-voice), and [Section Focus](writing-standards.md#section-focus) by reading the completed article section by section and across sections. Establish the question or subject stated by each heading, then check whether each paragraph, bullet, and example develops that answer through facts, explanations, comparisons, examples, or necessary qualifications. Identify useful passages that belong under another heading and sections that overlap without adding distinct value. For first-time treatment articles, check whether the relevant sequence is understandable and whether the evidence supports any stated practice process or visit timing. Assess whether important facts are connected to their supported practical meaning and whether the language sounds natural. Identify passages that give advice instead of an available answer, repeat a point without developing it, or add generic warnings after the relevant limitation is already clear. Stock-phrase searches and paragraph counts cannot establish these results.
++Verify [Reader Priorities](writing-standards.md#reader-priorities), [Article Voice](writing-standards.md#article-voice), and [Section Focus](writing-standards.md#section-focus) by reading the completed article section by section and across sections. Establish the question or subject stated by each heading, then check whether each paragraph, bullet, and example develops that answer through facts, explanations, comparisons, examples, or necessary qualifications. Identify useful passages that belong under another heading and sections that overlap without adding distinct value. For first-time treatment articles, check whether the relevant sequence is understandable and whether the evidence supports any stated practice process or visit timing. For important details, check whether the article explains their practical meaning under Reader Priorities and whether the evidence supports both the fact and the stated connection. Assess the naturalness of the language separately under Article Voice. Identify passages that give advice instead of an available answer, repeat a point without developing it, or add generic warnings after the relevant limitation is already clear. Stock-phrase searches and paragraph counts cannot establish these results.
+ 
+ Support each checklist result with evidence appropriate to the requirement. For editorial results, point to representative passages in the exact article and explain how they satisfy the writing requirement. A list of present facts, links, qualifications, or clinician names is not enough to establish reader usefulness. Record concrete violations as failures with their locations and needed corrections; do not mark the requirement passed while leaving those violations as editorial caveats. Retain concise evidence in the final-check portion of the support-and-check record under [Data Model](data-model.md#assignments-and-article-status).
+ 

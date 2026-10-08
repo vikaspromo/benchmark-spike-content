@@ -1,0 +1,38 @@
+{
+  "client": "Estar MedSpa & Innovative Health Center",
+  "prompt_number": 4,
+  "type": "SEO",
+  "original_title": "What Is the Difference Between a Lip Flip and Lip Filler?",
+  "reference_urls": [
+    "https://www.theskincentermd.com/lip-flip-vs-lip-filler-what-is-the-difference/"
+  ],
+  "assignment_source": "sources/writing-standards/assignment.md at 21704a8aa0a7929050aacdba7362582c00d82e34",
+  "version": "v004",
+  "working_interpretation": {
+    "status": "hypothesis",
+    "audience": "Adults comparing nonsurgical lip enhancement near Olney, MD, with no assumed prior treatment experience.",
+    "purpose": "Explain which changes come from muscle relaxation versus added volume, and the result, visit, recovery, and adjustment commitments.",
+    "support": "Estar non-blog lip-flip and dermal-filler services offer both treatments; dedicated lip-flip guidance gives concrete patient-experience details."
+  },
+  "supplied_constraints": "Prompt 4 SEO; client actual treatments, clinicians, patient experience and local market. Frozen Writing Standards controls 1150\u20131250 body words and up to two clinicians.",
+  "investigated_title_claims": [
+    "Different mechanisms and goals",
+    "Availability at Estar",
+    "Duration without permanence guarantee",
+    "Qualified clinician associations"
+  ],
+  "required_missing_facts": [],
+  "optional_material": [
+    "Approved clinician quote about choosing between volume and muscle movement"
+  ],
+  "outline": [
+    "Mechanism and upper-lip display",
+    "Filler volume and shape",
+    "Goal comparison",
+    "Onset and duration",
+    "Estar consultation, comfort, observation and aftercare",
+    "Risk and adjustment differences",
+    "Two documented injectable clinicians and Olney CTA"
+  ],
+  "delivery_scope": "Local review package only; no Google delivery requested."
+}

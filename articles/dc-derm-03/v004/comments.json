@@ -1,0 +1,16 @@
+{
+  "state": "prepared_only",
+  "google_comments_created": false,
+  "required_fact_comments": [],
+  "optional_comments": [
+    {
+      "anchor": "The practice can adjust that combination for skin type, hair color, and hair thickness",
+      "comment": "Alex: An approved quote from the clinician who assesses laser hair removal patients could strengthen this explanation. Please supply the speaker, exact approved wording, and how they evaluate skin tone and hair characteristics. This is optional; no quotation has been invented."
+    },
+    {
+      "anchor": "The result develops over the course of treatment",
+      "comment": "Alex: A permitted, attributable DC Derm Docs hair-removal case or before-and-after image could help illustrate progressive reduction. Please provide source context, treatment area, sessions, timing, and permission. The article is complete without this optional material."
+    }
+  ],
+  "image_source_comments": []
+}

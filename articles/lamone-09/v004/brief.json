@@ -1,0 +1,39 @@
+{
+  "client": "La-Mon’e Aesthetics",
+  "prompt_number": 9,
+  "type": "SEO",
+  "original_title": "Lip Filler Appointments in Bryn Mawr PA for First-Time Patients",
+  "reference_urls": [
+    "https://www.healthline.com/health/dermal-fillers"
+  ],
+  "client_website": "https://www.lamoneaesthetics.com/",
+  "version": "v004",
+  "baseline_commit": "21704a8aa0a7929050aacdba7362582c00d82e34",
+  "supplied_constraints": "Fresh draft; use frozen baseline requirements; no prior outputs or client blogs; local package only, no Google delivery.",
+  "working_interpretation": {
+    "hypothesis": "A capable adult considering a first lip-filler treatment wants to understand goals, assessment, injections, recovery, costs, and maintenance at this Bryn Mawr practice.",
+    "support": "Assignment explicitly names first-time patients; non-blog practice pages confirm lip filler, local address, clinician background, pricing, and booking policies."
+  },
+  "audience": "Adult considering first-time lip filler; no invented demographic or emotional profile.",
+  "purpose": "Explain expectations and practical commitments while separating general medical steps from confirmed La-Mon’e care.",
+  "title_claims_investigated": [
+    "Bryn Mawr physical location confirmed",
+    "Lip filler service confirmed",
+    "First-visit same-day treatment and exact duration not confirmed and not asserted"
+  ],
+  "central_answer": "HA filler can add volume and refine shape; assessment precedes appropriate treatment, early swelling differs from settled results, and temporary effects require maintenance decisions.",
+  "required_facts_awaiting_alex": [],
+  "optional_dependencies": [
+    "Approved Walker quote"
+  ],
+  "outline": [
+    "What can filler change?",
+    "Relevant clinician and medical director distinction",
+    "Assessment and preparation",
+    "Treatment experience",
+    "Price and booking commitments",
+    "Recovery and serious symptoms",
+    "Duration and follow-up",
+    "Local CTA"
+  ]
+}

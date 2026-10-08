@@ -8,17 +8,17 @@ Architecture owns the production flow and component responsibilities that achiev
 
 Produce each assigned article through research, outlining, and drafting, then run the single evaluation and revision flow in [Evaluate and Revise](#evaluate-and-revise) before direct customer delivery under [User Design](userdesign.md#assignment-delivery-and-tracking). Writing Standards owns what the article must satisfy; Engineering owns verification methods and evidence.
 
-The production stages provide working context for writing. Keep the structured assignment brief, source evidence needed to support the article, and unresolved dependencies that affect its answer. Research plans, notes, and outlines may be adjusted as useful without maintaining stage histories, candidate-material inventories, or reasons for each unused item. [Data Model](data-model.md#article-research-material) defines the retained research evidence; [Assignments and Article Status](data-model.md#assignments-and-article-status) defines the article assessment.
+Use the assignment brief, research notes, and outline as working context and adjust them as useful. Retain the resulting article and one compact support-and-check record under [Data Model](data-model.md#assignments-and-article-status). [Article Research Material](data-model.md#article-research-material) defines the evidence needed to support the resulting article.
 
 Review the client's website as needed for different purposes. Research the client's own website before using third-party sources; [Writing Standards](writing-standards.md#content-types) defines the relevant practice material. Later evidence may change the working interpretation or require more research. Production adjustments do not require separate compliance reviews at each stage.
 
 ### Understand the Assignment
 
-Produce a structured assignment brief that gives research and writing a clear target.
+Produce a structured working brief that gives research and writing a clear target.
 
-Preserve the supplied client, prompt number, original title, SEO/AEO label, reference URLs, and special instructions so Alex can trace the article to its assignment. Keep the supplied assignment distinct from its interpretation. Preserve the prompt number through revisions under [Data Model](data-model.md#assignments-and-article-status).
+Use the supplied client, prompt number, original title, SEO/AEO label, reference URLs, and special instructions in the working brief. Keep the supplied assignment distinct from its interpretation. Reference the original assignment in the support-and-check record rather than copy it into a separate permanent brief. Preserve the prompt number through revisions under [Data Model](data-model.md#assignments-and-article-status).
 
-Use the assignment and a focused review of the client's website to infer the target reader and main question or decision. Choose one working interpretation, record it as a hypothesis with supporting evidence, and move forward. Update that interpretation when later evidence warrants a change; do not maintain competing interpretations or an interpretation history.
+Use the assignment and a focused review of the client's website to infer the target reader and main question or decision. Choose one working interpretation, state it in the working brief as a hypothesis with supporting evidence, and move forward. Update that interpretation when later evidence warrants a change; do not maintain competing interpretations.
 
 Identify claims implied by the title that need investigation, including superiority, permanence, pricing, availability, and clinician expertise. The title does not establish their truth. Keep missing inputs explicit when they affect the article's answer or an applicable requirement. The brief must establish the audience, purpose, and supplied constraints without silently replacing the assigned topic; resolve a proposed topic change with Alex.
 
@@ -34,7 +34,7 @@ Stop expanding the website review when the needed practice questions have suppor
 
 Keep source evidence and limits needed to use the findings accurately under [Data Model](data-model.md#article-research-material). Preserve correct clinician associations and distinguish physical locations from article target geography and treatments from bookable appointments under [Client Information](data-model.md#client-information). A website image does not establish who or what it depicts; product-brand evidence does not establish every formulation or model.
 
-Use the supported material available. This stage does not require material from every category, a general client model, or records of unused material.
+Use the supported material available. This stage does not require material from every category or a general client model.
 
 ### Plan the Research
 
@@ -44,17 +44,21 @@ Use supplied reference URLs and the client website as starting points, then cons
 
 Include a review of leading organic Google results for the same topic. Derive queries from the assignment and working interpretation, including geography when relevant. Examine reader questions, comparisons, considerations, answer structure, omissions, and weak explanations to inform a more useful original article. Search ranking does not establish medical accuracy, and competitor research does not permit competitor links in the delivered article under [Writing Standards](writing-standards.md#links).
 
-Identify questions that only Alex can resolve under [User Design](userdesign.md#review-revision-and-writing-feedback). Do not require a saved investigation record or completion status for every planned question.
+Identify questions that only Alex can resolve under [User Design](userdesign.md#review-revision-and-writing-feedback).
 
 ### Research and Resolve
 
 Establish a supported central answer using the supplied references, relevant practice pages, authoritative sources, and leading organic Google results. Keep the evidence needed to support the article under [Data Model](data-model.md#article-research-material). Investigate conflicting information and adjust the working interpretation when warranted.
 
-Determine whether a missing fact is needed to satisfy [Writing Standards](writing-standards.md), an applicable assignment requirement, or the article's central answer. Use supported wording or omit the detail when that satisfies the requirements without weakening the answer. Material that could improve an otherwise complete, compliant article is optional. Prepare the article without unavailable optional material and use [User Design's optional-material comments](userdesign.md#review-revision-and-writing-feedback).
+A missing fact is required when the article needs it to satisfy [Writing Standards](writing-standards.md), an applicable assignment requirement, or its central answer. Use supported wording or omit the detail when that satisfies the requirements without weakening the answer. Material that could improve an otherwise complete, compliant article is optional.
 
-Resolve a missing answer before drafting when it could change the premise, treatment focus, central answer, or recommendation. Investigate further or bring the specific question to Alex when only he can resolve it. Keep the dependency explicit; a marker does not establish a supported direction.
+Handle the remaining gap according to its effect on this article:
 
-For a required fact that Alex can supply without changing the supported direction, draft the supported content and prepare a marker and Google Doc comment under [User Design](userdesign.md#review-revision-and-writing-feedback). Base these decisions on the article's actual needs; do not require a separate dependency report or histories of possible answers.
+- **Optional material:** Prepare the article without it and use [User Design's optional-material comments](userdesign.md#review-revision-and-writing-feedback).
+- **A required answer that could change the direction:** Resolve it before drafting when it could change the premise, treatment focus, central answer, or recommendation. Investigate further or bring the specific question to Alex when only he can resolve it. Keep the dependency explicit; a marker does not establish a supported direction.
+- **A required fact that can be inserted later:** When Alex can supply the fact without changing the supported direction, draft the supported content and use [User Design's Needs Information process](userdesign.md#review-revision-and-writing-feedback). Apply [Evaluate and Revise](#evaluate-and-revise) before delivery; missing information does not excuse other failures.
+
+Base these decisions on the article's actual needs.
 
 ### Build the Outline
 
@@ -62,13 +66,13 @@ Arrange the supported central answer and reader questions into a useful sequence
 
 Plan clinician selection under [Writing Standards](writing-standards.md#clinician-selection), useful internal links, appropriate external links, and the closing call to action. Place useful practice material and images where they support an explanation, and identify locations for unresolved required facts and comments.
 
-Adjust coverage or return to research when the outline lacks a supported answer. Combine repetitive sections and omit material that does not support its heading. If research cannot support the assigned answer, bring the specific gap to the operator rather than invent material or silently change the topic. The outline guides drafting; it does not require a selection record for every material item or a separate customization review.
+Adjust coverage or return to research when the outline lacks a supported answer. Combine repetitive sections and omit material that does not support its heading. If research cannot support the assigned answer, bring the specific gap to the operator rather than invent material or silently change the topic. The outline guides drafting; customization is checked in [Evaluate and Revise](#evaluate-and-revise).
 
 ### Write the First Draft
 
 Produce a complete article from the outline and supported research under [Writing Standards](writing-standards.md). Adjust the outline and material choices when that improves the article.
 
-Use relevant supported practice material, links, and a customized call to action. Acquire and embed images used in the article with supported captions under [User Design](userdesign.md#article-content-and-writing-standards). If an image or other optional material cannot be used, choose another supported approach; keep the evidence needed for the resulting article rather than a history of acquisition attempts or discarded choices.
+Use relevant supported practice material, links, and a customized call to action. Acquire and embed images used in the article with supported captions under [User Design](userdesign.md#article-content-and-writing-standards). If an image or other optional material cannot be used, choose another supported approach and keep the evidence needed for the resulting article.
 
 Prepare markers and Google Doc comments for unresolved required facts and applicable optional-material requests under [User Design](userdesign.md#review-revision-and-writing-feedback). Preserve source support for factual claims, including claims introduced during writing and in captions.
 
@@ -78,7 +82,7 @@ Pass the completed article and supporting evidence to Evaluate and Revise. Draft
 
 Check the complete article against every applicable requirement in [Writing Standards](writing-standards.md), its assignment-specific instructions, and the presentation requirements in [User Design](userdesign.md#article-content-and-writing-standards). This is the single evaluation and revision flow before delivery. Run it as part of production without a manual trigger or Vikas's article-by-article approval.
 
-Use [Engineering](engineering.md#article-verification) to perform mechanical checks and editorial and evidence assessment on the resulting text, images, and captions. Assess article quality before measuring the final body-word count under Writing Standards. Do not add checks or delivery dependencies for unresolved customer questions. Evaluate the article itself rather than auditing earlier plans, unused material, or reasons for changed selections.
+Use [Engineering](engineering.md#article-verification) to perform mechanical checks and editorial and evidence assessment on the resulting text, images, and captions. Assess article quality before measuring the final body-word count under Writing Standards. Evaluate the resulting article. Do not add checks or delivery dependencies for unresolved customer questions.
 
 Identify each failed requirement, its location, and the correction needed. For length failures, remove repetition and lower-value material or develop useful explanations and practice context, returning to research when needed. Preserve necessary information and medical qualifications; do not pad the article or cut essential answers to meet the range.
 

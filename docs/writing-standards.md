@@ -76,7 +76,11 @@ End each article with a clear, customized invitation and a scheduling link and/o
 
 ### Images
 
-Use images to help explain the topic or patient experience under [Content Types](#content-types). Captions must use supported details. [User Design](userdesign.md#article-content-and-writing-standards) owns inline placement, caption presentation, source-link comments, and image delivery.
+Use images that help explain the topic or patient experience and meet the evidence conditions in [Content Types](#content-types). Images are not required in every article.
+
+Write each caption as part of the article: explain the supported point the image illustrates and its relevance to the nearby content. A literal description of the image or an account of where it was found is not enough. Include evidence limits when needed to prevent a misleading interpretation, rather than list every detail the source does not provide. Apply [Article Voice](#article-voice) and [Medical Claims](#medical-claims) to captions.
+
+[User Design](userdesign.md#article-content-and-writing-standards) owns inline placement, caption presentation, source-link comments, and image delivery.
 
 ### Style Conventions
 
