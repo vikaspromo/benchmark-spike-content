@@ -16,7 +16,13 @@ Adapt the depth of explanation to the reader's likely knowledge and decision sta
 
 ### Reader Priorities
 
-Prioritize information according to the reader's main question. For a treatment comparison, explain the differences that affect the choice. For a first-time treatment article, explain expected results, the treatment experience, and meaningful commitments or risks. For a clinician-selection article, explain supported expertise and the practice's approach. Include other information only when it helps answer that main question.
+Prioritize information according to the reader's main question:
+
+- For a treatment comparison, explain the differences that affect the choice.
+- For a first-time treatment article, explain expected results, the treatment experience, and meaningful commitments or risks. Make the relevant sequence of consultation, treatment, recovery, and follow-up understandable using supported details. Distinguish general treatment expectations from the practice's confirmed process; describe consultation and treatment as occurring at the same visit only when confirmed. Include only the stages that help answer the article's question.
+- For a clinician-selection article, explain supported expertise and the practice's approach.
+
+Include other information only when it helps answer that main question.
 
 Answer the assigned question clearly, accurately, and thoroughly for the intended reader. Give supported explanations, practical expectations, and distinctions that help the reader understand the topic or make the decision it addresses.
 
@@ -48,7 +54,7 @@ Establish the reader's question and give a useful starting answer in the introdu
 
 Use descriptive, specific, reader-focused headings that answer relevant questions. Organize content into logical H2 sections. Use a clear H1/H2/H3 hierarchy as needed; H3s and a separate FAQ block are conditional on improving organization or answering reader questions. Do not require every heading level or an FAQ block in every article.
 
-Each section must address its heading and add distinct reader value. Every paragraph, bullet, and example must support that answer through explanation, evidence, a relevant distinction, or a necessary qualification. Move misplaced material and remove tangents and repetition. Place necessary medical qualifications and safety advice under the relevant headings.
+Each section must answer the question or cover the subject stated in its heading and add distinct reader value. Every paragraph, bullet, and example must develop that answer through explanation, evidence, a relevant distinction, or a necessary qualification. Organize treatment details by the question they answer: appointment steps explain the visit, onset and duration explain results, and aftercare explains recovery. Choose headings and groupings suited to the article; these distinctions do not require separate sections or a fixed outline. Move useful material to the section it answers, combine overlapping sections, and remove tangents and repetition. Place necessary medical qualifications and safety advice beside the information they qualify under the relevant heading.
 
 ### Readability
 
