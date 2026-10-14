@@ -26,6 +26,9 @@ The current v001 drafts have [retrospectively reconstructed provenance](runs/202
 | DC Derm Docs, prompt 3 | v004 | October 7, 2026 | [Laser hair removal fresh draft](dc-derm-03/v004/article.md) |
 | La-Mon’e Aesthetics, prompt 9 | v004 | October 7, 2026 | [First-time lip filler fresh draft](lamone-09/v004/article.md) |
 | Estar MedSpa, prompt 4 | v004 | October 7, 2026 | [Lip flip versus filler fresh draft](estar-04/v004/article.md) |
+| DC Derm Docs, prompt 3 | v005 | October 14, 2026 | [Laser hair removal](dc-derm-03/v005/article.md) |
+| La-Mon’e Aesthetics, prompt 9 | v005 | October 14, 2026 | [First-time lip filler](lamone-09/v005/article.md) |
+| Estar MedSpa, prompt 4 | v005 | October 14, 2026 | [Lip flip versus filler](estar-04/v005/article.md) |
 
 The v002 packages use [committed production inputs](runs/2026-10-07-writing-standards-v002/README.md). Each contains a new article, source support, prepared comments, local HTML preview, final checklist assessment, and hashes. v001 remains available for feedback comparison.
 
@@ -34,5 +37,7 @@ DC Derm Docs v003 tests the revised voice and readability guidance using the sam
 La-Mon’e and Estar v003 use the same current guidance and source sets, without adopting the held evidence-use finding. See the [shared production record](runs/2026-10-07-two-practice-v003/README.md), [La-Mon’e comparison](lamone-09/v003/comparison.md), and [Estar comparison](estar-04/v003/comparison.md).
 
 The v004 packages use [frozen committed inputs](runs/2026-10-07-three-practice-v004/README.md) from `21704a8`, before the pending governance-theme changes. They are fresh drafts produced by separate agents. The run record identifies research exposure and verification limits.
+
+The v005 drafts use baseline `695e4ffc38ff6799f6daae89424cc49e9f728dc1` and the approved assignment-first research flow. A [new task](codex://threads/01a13acd-9ecc-7341-92ce-fc99dca1f88c) produced all three without this conversation's history or earlier article packages. Each retains only the article and its support-and-check record: [DC Derm Docs](dc-derm-03/v005/support-and-check.md), [La-Mon’e](lamone-09/v005/support-and-check.md), and [Estar](estar-04/v005/support-and-check.md). The producing agent reports passed local checks, with no required facts outstanding, and inspected temporary rendered previews. The records disclose source-exposure and verification limits. Independent review, customer delivery, acceptance, and reliable assessment across assignments remain unverified.
 
 This file explains the local draft organization; it does not define article writing requirements or the production flow.
