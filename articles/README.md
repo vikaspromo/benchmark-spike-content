@@ -29,6 +29,9 @@ The current v001 drafts have [retrospectively reconstructed provenance](runs/202
 | DC Derm Docs, prompt 3 | v005 | October 14, 2026 | [Laser hair removal](dc-derm-03/v005/article.md) |
 | La-Mon’e Aesthetics, prompt 9 | v005 | October 14, 2026 | [First-time lip filler](lamone-09/v005/article.md) |
 | Estar MedSpa, prompt 4 | v005 | October 14, 2026 | [Lip flip versus filler](estar-04/v005/article.md) |
+| DC Derm Docs, prompt 3 | v006 | October 14, 2026 | [Laser hair removal revision](dc-derm-03/v006/article.md) |
+| La-Mon’e Aesthetics, prompt 9 | v006 | October 14, 2026 | [First-time lip filler, verified support](lamone-09/v006/article.md) |
+| Estar MedSpa, prompt 4 | v006 | October 14, 2026 | [Lip flip versus filler revision](estar-04/v006/article.md) |
 
 The v002 packages use [committed production inputs](runs/2026-10-07-writing-standards-v002/README.md). Each contains a new article, source support, prepared comments, local HTML preview, final checklist assessment, and hashes. v001 remains available for feedback comparison.
 
@@ -39,5 +42,7 @@ La-Mon’e and Estar v003 use the same current guidance and source sets, without
 The v004 packages use [frozen committed inputs](runs/2026-10-07-three-practice-v004/README.md) from `21704a8`, before the pending governance-theme changes. They are fresh drafts produced by separate agents. The run record identifies research exposure and verification limits.
 
 The v005 drafts use baseline `695e4ffc38ff6799f6daae89424cc49e9f728dc1` and the approved assignment-first research flow. A [new task](codex://threads/01a13acd-9ecc-7341-92ce-fc99dca1f88c) produced all three without this conversation's history or earlier article packages. Each retains only the article and its support-and-check record: [DC Derm Docs](dc-derm-03/v005/support-and-check.md), [La-Mon’e](lamone-09/v005/support-and-check.md), and [Estar](estar-04/v005/support-and-check.md). The producing agent reports passed local checks, with no required facts outstanding, and inspected temporary rendered previews. The records disclose source-exposure and verification limits. Independent review, customer delivery, acceptance, and reliable assessment across assignments remain unverified.
+
+The v006 packages implement Vikas’s authorized focused correction and targeted factual verification, using revision input commit `0d56f72576c424a9db2bf5e9a910af1c109b2839` and the unchanged governing requirements. DC and Estar correct the known writing weaknesses; La-Mon’e’s article text is identical to v005 because its disputed HA claim was supported. Exact source passages now resolve the earlier abbreviated-summary gaps. Counts are 1,189, 1,165 and 1,170 words. Each package retains only the article and its [DC](dc-derm-03/v006/support-and-check.md), [La-Mon’e](lamone-09/v006/support-and-check.md), or [Estar](estar-04/v006/support-and-check.md) support-and-check record. The revising agent completed the local recheck and browser-render inspection in the existing conversation. The separate independent review is on hold at Vikas’s direction. No customer delivery, comments, Sheet update or acceptance is claimed; reviewed v005 packages remain unchanged.
 
 This file explains the local draft organization; it does not define article writing requirements or the production flow.
