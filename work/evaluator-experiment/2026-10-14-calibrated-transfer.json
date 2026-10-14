@@ -1,5 +1,5 @@
 {
-  "status": "Inputs frozen; controlled reviews pending.",
+  "status": "Controlled section-transfer test completed; no candidate advantage established.",
   "purpose": "Test whether the candidate sharpened by operator calibration transfers to unseen standalone sections without overrejecting useful qualifications or acceptable concise wording. Retain inputs and results to establish evaluator-selection evidence.",
   "repository_baseline": "7a2e752669828f4deea9cb377bf828325c7dc633",
   "requirements_baseline": "695e4ffc38ff6799f6daae89424cc49e9f728dc1",
@@ -566,8 +566,1024 @@
       }
     }
   },
-  "reviews": {},
-  "observations": {},
+  "reviews": {
+    "existing_forward": {
+      "condition_id": "existing_forward",
+      "cases": [
+        {
+          "id": "R46",
+          "decision": "fail",
+          "reader_takeaway": "Explains ordinary redness, supported aftercare, and when symptoms warrant contact, but ends with an abstract warning that adds no recovery guidance.",
+          "findings": [
+            {
+              "passage": "These measures support a considered recovery process, but no checklist can cover every personal circumstance. Keeping the wider picture in mind allows the treatment and your individual needs to remain part of the same conversation.",
+              "requirement": "Writing Standards — Article Voice: remove closing statements that merely announce the value of the preceding explanation; do not follow a clear limitation with another generic warning that adds no information. Section Focus: every paragraph must develop the heading answer.",
+              "classification": "failure",
+              "reader_consequence": "The reader receives a vague checklist warning after a clear symptom threshold, without a new action or distinction relevant to recovery.",
+              "evidence": "The supplied evidence establishes redness timing, comfort measures, an exercise pause, and reporting persistent or worsening symptoms. It documents no additional checklist risk requiring this closing warning.",
+              "correction": "Delete the final paragraph. Retain the concrete aftercare and symptom-contact guidance."
+            }
+          ],
+          "positive_evidence": [
+            "“Harbor recommends a cold compress for discomfort and a 24-hour pause from strenuous exercise, so leave that activity out of your schedule on treatment day.” connects confirmed aftercare to a concrete scheduling consequence.",
+            "“Contact the treating team if symptoms persist or worsen.” supplies the supported safety threshold beside the recovery discussion.",
+            "Readability check: 3 of 3 body paragraphs (100%) contain one or two sentences, accounting for Dr. as an abbreviation where present. Paragraphs are focused and readable; the explanations do not require conversion to bullets."
+          ]
+        },
+        {
+          "id": "R12",
+          "decision": "pass",
+          "reader_takeaway": "Identifies two relevant clinicians and distinguishes their confirmed roles from the unknown procedure assignment and supervision.",
+          "findings": [],
+          "positive_evidence": [
+            "“Her skin-health background is relevant when texture concerns occur alongside an existing skin condition.” gives a supported reason to consider Dr. Reed rather than only reciting a credential.",
+            "“Omar Chen is a nurse practitioner trained in radiofrequency microneedling.” correctly associates the training with Chen; the next sentence connects that training to the procedure.",
+            "“The profiles establish relevant experience, but they do not identify the clinician assigned to your appointment.” preserves the explicit source limit, while the booking advice addresses that specific uncertainty instead of replacing an available answer.",
+            "Readability check: 3 of 3 body paragraphs (100%) contain one or two sentences, accounting for Dr. as an abbreviation where present. Paragraphs are focused and readable; the explanations do not require conversion to bullets."
+          ]
+        },
+        {
+          "id": "R83",
+          "decision": "fail",
+          "reader_takeaway": "Explains adjustable settings and the assessment characteristics that guide them, but adds a broad closing restatement without further explanation.",
+          "findings": [
+            {
+              "passage": "The device specifications belong within a broader review rather than standing in for it. Keeping the assessment in its proper place helps the technology remain relevant to the person receiving treatment.",
+              "requirement": "Writing Standards — Article Voice: combine passages that make the same point without developing it; remove closing statements that merely announce the value of the preceding explanation. Section Focus requires each paragraph to add explanation, evidence, distinction, or a necessary qualification.",
+              "classification": "failure",
+              "reader_consequence": "The closing paragraph repeats that assessment matters without helping the reader understand another setting choice or limitation.",
+              "evidence": "The first two paragraphs already explain individualized factors and why maximum depth is not automatic. The evidence supplies no additional device-model claim that needs correction here.",
+              "correction": "Delete the closing paragraph; keep the concrete assessment factors and the comparison across areas with different skin thickness."
+            }
+          ],
+          "positive_evidence": [
+            "“The published assessment considers the area being treated, skin thickness, the texture concern and previous reactions.” uses the confirmed assessment factors.",
+            "“The clinician chooses settings for those characteristics rather than automatically using the greatest available depth.” conveys the supplied educational distinction; the following sentence applies it to differences in skin thickness.",
+            "Readability check: 3 of 3 body paragraphs (100%) contain one or two sentences, accounting for Dr. as an abbreviation where present. Paragraphs are focused and readable; the explanations do not require conversion to bullets."
+          ]
+        },
+        {
+          "id": "R35",
+          "decision": "pass",
+          "reader_takeaway": "Explains the booking deposit and the practical consequence of a late schedule change without claiming a complete policy account.",
+          "findings": [],
+          "positive_evidence": [
+            "“A late change to your appointment can affect that deposit, so check the rescheduling terms before confirming a date you may need to move.” gives the supported consequence and its planning relevance.",
+            "“Keep the booking confirmation available if you need to contact the practice about a change.” is a brief relevant booking action, without an invented deposit condition. The supplied scenario expressly permits summarizing the policy rather than reproducing all details.",
+            "Readability check: 2 of 2 body paragraphs (100%) contain one or two sentences, accounting for Dr. as an abbreviation where present. Paragraphs are focused and readable; the explanations do not require conversion to bullets."
+          ]
+        },
+        {
+          "id": "R67",
+          "decision": "fail",
+          "reader_takeaway": "Distinguishes the treatments by pigment/vessels versus texture/fine lines and applies that difference to the reader’s concern; the ending repeats the choice principle in vague terms.",
+          "findings": [
+            {
+              "passage": "Either treatment, or a combination when suitable, should fit the concern under discussion. The availability of two approaches does not make either one automatic, and a considered plan keeps both options in perspective.",
+              "requirement": "Writing Standards — Article Voice: combine passages that make the same point without developing it and remove closing statements that merely announce the value of the preceding explanation. Section Focus: each paragraph must add distinct reader value.",
+              "classification": "failure",
+              "reader_consequence": "The closing paragraph returns to fitting treatment to the concern without another useful comparison; “a considered plan” adds no concrete decision information.",
+              "evidence": "The source supports choosing according to the concern and skin assessment and considering both for separate concerns. It supplies no combined-treatment protocol; the passage does not specify one, but its general ending adds no substantive explanation beyond the preceding paragraph.",
+              "correction": "Delete the final paragraph. If a qualification is retained, use one concrete sentence explaining that the concern and individual skin assessment guide suitability; describe both treatments for separate concerns without implying a confirmed Linden combination protocol."
+            }
+          ],
+          "positive_evidence": [
+            "“Intense pulsed light uses light energy to target pigment spots and visible vessels. Fractional resurfacing creates small treatment zones in the skin to address texture and fine lines.” gives the supported comparison directly.",
+            "“Their different targets make the feature you want to change the useful starting point, rather than choosing whichever treatment sounds more powerful.” explains how the treatment differences affect choice.",
+            "Readability check: 3 of 3 body paragraphs (100%) contain one or two sentences, accounting for Dr. as an abbreviation where present. Paragraphs are focused and readable; the explanations do not require conversion to bullets."
+          ]
+        },
+        {
+          "id": "R24",
+          "decision": "pass",
+          "reader_takeaway": "Explains that an attendance certificate records training rather than granting specialist certification or a new license.",
+          "findings": [],
+          "positive_evidence": [
+            "“The certificate records attendance at that day of training.” correctly identifies the credential’s supported meaning.",
+            "“It does not award board certification or a new professional license.” supplies necessary limits directly beside the certificate claim.",
+            "“Those are different credentials, so describe the course as training when discussing your qualifications rather than presenting its certificate as specialist certification.” applies the distinction to the clinician reader’s use of the credential without inventing professional eligibility.",
+            "Readability check: 2 of 2 body paragraphs (100%) contain one or two sentences, accounting for Dr. as an abbreviation where present. Paragraphs are focused and readable; the explanations do not require conversion to bullets."
+          ]
+        },
+        {
+          "id": "R91",
+          "decision": "fail",
+          "reader_takeaway": "Describes an apparently specific Willow consultation checklist and concentration-selection sequence, although those practice procedures are not established.",
+          "findings": [
+            {
+              "passage": "Willow’s consultation includes a review of your treatment goals, skin condition, medicines and past reactions. Its clinician uses that review to choose a peel concentration before discussing the likely recovery.",
+              "requirement": "Writing Standards — Reader Priorities: distinguish general treatment expectations from the practice’s confirmed process. Medical Claims: use practice evidence for its own services and care and omit doubtful claims. Content Types — Clinician reasoning: general treatment education does not establish a clinician’s decision process.",
+              "classification": "failure",
+              "reader_consequence": "The reader may expect Willow to use a particular checklist and choose peel concentration in this specific sequence, which could misstate the first visit.",
+              "evidence": "Willow confirms only a consultation route. The independent source supports general assessment factors, not Willow’s checklist, concentration choice, or recovery-discussion sequence.",
+              "correction": "State that Willow offers a consultation. Present goals, skin condition, medicines, and prior reactions as general peel-assessment considerations, and remove the asserted concentration-selection and recovery-discussion sequence unless Willow-specific evidence becomes available."
+            }
+          ],
+          "positive_evidence": [
+            "“The appointment gives you a chance to describe the change you want to see.” is consistent with the supported general assessment of treatment goals.",
+            "The excerpt uses two short two-sentence paragraphs and stays on consultation, but its practice assertions remain unsupported.",
+            "Readability check: 2 of 2 body paragraphs (100%) contain one or two sentences, accounting for Dr. as an abbreviation where present. Paragraphs are focused and readable; the explanations do not require conversion to bullets."
+          ]
+        },
+        {
+          "id": "R08",
+          "decision": "pass",
+          "reader_takeaway": "Separates delayed pigment improvement from short-term redness and explains why an early photograph is an unsuitable comparison with the review.",
+          "findings": [],
+          "positive_evidence": [
+            "“The pigment change develops over several weeks rather than appearing fully on treatment day.” answers the timing question without promising a fixed final result.",
+            "“Meadow schedules an initial review at four weeks, when the clinician can assess the developing result.” uses the confirmed practice review and preserves the distinction between review and completed outcome.",
+            "“An early photograph may record that redness rather than the improvement you are waiting to see, so it is not a fair comparison with the four-week review.” applies the supported distinction between recovery redness and later improvement to a concrete comparison.",
+            "Readability check: 2 of 2 body paragraphs (100%) contain one or two sentences, accounting for Dr. as an abbreviation where present. Paragraphs are focused and readable; the explanations do not require conversion to bullets."
+          ]
+        },
+        {
+          "id": "R52",
+          "decision": "fail",
+          "reader_takeaway": "Explains why visits are spaced and how that affects calendar planning, but repeats the recovery-and-assessment explanation in its middle paragraph.",
+          "findings": [
+            {
+              "passage": "The appointments are separated because recovery and assessment take time. Space between treatments supports the ongoing course, rather than treating each visit as if it were separate from the visits around it.",
+              "requirement": "Writing Standards — Article Voice: combine passages that make the same point without developing it. Section Focus: every paragraph must develop its answer through explanation, evidence, a relevant distinction, or a necessary qualification.",
+              "classification": "failure",
+              "reader_consequence": "The reader encounters the same spacing rationale twice before reaching the distinct scheduling advice.",
+              "evidence": "The first paragraph already explains recovery and assessment between visits. The middle paragraph restates those reasons and describes the ongoing course abstractly, without adding the source’s separate explanation that improvement develops across the course.",
+              "correction": "Remove the middle paragraph. If useful, replace it with a concise supported explanation that improvement develops across the treatment course, avoiding repetition of the recovery and assessment rationale."
+            }
+          ],
+          "positive_evidence": [
+            "“That interval gives the skin time to recover and allows the clinician to assess the developing change before the next visit.” connects the published interval to the supported reason.",
+            "“The clinician sets the schedule for your course; the published interval is a planning guide, not a fixed completion date.” adds a necessary individual-timing limit and avoids a completion guarantee.",
+            "Readability check: 3 of 3 body paragraphs (100%) contain one or two sentences, accounting for Dr. as an abbreviation where present. Paragraphs are focused and readable; the explanations do not require conversion to bullets."
+          ]
+        },
+        {
+          "id": "R73",
+          "decision": "pass",
+          "reader_takeaway": "Explains the cooling comfort measure, the sensations that can remain, and why cooling does not remove burn risk or the need for suitable settings.",
+          "findings": [],
+          "positive_evidence": [
+            "“Cooling can reduce discomfort, but a snapping or warm sensation may still occur.” states a supported benefit and its concrete limit rather than promising painless treatment.",
+            "“It also does not make burns impossible.” is the first statement of this distinct supported risk limit in the supplied context.",
+            "“cooling is a comfort measure, not proof that every setting is safe for your skin.” explains the supplied distinction between comfort and appropriate settings. This is a necessary qualification beside the relevant claim, not a repeated generic warning.",
+            "Readability check: 2 of 2 body paragraphs (100%) contain one or two sentences, accounting for Dr. as an abbreviation where present. Paragraphs are focused and readable; the explanations do not require conversion to bullets."
+          ]
+        },
+        {
+          "id": "R04",
+          "decision": "fail",
+          "reader_takeaway": "Explains that different visible concerns call for different treatments, but uses a lightly reworded distinctive competitor analogy.",
+          "findings": [
+            {
+              "passage": "Think of your skin as a printed photograph: light treatment removes unwanted ink from the picture, while resurfacing alters the grain of the paper underneath.",
+              "requirement": "Writing Standards — Article Voice: do not copy content from competitors.",
+              "classification": "failure",
+              "reader_consequence": "The comparison relies on competitor expression rather than original explanation, compromising the assignment’s original-prose requirement.",
+              "evidence": "The supplied competitor expression uses the same distinctive photograph/ink/paper analogy and treatment mapping. The excerpt substitutes near-synonyms while preserving that expression; the analogy is not required medical terminology.",
+              "correction": "Replace the analogy with original direct prose: treatment A addresses visible pigment spots, while treatment B addresses surface texture and fine lines. Keep the supported practical distinction and Ash’s confirmed service association."
+            }
+          ],
+          "positive_evidence": [
+            "“A pigment spot and a rough patch can look noticeable for different reasons.” starts a relevant distinction between treatment targets.",
+            "“Describe which feature bothers you rather than assuming that one treatment must change both.” applies the supported target distinction to the reader’s decision.",
+            "Readability check: 2 of 2 body paragraphs (100%) contain one or two sentences, accounting for Dr. as an abbreviation where present. Paragraphs are focused and readable; the explanations do not require conversion to bullets."
+          ]
+        },
+        {
+          "id": "R39",
+          "decision": "pass",
+          "reader_takeaway": "Explains what the consultation establishes and identifies the important uncertainty about whether the first booked appointment includes treatment.",
+          "findings": [],
+          "positive_evidence": [
+            "“Pine starts with a consultation about your aesthetic goals and medical history, then develops a tailored plan.” accurately states the confirmed practice process.",
+            "“The booking page does not confirm that treatment happens during that appointment.” preserves the exact source limit without inventing same-visit treatment.",
+            "“If you are reserving time away from work for a procedure, confirm whether you are booking assessment alone or assessment and treatment.” gives the practical consequence of an unresolved timing fact; this is relevant source-limit advice, not substitution for an available answer.",
+            "Readability check: 2 of 2 body paragraphs (100%) contain one or two sentences, accounting for Dr. as an abbreviation where present. Paragraphs are focused and readable; the explanations do not require conversion to bullets."
+          ]
+        }
+      ],
+      "limitations": [
+        "Review covers only the twelve supplied standalone excerpts and their complete hypothetical evidence; it does not establish full-article compliance, rendered presentation, delivery, customer acceptance, or clinical advice.",
+        "Source support is assessed against the packet evidence; no live source verification was performed or required."
+      ]
+    },
+    "existing_reverse": {
+      "condition_id": "existing_reverse",
+      "cases": [
+        {
+          "id": "R39",
+          "decision": "pass",
+          "reader_takeaway": "The consultation establishes goals, history and a plan; same-visit treatment is unconfirmed, which matters when booking time.",
+          "findings": [],
+          "positive_evidence": [
+            "“Pine starts with a consultation about your aesthetic goals and medical history, then develops a tailored plan.” — Explains the confirmed consultation purpose.",
+            "“The booking page does not confirm that treatment happens during that appointment. If you are reserving time away from work for a procedure, confirm whether you are booking assessment alone or assessment and treatment.” — Preserves a relevant timing gap and connects it to reserving time. Booking clarification is justified because the answer is unavailable."
+          ]
+        },
+        {
+          "id": "R04",
+          "decision": "fail",
+          "reader_takeaway": "Pigment and texture are different concerns, but the comparison closely rewrites distinctive competitor expression.",
+          "findings": [
+            {
+              "passage": "Think of your skin as a printed photograph: light treatment removes unwanted ink from the picture, while resurfacing alters the grain of the paper underneath.",
+              "requirement": "Writing Standards — Article Voice: Do not copy content from competitors. The assignment requires original prose.",
+              "classification": "failure",
+              "reader_consequence": "The reader receives a borrowed distinctive explanation; replacing individual words does not create original prose.",
+              "evidence": "The packet identifies the photograph/ink/paper analogy as distinctive competitor expression, not necessary medical terminology. The section preserves its imagery and sequence.",
+              "correction": "Replace the analogy with an original direct explanation of pigment versus texture/fine-line treatment targets and how those differences affect the choice."
+            }
+          ],
+          "positive_evidence": [
+            "“A pigment spot and a rough patch can look noticeable for different reasons. Describe which feature bothers you rather than assuming that one treatment must change both.” — Connects the comparison to the feature the reader wants to change."
+          ]
+        },
+        {
+          "id": "R73",
+          "decision": "pass",
+          "reader_takeaway": "Cooling can reduce discomfort, but sensations and burn risk remain, and appropriate settings still matter.",
+          "findings": [],
+          "positive_evidence": [
+            "“Vale uses cooling while the light pulses are delivered. Cooling can reduce discomfort, but a snapping or warm sensation may still occur.” — Gives the supported comfort benefit and specific snapping/warm sensation limit.",
+            "“It also does not make burns impossible. Appropriate settings still matter because the skin absorbs some of the delivered energy; cooling is a comfort measure, not proof that every setting is safe for your skin.” — Adds a distinct burn-risk and settings qualification at its first relevant mention. These are supported limits, not generic redundant warnings."
+          ]
+        },
+        {
+          "id": "R52",
+          "decision": "fail",
+          "reader_takeaway": "The typical spacing allows recovery and assessment and creates a calendar commitment, but the middle paragraph repeats the rationale.",
+          "findings": [
+            {
+              "passage": "The appointments are separated because recovery and assessment take time. Space between treatments supports the ongoing course, rather than treating each visit as if it were separate from the visits around it.",
+              "requirement": "Writing Standards — Article Voice: Later passages must add information, apply an earlier point to a different situation, or supply a necessary qualification. Combine repeated points and remove closing statements that merely announce the explanation’s value. Section Focus requires every paragraph to develop the heading’s answer and removal of repetition.",
+              "classification": "failure",
+              "reader_consequence": "The reader reads the recovery-and-assessment explanation twice without gaining a new timing detail or commitment.",
+              "evidence": "The first paragraph already explains recovery and assessment before the next visit. The middle paragraph adds no distinct evidence, application or qualification.",
+              "correction": "Delete the middle paragraph; retain the interval, rationale, calendar commitment and individual-schedule qualification."
+            }
+          ],
+          "positive_evidence": [
+            "“Brook commonly spaces appointments four to six weeks apart. That interval gives the skin time to recover and allows the clinician to assess the developing change before the next visit.” — Explains the supported interval and its purpose.",
+            "“Allow calendar time for the gaps as well as the appointments. The clinician sets the schedule for your course; the published interval is a planning guide, not a fixed completion date.” — Connects spacing to calendar planning and avoids a fixed completion date."
+          ]
+        },
+        {
+          "id": "R08",
+          "decision": "pass",
+          "reader_takeaway": "Pigment improvement develops over weeks; early redness is a different recovery effect, so an early image may not represent the later result.",
+          "findings": [],
+          "positive_evidence": [
+            "“The pigment change develops over several weeks rather than appearing fully on treatment day. Meadow schedules an initial review at four weeks, when the clinician can assess the developing result.” — Integrates the confirmed four-week review without claiming the result is final or guaranteed.",
+            "“Redness during the first two days is a separate recovery effect. An early photograph may record that redness rather than the improvement you are waiting to see, so it is not a fair comparison with the four-week review.” — Applies the supported redness/improvement distinction to interpreting photographs; the conditional wording preserves uncertainty."
+          ]
+        },
+        {
+          "id": "R91",
+          "decision": "fail",
+          "reader_takeaway": "The section claims a Willow checklist and peel-selection sequence that only general assessment evidence does not establish.",
+          "findings": [
+            {
+              "passage": "Willow’s consultation includes a review of your treatment goals, skin condition, medicines and past reactions. Its clinician uses that review to choose a peel concentration before discussing the likely recovery.",
+              "requirement": "Writing Standards — Reader Priorities: Distinguish general treatment expectations from the practice’s confirmed process. Content Types — Clinician Reasoning: General education does not establish a clinician’s decision process. Medical Claims requires practice evidence for its own care and omission of doubtful claims.",
+              "classification": "failure",
+              "reader_consequence": "The reader may expect a confirmed Willow checklist, concentration-selection procedure and discussion sequence that the practice has not established.",
+              "evidence": "Willow confirms a consultation route only. The independent source describes general assessment considerations, not Willow’s checklist, concentration selection or appointment sequence.",
+              "correction": "State that Willow offers a consultation. Present the assessment factors as general peel assessment education without attributing that checklist to Willow; remove the unsupported concentration-selection sequence."
+            }
+          ],
+          "positive_evidence": []
+        },
+        {
+          "id": "R24",
+          "decision": "pass",
+          "reader_takeaway": "The certificate records attendance at clinician training and does not award board certification or a new license.",
+          "findings": [],
+          "positive_evidence": [
+            "“Meridian’s course combines facial-anatomy teaching with treatment demonstrations for licensed clinicians. The certificate records attendance at that day of training.” — Fits the supported clinician audience and course content and answers what the certificate records.",
+            "“It does not award board certification or a new professional license. Those are different credentials, so describe the course as training when discussing your qualifications rather than presenting its certificate as specialist certification.” — States the supported credential boundary and applies it to describing qualifications without inventing professional eligibility."
+          ]
+        },
+        {
+          "id": "R67",
+          "decision": "fail",
+          "reader_takeaway": "The treatments target different concerns; the closing paragraph repeats concern-based selection in abstract terms.",
+          "findings": [
+            {
+              "passage": "Either treatment, or a combination when suitable, should fit the concern under discussion. The availability of two approaches does not make either one automatic, and a considered plan keeps both options in perspective.",
+              "requirement": "Writing Standards — Article Voice: Later passages must add information, apply an earlier point to a different situation, or supply a necessary qualification. Combine repeated points and remove closing statements that merely announce the explanation’s value. Section Focus requires every paragraph to develop the heading’s answer and removal of repetition.",
+              "classification": "failure",
+              "reader_consequence": "The reader receives another broad statement about matching treatments to concerns instead of further useful comparison or an explanation of combination suitability.",
+              "evidence": "The previous paragraph already makes the feature to change the starting point. The source permits consideration of both for separate concerns but provides no specific combined-treatment protocol. The closing paragraph does not develop the distinct concerns or assessment factor.",
+              "correction": "Delete the closing paragraph, or replace it with the supported distinction that separate concerns may lead to consideration of both treatments and choice also depends on skin assessment. Do not imply a documented Linden combination protocol."
+            }
+          ],
+          "positive_evidence": [
+            "“Intense pulsed light uses light energy to target pigment spots and visible vessels. Fractional resurfacing creates small treatment zones in the skin to address texture and fine lines.” — Explains supported concrete pigment/vessel versus texture/fine-line differences.",
+            "“Linden offers both services. Their different targets make the feature you want to change the useful starting point, rather than choosing whichever treatment sounds more powerful.” — Connects different targets to the reader’s choice."
+          ]
+        },
+        {
+          "id": "R35",
+          "decision": "pass",
+          "reader_takeaway": "A late date change can affect Oak’s deposit, making the rescheduling terms relevant before booking an uncertain date.",
+          "findings": [],
+          "positive_evidence": [
+            "“Oak takes a deposit when you book a chemical-peel appointment. A late change to your appointment can affect that deposit, so check the rescheduling terms before confirming a date you may need to move.” — Accurately summarizes the policy and connects it to a scheduling commitment. The scenario expressly permits this summary without every policy detail.",
+            "“Keep the booking confirmation available if you need to contact the practice about a change.” — Offers brief relevant contact preparation without inventing a practice requirement."
+          ]
+        },
+        {
+          "id": "R83",
+          "decision": "fail",
+          "reader_takeaway": "Settings follow area and skin characteristics rather than maximum depth; the conclusion repeats assessment’s priority without new information.",
+          "findings": [
+            {
+              "passage": "The device specifications belong within a broader review rather than standing in for it. Keeping the assessment in its proper place helps the technology remain relevant to the person receiving treatment.",
+              "requirement": "Writing Standards — Article Voice: Later passages must add information, apply an earlier point to a different situation, or supply a necessary qualification. Combine repeated points and remove closing statements that merely announce the explanation’s value. Section Focus requires every paragraph to develop the heading’s answer and removal of repetition.",
+              "classification": "failure",
+              "reader_consequence": "The reader receives an abstract endorsement after the concrete settings explanation, without another factor or actionable distinction.",
+              "evidence": "The first two paragraphs already describe the assessment factors and settings choice. The final paragraph gives no new assessment information or necessary source limit.",
+              "correction": "Delete the final paragraph and end with the supported explanation about comparing areas with different skin thickness."
+            }
+          ],
+          "positive_evidence": [
+            "“Cedar’s device allows the clinician to adjust needle depth and energy settings. The published assessment considers the area being treated, skin thickness, the texture concern and previous reactions.” — Identifies the confirmed assessment factors.",
+            "“The clinician chooses settings for those characteristics rather than automatically using the greatest available depth. This matters when comparing treatment of areas with different skin thickness.” — Explains the supported settings principle and applies it to areas with different skin thickness."
+          ]
+        },
+        {
+          "id": "R12",
+          "decision": "pass",
+          "reader_takeaway": "Two clinicians have relevant supported qualifications, but profiles do not identify the operator or supervision for a booking.",
+          "findings": [],
+          "positive_evidence": [
+            "“Dr. Elena Reed leads Summit’s consultations and is a board-certified dermatologist. Her skin-health background is relevant when texture concerns occur alongside an existing skin condition.” — Links Reed’s dermatology background to skin-health concerns.",
+            "“Omar Chen is a nurse practitioner trained in radiofrequency microneedling. His treatment training gives another supported reason to consider him for this procedure.” — Gives a reason to consider Chen from confirmed treatment training without assigning him every procedure.",
+            "“The profiles establish relevant experience, but they do not identify the clinician assigned to your appointment. Confirm who will perform the procedure and what supervision is provided when booking.” — States the exact operator-assignment gap and makes booking clarification relevant. This preserves associations rather than replacing an available answer."
+          ]
+        },
+        {
+          "id": "R46",
+          "decision": "fail",
+          "reader_takeaway": "Supported recovery timing, aftercare and symptom reporting are followed by a vague warning and closing statement.",
+          "findings": [
+            {
+              "passage": "These measures support a considered recovery process, but no checklist can cover every personal circumstance. Keeping the wider picture in mind allows the treatment and your individual needs to remain part of the same conversation.",
+              "requirement": "Writing Standards — Article Voice: Later passages must add information, apply an earlier point to a different situation, or supply a necessary qualification. Combine repeated points and remove closing statements that merely announce the explanation’s value. Section Focus requires every paragraph to develop the heading’s answer and removal of repetition. Article Voice also prohibits generic warnings after a clear limitation when they add no information.",
+              "classification": "failure",
+              "reader_consequence": "The reader encounters a broad warning after receiving a clear symptom threshold, without any additional circumstance, risk or action to understand.",
+              "evidence": "The supplied scenario establishes recovery measures and persistent/worsening symptoms as the relevant escalation threshold. It documents no additional checklist risk; the final paragraph gives no specific new recovery information.",
+              "correction": "Delete the final paragraph and end with the supported distinction between ordinary early redness and persistent or worsening symptoms."
+            }
+          ],
+          "positive_evidence": [
+            "“Mild redness can remain for two to three days after treatment. Harbor recommends a cold compress for discomfort and a 24-hour pause from strenuous exercise, so leave that activity out of your schedule on treatment day.” — Connects confirmed aftercare to a practical exercise commitment.",
+            "“Contact the treating team if symptoms persist or worsen. That is different from judging the appearance during the first few hours, when ordinary redness may still be present.” — Gives the supported escalation threshold and distinguishes it from expected early redness."
+          ]
+        }
+      ],
+      "limitations": [
+        "Reviewed only the six frozen requirement texts and twelve standalone scenarios in this packet. The hypothetical evidence defines factual support; no live sources, additional protocols or external medical knowledge were used.",
+        "Decisions concern only the supplied sections. Full-article word count, links, CTA, overall customization, images, delivery rendering and customer acceptance are outside the available excerpts and were not required.",
+        "All 29 prose paragraphs contain one or two sentences (29/29, 100%, accounting for Dr. as an abbreviation). Paragraph length alone does not establish editorial quality. The supplied prose was checked for grammar, spelling, heading fit, voice, repetition, claim support and relevant source limits."
+      ]
+    },
+    "candidate_forward": {
+      "condition_id": "candidate_forward",
+      "cases": [
+        {
+          "id": "R46",
+          "decision": "fail",
+          "reader_takeaway": "The reader receives a recovery window, practical aftercare, and a reason to contact the treating team; the final paragraph adds no recovery information.",
+          "findings": [
+            {
+              "passage": "These measures support a considered recovery process, but no checklist can cover every personal circumstance. Keeping the wider picture in mind allows the treatment and your individual needs to remain part of the same conversation.",
+              "requirement": "Writing Standards — Article Voice: combine passages that repeat without developing the answer; remove closing statements that merely announce the value of the explanation. Section Focus: every paragraph must develop the heading through explanation, evidence, a relevant distinction, or a necessary qualification.",
+              "classification": "failure",
+              "reader_consequence": "The ending replaces a concrete recovery explanation with an abstract reminder and supplies no symptom, action, or unresolved recovery question.",
+              "evidence": "Harbor and the independent source support the preceding aftercare and escalation advice; no additional checklist issue is documented.",
+              "correction": "Delete the final paragraph. Preserve the supported recovery duration, activity restriction, and persistent-or-worsening symptom advice."
+            }
+          ],
+          "positive_evidence": [
+            "“Mild redness can remain for two to three days after treatment.” gives the supported recovery expectation.",
+            "“Contact the treating team if symptoms persist or worsen.” supplies supported safety advice tied to recovery, and the next sentence distinguishes ordinary early redness."
+          ]
+        },
+        {
+          "id": "R12",
+          "decision": "pass",
+          "reader_takeaway": "The reader learns which clinicians have relevant backgrounds and how to resolve the unknown procedure operator and supervision arrangement.",
+          "findings": [],
+          "positive_evidence": [
+            "“Dr. Elena Reed leads Summit’s consultations and is a board-certified dermatologist.” preserves the confirmed consultation role and gives relevant skin-health context in the following sentence.",
+            "“Omar Chen is a nurse practitioner trained in radiofrequency microneedling.” explains a supported reason to consider him.",
+            "“The profiles establish relevant experience, but they do not identify the clinician assigned to your appointment. Confirm who will perform the procedure and what supervision is provided when booking.” identifies a specific evidence gap and a useful action without inventing assignment."
+          ]
+        },
+        {
+          "id": "R83",
+          "decision": "fail",
+          "reader_takeaway": "The reader learns which skin and treatment features inform adjustable settings, but the ending restates the value of assessment in abstract terms.",
+          "findings": [
+            {
+              "passage": "The device specifications belong within a broader review rather than standing in for it. Keeping the assessment in its proper place helps the technology remain relevant to the person receiving treatment.",
+              "requirement": "Writing Standards — Article Voice: combine passages that repeat without developing the answer; remove closing statements that merely announce the value of the explanation. Section Focus: every paragraph must develop the heading through explanation, evidence, a relevant distinction, or a necessary qualification.",
+              "classification": "failure",
+              "reader_consequence": "The reader already knows how assessment affects settings; the ending adds no further decision factor or explanation.",
+              "evidence": "The sources support area- and skin-specific settings, already explained in the first two paragraphs. No additional role for the broader review is supplied.",
+              "correction": "Delete the closing paragraph; keep the assessment factors and explanation that maximum depth is not automatic."
+            },
+            {
+              "passage": "the area being treated, skin thickness, the texture concern and previous reactions",
+              "requirement": "Writing Standards — Style Conventions: use the Oxford comma for BMP consistency.",
+              "classification": "failure",
+              "reader_consequence": "The list does not follow the required punctuation convention; its meaning remains understandable.",
+              "evidence": "The excerpt contains four parallel assessment factors with no comma before the final conjunction.",
+              "correction": "Insert a comma after “the texture concern”."
+            }
+          ],
+          "positive_evidence": [
+            "“The clinician chooses settings for those characteristics rather than automatically using the greatest available depth.” explains the supported setting principle instead of only advising the reader to ask."
+          ]
+        },
+        {
+          "id": "R35",
+          "decision": "pass",
+          "reader_takeaway": "The reader learns that booking requires a deposit and a late appointment change may affect it, with practical steps for managing a change.",
+          "findings": [],
+          "positive_evidence": [
+            "“A late change to your appointment can affect that deposit, so check the rescheduling terms before confirming a date you may need to move.” gives an accurate, useful policy summary; the exact 48-hour threshold is optional here.",
+            "“Keep the booking confirmation available if you need to contact the practice about a change.” applies the booking subject to a specific administrative task without inventing a policy."
+          ]
+        },
+        {
+          "id": "R67",
+          "decision": "fail",
+          "reader_takeaway": "The reader receives the supported target differences between the treatments, but the final paragraph adds broad suitability language rather than explaining a combined choice.",
+          "findings": [
+            {
+              "passage": "Either treatment, or a combination when suitable, should fit the concern under discussion. The availability of two approaches does not make either one automatic, and a considered plan keeps both options in perspective.",
+              "requirement": "Writing Standards — Article Voice: combine passages that repeat without developing the answer; remove closing statements that merely announce the value of the explanation. Section Focus: every paragraph must develop the heading through explanation, evidence, a relevant distinction, or a necessary qualification.",
+              "classification": "failure",
+              "reader_consequence": "The paragraph repeats concern-based selection and gives no concrete explanation of when the two targets could matter together. The abstract ending does not help compare the options.",
+              "evidence": "The evidence supports separate pigment/vessel and texture/fine-line targets and possible consideration of both for separate concerns; no combined protocol is documented.",
+              "correction": "Delete the final paragraph, or replace it with the supported distinction that separate pigment or vessel concerns and texture concerns may lead to considering both approaches, while leaving an individual plan to assessment and asserting no combined protocol."
+            }
+          ],
+          "positive_evidence": [
+            "“Intense pulsed light uses light energy to target pigment spots and visible vessels. Fractional resurfacing creates small treatment zones in the skin to address texture and fine lines.” directly explains the choice-relevant target difference.",
+            "“Their different targets make the feature you want to change the useful starting point, rather than choosing whichever treatment sounds more powerful.” applies that difference to comparison."
+          ]
+        },
+        {
+          "id": "R24",
+          "decision": "pass",
+          "reader_takeaway": "The clinician reader learns that the course certificate documents training attendance and does not confer specialist certification or a license.",
+          "findings": [],
+          "positive_evidence": [
+            "“The certificate records attendance at that day of training.” answers the heading directly using confirmed evidence.",
+            "“It does not award board certification or a new professional license.” prevents a concrete credential misunderstanding.",
+            "“Those are different credentials, so describe the course as training when discussing your qualifications rather than presenting its certificate as specialist certification.” applies the distinction without making jurisdiction-specific eligibility claims."
+          ]
+        },
+        {
+          "id": "R91",
+          "decision": "fail",
+          "reader_takeaway": "The reader is given a definite Willow consultation sequence that the evidence does not establish; general assessment factors are incorrectly attributed to the practice.",
+          "findings": [
+            {
+              "passage": "Willow’s consultation includes a review of your treatment goals, skin condition, medicines and past reactions. Its clinician uses that review to choose a peel concentration before discussing the likely recovery.",
+              "requirement": "Writing Standards — Medical Claims: use independent medical sources for general treatment facts and practice evidence for its own services and care; omit doubtful claims. Reader Priorities: distinguish general expectations from the confirmed practice process. Content Types: general education does not establish a clinician’s decision process.",
+              "classification": "failure",
+              "reader_consequence": "The reader may expect a specific checklist and concentration-selection sequence at Willow despite the absence of evidence for that process.",
+              "evidence": "Willow confirms only a consultation route. The independent source supports general assessment factors, not Willow’s checklist, concentration choice, or sequence.",
+              "correction": "Rewrite the assessment factors as general peel education, state only Willow’s confirmed consultation route, and remove the asserted concentration-selection sequence."
+            },
+            {
+              "passage": "Bring your medication list rather than deciding on your own which prescriptions to stop.",
+              "requirement": "Writing Standards — Medical Claims: use independent medical sources for general treatment facts and practice evidence for its own services and care; omit doubtful claims. Reader Priorities: distinguish general expectations from the confirmed practice process.",
+              "classification": "unverified",
+              "reader_consequence": "The reader receives medication-related preparation advice whose support is not established by this complete source context.",
+              "evidence": "The scenario supplies general assessment of current medicines but explicitly does not establish medication-stopping instructions.",
+              "correction": "Limit the sentence to the supported point that current medicines are relevant to a general peel assessment; omit the prescription-stopping advice without source support."
+            },
+            {
+              "passage": "your treatment goals, skin condition, medicines and past reactions",
+              "requirement": "Writing Standards — Style Conventions: use the Oxford comma for BMP consistency.",
+              "classification": "failure",
+              "reader_consequence": "The parallel list omits required punctuation, although the list remains understandable.",
+              "evidence": "Four parallel factors appear without a comma before the final conjunction.",
+              "correction": "When rewriting as general education, insert a comma after “medicines”."
+            }
+          ],
+          "positive_evidence": [
+            "“The appointment gives you a chance to describe the change you want to see.” is relevant to a consultation and does not assert an unsupported technical protocol."
+          ]
+        },
+        {
+          "id": "R08",
+          "decision": "pass",
+          "reader_takeaway": "The reader learns that pigment improvement develops over weeks and that early redness should not be mistaken for the later result.",
+          "findings": [],
+          "positive_evidence": [
+            "“The pigment change develops over several weeks rather than appearing fully on treatment day.” directly answers the onset question without guaranteeing a fixed result.",
+            "“Meadow schedules an initial review at four weeks, when the clinician can assess the developing result.” integrates the confirmed review timing and does not call the result final.",
+            "“An early photograph may record that redness rather than the improvement you are waiting to see, so it is not a fair comparison with the four-week review.” applies the supported recovery/result distinction to interpreting an early photograph."
+          ]
+        },
+        {
+          "id": "R52",
+          "decision": "fail",
+          "reader_takeaway": "The reader learns the usual interval, its recovery and assessment rationale, and the calendar commitment; the middle paragraph repeats that rationale without developing it.",
+          "findings": [
+            {
+              "passage": "The appointments are separated because recovery and assessment take time. Space between treatments supports the ongoing course, rather than treating each visit as if it were separate from the visits around it.",
+              "requirement": "Writing Standards — Article Voice: combine passages that repeat without developing the answer; remove closing statements that merely announce the value of the explanation. Section Focus: every paragraph must develop the heading through explanation, evidence, a relevant distinction, or a necessary qualification.",
+              "classification": "failure",
+              "reader_consequence": "The paragraph repeats the first paragraph’s reason for spacing, then offers an abstract statement about the course without another useful planning detail.",
+              "evidence": "The first paragraph already explains recovery and assessment before the next visit. The supplied source supports change across a course but this paragraph does not explain that developing change concretely.",
+              "correction": "Delete the middle paragraph, or replace it with a concise supported explanation that improvement develops across the course rather than being judged from one visit. Retain the final paragraph’s calendar planning and individual timing qualification."
+            }
+          ],
+          "positive_evidence": [
+            "“That interval gives the skin time to recover and allows the clinician to assess the developing change before the next visit.” supplies the supported reason for spacing.",
+            "“Allow calendar time for the gaps as well as the appointments.” explains the practical commitment.",
+            "“The clinician sets the schedule for your course; the published interval is a planning guide, not a fixed completion date.” prevents treating a typical interval as a guaranteed schedule."
+          ]
+        },
+        {
+          "id": "R73",
+          "decision": "pass",
+          "reader_takeaway": "The reader learns what cooling can do for comfort, what sensations may remain, and why it does not remove burn risk or the need for appropriate settings.",
+          "findings": [],
+          "positive_evidence": [
+            "“Cooling can reduce discomfort, but a snapping or warm sensation may still occur.” connects cooling to the supported experience while qualifying absence-of-pain expectations.",
+            "“It also does not make burns impossible.” introduces a distinct, relevant safety limit rather than repeating the sensation point.",
+            "“cooling is a comfort measure, not proof that every setting is safe for your skin.” connects the supported need for appropriate settings to the concrete misunderstanding that cooling guarantees safety."
+          ]
+        },
+        {
+          "id": "R04",
+          "decision": "fail",
+          "reader_takeaway": "The reader sees that different concerns call for different approaches, but the main explanation closely reuses a distinctive competitor analogy.",
+          "findings": [
+            {
+              "passage": "Think of your skin as a printed photograph: light treatment removes unwanted ink from the picture, while resurfacing alters the grain of the paper underneath.",
+              "requirement": "Writing Standards — Article Voice: do not copy content from competitors.",
+              "classification": "failure",
+              "reader_consequence": "The treatment comparison relies on borrowed expression rather than original synthesis; changing individual words does not make the distinctive analogy original.",
+              "evidence": "The supplied competitor expression uses the same photograph/ink/paper analogy and treatment mapping. The scenario identifies that expression as distinctive and unnecessary to the medical explanation.",
+              "correction": "Replace the analogy with original direct prose: one approach addresses pigment spots; the other addresses texture and fine lines. Preserve Ash’s confirmed availability and concern-based comparison."
+            }
+          ],
+          "positive_evidence": [
+            "“Describe which feature bothers you rather than assuming that one treatment must change both.” applies the supported distinction without inventing a practice protocol."
+          ]
+        },
+        {
+          "id": "R39",
+          "decision": "pass",
+          "reader_takeaway": "The reader learns what Pine’s consultation establishes and how to resolve whether the first booking includes a procedure before reserving time away from work.",
+          "findings": [],
+          "positive_evidence": [
+            "“Pine starts with a consultation about your aesthetic goals and medical history, then develops a tailored plan.” gives the confirmed process.",
+            "“The booking page does not confirm that treatment happens during that appointment.” keeps the relevant same-visit uncertainty explicit.",
+            "“If you are reserving time away from work for a procedure, confirm whether you are booking assessment alone or assessment and treatment.” gives a specific reason and action for resolving that uncertainty, rather than adding a generic warning."
+          ]
+        }
+      ],
+      "limitations": [
+        "This is a review of twelve standalone hypothetical sections using only the packet’s complete scenario evidence and supplied requirements; it does not verify live clinical facts or full articles.",
+        "Pass decisions apply only to the relevant excerpt requirements, not full-article length, links, delivery, or customer acceptance.",
+        "Operator calibration establishes passage-level correction thresholds, not Alex’s acceptance."
+      ]
+    },
+    "candidate_reverse": {
+      "condition_id": "candidate_reverse",
+      "cases": [
+        {
+          "id": "R39",
+          "decision": "pass",
+          "reader_takeaway": "The first appointment establishes goals, medical history, and a plan; treatment at that visit is unconfirmed, so booking time for a procedure requires resolving the appointment type.",
+          "findings": [],
+          "positive_evidence": [
+            "“Pine starts with a consultation about your aesthetic goals and medical history, then develops a tailored plan.” Gives the confirmed sequence directly.",
+            "“If you are reserving time away from work for a procedure, confirm whether you are booking assessment alone or assessment and treatment.” Resolves a specific timing uncertainty with a concrete reason and action; it does not substitute advice for an available answer."
+          ]
+        },
+        {
+          "id": "R04",
+          "decision": "fail",
+          "reader_takeaway": "The section tries to distinguish pigment treatment from texture treatment, but expresses that distinction through a near-copy of a distinctive competitor analogy.",
+          "findings": [
+            {
+              "passage": "Think of your skin as a printed photograph: light treatment removes unwanted ink from the picture, while resurfacing alters the grain of the paper underneath.",
+              "requirement": "Writing Standards, Article Voice: Do not copy content from competitors.",
+              "classification": "failure",
+              "reader_consequence": "The reader receives borrowed distinctive expression rather than an original explanation of the treatment difference.",
+              "evidence": "The supplied synthetic competitor uses the same photograph, ink, and paper-grain analogy in the same treatment mapping; these are not necessary medical terms.",
+              "correction": "Replace the analogy with original direct prose: light treatment addresses visible pigment spots, while resurfacing addresses surface texture and fine lines. Connect that difference to Ash offering both approaches."
+            }
+          ],
+          "positive_evidence": [
+            "“A pigment spot and a rough patch can look noticeable for different reasons.” Introduces the supported difference in treatment targets."
+          ]
+        },
+        {
+          "id": "R73",
+          "decision": "pass",
+          "reader_takeaway": "Cooling can reduce discomfort while pulses may still feel warm or snapping; cooling does not guarantee protection from burns or unsafe settings.",
+          "findings": [],
+          "positive_evidence": [
+            "“Cooling can reduce discomfort, but a snapping or warm sensation may still occur.” Directly answers the comfort question with the supplied supported expectation.",
+            "“cooling is a comfort measure, not proof that every setting is safe for your skin.” Prevents the concrete misunderstanding that cooling makes all settings safe; the supplied source confirms that appropriate settings and skin characteristics still affect risk."
+          ]
+        },
+        {
+          "id": "R52",
+          "decision": "fail",
+          "reader_takeaway": "Brook commonly spaces visits four to six weeks apart for recovery and assessment; the reader should allow calendar time without treating that interval as a fixed completion date.",
+          "findings": [
+            {
+              "passage": "The appointments are separated because recovery and assessment take time. Space between treatments supports the ongoing course, rather than treating each visit as if it were separate from the visits around it.",
+              "requirement": "Writing Standards, Article Voice: Combine passages that make the same point without developing it. Section Focus: Every paragraph must develop the heading’s answer through explanation, evidence, a relevant distinction, or a necessary qualification.",
+              "classification": "failure",
+              "reader_consequence": "This paragraph repeats why visits are spaced and then adds abstract commentary without explaining a further feature of the course. It interrupts the useful explanation and planning guidance.",
+              "evidence": "The first paragraph already explains recovery and assessment. The supplied source supports improvement developing across the course, but the second paragraph does not state that concrete point.",
+              "correction": "Delete this paragraph, or replace it with the supported explanation that improvement develops across the course rather than at a single appointment."
+            }
+          ],
+          "positive_evidence": [
+            "“That interval gives the skin time to recover and allows the clinician to assess the developing change before the next visit.” Explains the supported reason for the spacing.",
+            "“The clinician sets the schedule for your course; the published interval is a planning guide, not a fixed completion date.” Preserves the specific timing limit and helps course planning."
+          ]
+        },
+        {
+          "id": "R08",
+          "decision": "pass",
+          "reader_takeaway": "Pigment improvement develops over weeks and is reviewed at four weeks; early redness is a recovery effect that can distort an early comparison.",
+          "findings": [],
+          "positive_evidence": [
+            "“Meadow schedules an initial review at four weeks, when the clinician can assess the developing result.” Supplies a confirmed practice review time without promising a completed outcome.",
+            "“An early photograph may record that redness rather than the improvement you are waiting to see, so it is not a fair comparison with the four-week review.” Applies the supported distinction between early redness and later pigment improvement to interpretation of photographs."
+          ]
+        },
+        {
+          "id": "R91",
+          "decision": "fail",
+          "reader_takeaway": "The section gives a concrete consultation sequence, but incorrectly presents general assessment factors and an unsupported concentration-selection process as Willow’s own procedure.",
+          "findings": [
+            {
+              "passage": "Willow’s consultation includes a review of your treatment goals, skin condition, medicines and past reactions. Its clinician uses that review to choose a peel concentration before discussing the likely recovery.",
+              "requirement": "Writing Standards, Medical Claims: Use practice evidence for claims about its own services and care; omit doubtful claims. Content Types: General treatment education does not establish a clinician’s decision process. Reader Priorities: Distinguish general treatment expectations from the practice’s confirmed process.",
+              "classification": "failure",
+              "reader_consequence": "The reader is led to expect a particular Willow checklist and ordered concentration-selection process that the evidence does not establish.",
+              "evidence": "Willow confirms only a consultation route. The independent source supports general assessment factors, not Willow’s checklist, concentration choice, or sequence.",
+              "correction": "State that a general peel assessment considers goals, skin condition, medicines, and previous reactions; separately state that Willow offers a consultation. Remove the concentration-selection and recovery-discussion sequence unless practice evidence establishes it. Use the Oxford comma in the list."
+            }
+          ],
+          "positive_evidence": [
+            "“The appointment gives you a chance to describe the change you want to see.” Fits the confirmed consultation route and the reader’s treatment goals."
+          ]
+        },
+        {
+          "id": "R24",
+          "decision": "pass",
+          "reader_takeaway": "The course certificate records attendance at training for licensed clinicians; it does not confer board certification or a new license.",
+          "findings": [],
+          "positive_evidence": [
+            "“The certificate records attendance at that day of training.” Answers the heading with the confirmed credential meaning.",
+            "“Those are different credentials, so describe the course as training when discussing your qualifications rather than presenting its certificate as specialist certification.” Applies a concrete credential distinction for the clinician audience without making a jurisdictional eligibility claim."
+          ]
+        },
+        {
+          "id": "R67",
+          "decision": "fail",
+          "reader_takeaway": "The useful comparison identifies light treatment for pigment and vessels and resurfacing for texture and fine lines; the ending adds a vague suitability discussion.",
+          "findings": [
+            {
+              "passage": "Either treatment, or a combination when suitable, should fit the concern under discussion. The availability of two approaches does not make either one automatic, and a considered plan keeps both options in perspective.",
+              "requirement": "Writing Standards, Article Voice: Give concrete answers and remove closing statements that merely announce the value of the explanation. Section Focus: Every paragraph must develop the answer through explanation, evidence, a relevant distinction, or a necessary qualification.",
+              "classification": "failure",
+              "reader_consequence": "The reader gets no explanation of what combination treatment would address or how assessment changes selection. Generic suitability and perspective language weakens the otherwise clear comparison.",
+              "evidence": "The supplied source permits considering both for separate concerns but establishes no combined-treatment protocol. The preceding paragraphs already connect the choice to the concern.",
+              "correction": "Remove the paragraph, or explain the supported separate-concern rationale: pigment or vessels and texture or fine lines can represent different goals, so both approaches may be considered after skin assessment. Do not imply a Linden combination protocol."
+            }
+          ],
+          "positive_evidence": [
+            "“Intense pulsed light uses light energy to target pigment spots and visible vessels. Fractional resurfacing creates small treatment zones in the skin to address texture and fine lines.” Supplies the supported difference that affects treatment choice.",
+            "“Their different targets make the feature you want to change the useful starting point, rather than choosing whichever treatment sounds more powerful.” Explains the practical meaning of the comparison."
+          ]
+        },
+        {
+          "id": "R35",
+          "decision": "pass",
+          "reader_takeaway": "Oak requires a deposit and a late schedule change can affect it; readers should check terms when planning a date that may change.",
+          "findings": [],
+          "positive_evidence": [
+            "“A late change to your appointment can affect that deposit, so check the rescheduling terms before confirming a date you may need to move.” Gives an accurate concise policy consequence and practical application; the complete 48-hour rule is not required.",
+            "“Keep the booking confirmation available if you need to contact the practice about a change.” Provides a brief relevant administrative step, without claiming an unsupported policy."
+          ]
+        },
+        {
+          "id": "R83",
+          "decision": "fail",
+          "reader_takeaway": "Settings are adjusted for the treatment area, skin thickness, texture concern, and prior reactions rather than always using maximum depth; the closing returns to abstract commentary.",
+          "findings": [
+            {
+              "passage": "The device specifications belong within a broader review rather than standing in for it. Keeping the assessment in its proper place helps the technology remain relevant to the person receiving treatment.",
+              "requirement": "Writing Standards, Article Voice: A later passage must add information, apply an earlier point, or supply a necessary qualification; remove closing statements that merely announce the value of the preceding explanation. Section Focus: Every paragraph must develop the heading’s answer.",
+              "classification": "failure",
+              "reader_consequence": "The ending repeats the value of assessment without adding a setting decision, concrete unknown, or new distinction. The reader must supply the meaning of “proper place” and “remain relevant.”",
+              "evidence": "The preceding paragraphs already state assessment factors and how they affect settings. No further device-based misconception or process is documented that requires this abstract warning.",
+              "correction": "Delete the closing paragraph. If a further explanation is needed, develop a supported concrete connection between the named factors and settings instead of broad review language."
+            },
+            {
+              "passage": "The published assessment considers the area being treated, skin thickness, the texture concern and previous reactions.",
+              "requirement": "Writing Standards, Style Conventions: Use the Oxford comma for BMP consistency.",
+              "classification": "failure",
+              "reader_consequence": "The list does not follow the required house punctuation convention.",
+              "evidence": "The exact excerpt omits the comma before the final list item.",
+              "correction": "Add a comma after “the texture concern.”"
+            }
+          ],
+          "positive_evidence": [
+            "“The clinician chooses settings for those characteristics rather than automatically using the greatest available depth.” Connects the concrete assessment factors to supported treatment settings.",
+            "“This matters when comparing treatment of areas with different skin thickness.” Applies that connection to a relevant difference between areas."
+          ]
+        },
+        {
+          "id": "R12",
+          "decision": "pass",
+          "reader_takeaway": "Two clinicians have relevant consultation or treatment expertise, but their profiles do not establish who will perform a booked procedure or the supervision arrangement.",
+          "findings": [],
+          "positive_evidence": [
+            "“Her skin-health background is relevant when texture concerns occur alongside an existing skin condition.” Gives a reason to consider the dermatologist rather than only listing a credential.",
+            "“His treatment training gives another supported reason to consider him for this procedure.” Connects the nurse practitioner’s confirmed training to the topic without asserting operator assignment.",
+            "“Confirm who will perform the procedure and what supervision is provided when booking.” Gives a specific way to resolve the documented assignment and supervision uncertainty."
+          ]
+        },
+        {
+          "id": "R46",
+          "decision": "fail",
+          "reader_takeaway": "The section provides supported redness duration, comfort measures, exercise limits, and a symptom-reporting threshold; the ending adds an unneeded broad warning.",
+          "findings": [
+            {
+              "passage": "These measures support a considered recovery process, but no checklist can cover every personal circumstance. Keeping the wider picture in mind allows the treatment and your individual needs to remain part of the same conversation.",
+              "requirement": "Writing Standards, Article Voice: Do not follow a clear limitation with another generic warning that adds no information; remove closing statements that merely announce the value of the preceding explanation. Section Focus: Every paragraph must develop the answer.",
+              "classification": "failure",
+              "reader_consequence": "The reader receives no additional recovery expectation, safety threshold, or specific uncertainty. Abstract checklist and wider-picture language follows already useful recovery and reporting instructions.",
+              "evidence": "The scenario documents the aftercare and symptom-reporting rule; it supplies no additional checklist risk or personal circumstance needing this warning.",
+              "correction": "Delete the final paragraph while retaining redness duration, cold-compress advice, the exercise interval, and the instruction to report persistent or worsening symptoms."
+            }
+          ],
+          "positive_evidence": [
+            "“Harbor recommends a cold compress for discomfort and a 24-hour pause from strenuous exercise, so leave that activity out of your schedule on treatment day.” Gives confirmed aftercare and a practical scheduling consequence.",
+            "“Contact the treating team if symptoms persist or worsen.” Preserves the supported safety action beside the recovery expectations."
+          ]
+        }
+      ],
+      "limitations": [
+        "This review covers only the twelve standalone excerpts and their supplied hypothetical evidence; it does not establish whole-article compliance, real medical accuracy, delivery, or customer acceptance.",
+        "Operator calibration concerns passage judgments; coordinator interpretations are not new governing requirements or Alex acceptance."
+      ]
+    }
+  },
+  "observations": {
+    "metrics": {
+      "existing_forward": {
+        "intended_defects_detected": [
+          "R46",
+          "R83",
+          "R67",
+          "R91",
+          "R52",
+          "R04"
+        ],
+        "intended_defects_total": 6,
+        "misses": [],
+        "acceptable_cases_passed": [
+          "R12",
+          "R35",
+          "R24",
+          "R08",
+          "R73",
+          "R39"
+        ],
+        "acceptable_cases_total": 6,
+        "acceptable_cases_not_passed": [],
+        "decisions": {
+          "R46": "fail",
+          "R12": "pass",
+          "R83": "fail",
+          "R35": "pass",
+          "R67": "fail",
+          "R24": "pass",
+          "R91": "fail",
+          "R08": "pass",
+          "R52": "fail",
+          "R73": "pass",
+          "R04": "fail",
+          "R39": "pass"
+        },
+        "supplementary_findings": []
+      },
+      "existing_reverse": {
+        "intended_defects_detected": [
+          "R04",
+          "R52",
+          "R91",
+          "R67",
+          "R83",
+          "R46"
+        ],
+        "intended_defects_total": 6,
+        "misses": [],
+        "acceptable_cases_passed": [
+          "R39",
+          "R73",
+          "R08",
+          "R24",
+          "R35",
+          "R12"
+        ],
+        "acceptable_cases_total": 6,
+        "acceptable_cases_not_passed": [],
+        "decisions": {
+          "R39": "pass",
+          "R04": "fail",
+          "R73": "pass",
+          "R52": "fail",
+          "R08": "pass",
+          "R91": "fail",
+          "R24": "pass",
+          "R67": "fail",
+          "R35": "pass",
+          "R83": "fail",
+          "R12": "pass",
+          "R46": "fail"
+        },
+        "supplementary_findings": []
+      },
+      "candidate_forward": {
+        "intended_defects_detected": [
+          "R46",
+          "R83",
+          "R67",
+          "R91",
+          "R52",
+          "R04"
+        ],
+        "intended_defects_total": 6,
+        "misses": [],
+        "acceptable_cases_passed": [
+          "R12",
+          "R35",
+          "R24",
+          "R08",
+          "R73",
+          "R39"
+        ],
+        "acceptable_cases_total": 6,
+        "acceptable_cases_not_passed": [],
+        "decisions": {
+          "R46": "fail",
+          "R12": "pass",
+          "R83": "fail",
+          "R35": "pass",
+          "R67": "fail",
+          "R24": "pass",
+          "R91": "fail",
+          "R08": "pass",
+          "R52": "fail",
+          "R73": "pass",
+          "R04": "fail",
+          "R39": "pass"
+        },
+        "supplementary_findings": [
+          {
+            "case": "R83",
+            "finding": {
+              "passage": "the area being treated, skin thickness, the texture concern and previous reactions",
+              "requirement": "Writing Standards — Style Conventions: use the Oxford comma for BMP consistency.",
+              "classification": "failure",
+              "reader_consequence": "The list does not follow the required punctuation convention; its meaning remains understandable.",
+              "evidence": "The excerpt contains four parallel assessment factors with no comma before the final conjunction.",
+              "correction": "Insert a comma after “the texture concern”."
+            }
+          },
+          {
+            "case": "R91",
+            "finding": {
+              "passage": "Bring your medication list rather than deciding on your own which prescriptions to stop.",
+              "requirement": "Writing Standards — Medical Claims: use independent medical sources for general treatment facts and practice evidence for its own services and care; omit doubtful claims. Reader Priorities: distinguish general expectations from the confirmed practice process.",
+              "classification": "unverified",
+              "reader_consequence": "The reader receives medication-related preparation advice whose support is not established by this complete source context.",
+              "evidence": "The scenario supplies general assessment of current medicines but explicitly does not establish medication-stopping instructions.",
+              "correction": "Limit the sentence to the supported point that current medicines are relevant to a general peel assessment; omit the prescription-stopping advice without source support."
+            }
+          },
+          {
+            "case": "R91",
+            "finding": {
+              "passage": "your treatment goals, skin condition, medicines and past reactions",
+              "requirement": "Writing Standards — Style Conventions: use the Oxford comma for BMP consistency.",
+              "classification": "failure",
+              "reader_consequence": "The parallel list omits required punctuation, although the list remains understandable.",
+              "evidence": "Four parallel factors appear without a comma before the final conjunction.",
+              "correction": "When rewriting as general education, insert a comma after “medicines”."
+            }
+          }
+        ]
+      },
+      "candidate_reverse": {
+        "intended_defects_detected": [
+          "R04",
+          "R52",
+          "R91",
+          "R67",
+          "R83",
+          "R46"
+        ],
+        "intended_defects_total": 6,
+        "misses": [],
+        "acceptable_cases_passed": [
+          "R39",
+          "R73",
+          "R08",
+          "R24",
+          "R35",
+          "R12"
+        ],
+        "acceptable_cases_total": 6,
+        "acceptable_cases_not_passed": [],
+        "decisions": {
+          "R39": "pass",
+          "R04": "fail",
+          "R73": "pass",
+          "R52": "fail",
+          "R08": "pass",
+          "R91": "fail",
+          "R24": "pass",
+          "R67": "fail",
+          "R35": "pass",
+          "R83": "fail",
+          "R12": "pass",
+          "R46": "fail"
+        },
+        "supplementary_findings": [
+          {
+            "case": "R83",
+            "finding": {
+              "passage": "The published assessment considers the area being treated, skin thickness, the texture concern and previous reactions.",
+              "requirement": "Writing Standards, Style Conventions: Use the Oxford comma for BMP consistency.",
+              "classification": "failure",
+              "reader_consequence": "The list does not follow the required house punctuation convention.",
+              "evidence": "The exact excerpt omits the comma before the final list item.",
+              "correction": "Add a comma after “the texture concern.”"
+            }
+          }
+        ]
+      }
+    },
+    "order_stability": {
+      "existing": {
+        "changed_case_verdicts": [],
+        "primary_defects_flagged_both_orders": [
+          "R04",
+          "R46",
+          "R52",
+          "R67",
+          "R83",
+          "R91"
+        ]
+      },
+      "candidate": {
+        "changed_case_verdicts": [],
+        "primary_defects_flagged_both_orders": [
+          "R04",
+          "R46",
+          "R52",
+          "R67",
+          "R83",
+          "R91"
+        ]
+      }
+    },
+    "manual_check": "Coordinator inspected every intended finding across the four reports: reasons identify the prescribed generic warning, abstract conclusion, unsupported practice attribution, redundant explanation, or copied expression. Exact excerpts also verified programmatically. A failing case was not credited merely for an unrelated punctuation fault.",
+    "comparison": "Both methods flagged all six intended defects and passed all six acceptable controls in both orders. All twelve verdicts and intended findings were stable. No improvement over current procedure established on this sample.",
+    "candidate_transfer": "The sharpened procedure accepted specific clinician/operator and appointment-timing uncertainties, a credential distinction, a necessary cooling qualification, concise booking-policy wording and a supported timeline explanation. It rejected the new abstract or redundant passages. This is consistency with coordinator predictions informed by Vikas calibration, not independently supplied human labels for these new cases.",
+    "incidental_faults": "R83 and R91 contain incidental Oxford-comma omissions. Candidate_forward flagged both; candidate_reverse flagged R83 only. Candidate_forward also flagged medication-list/prescription advice in R91 as unverified from its scenario evidence. These supplementary findings were not prespecified intended defects and were not counted as superiority. Their variation limits any claim of complete finding stability.",
+    "interpretation": "Focused standalone sections did not reproduce the earlier full-article misses. This suggests a useful next test is judgment in complete article context; it does not establish that attention or context length caused the earlier misses.",
+    "recommendation": "Do not replace governing evaluator instructions based on this test. Retain the candidate as an experimental procedure. Further selection evidence would need complete articles not used in calibration, with independent human judgments, while preserving factual and mechanical checks.",
+    "remaining_gaps": [
+      "No independent Vikas/Alex judgments on these twelve new cases.",
+      "No new complete-article assessment or customer acceptance.",
+      "No production source-acquisition or live fact-check verification.",
+      "No population reliability or causal attribution to the new prompt."
+    ]
+  },
   "limits": [
     "Small coordinator-authored convenience sample; no population reliability estimate.",
     "Candidate has calibration examples; baseline retains current procedure. This extra context is intentional treatment, not equivalent instruction content.",
@@ -576,5 +1592,15 @@
     "Potential style or length confounds across different cases; no pairwise winner is required.",
     "Human labels for new test cases have not been independently supplied.",
     "Articles, support records, governing requirements, and customer delivery remain unchanged."
+  ],
+  "freeze_commit": "9f567ba55e70afa3d36eafca7899c20dd8852311",
+  "verification": [
+    "Inputs frozen in Git before reviews began.",
+    "All four packets reconstruct byte-for-byte with their frozen SHA-256 hashes.",
+    "Each review covers all twelve cases exactly once.",
+    "Every finding quotation matches its supplied section exactly.",
+    "Intended-defect scoring checks the intended passage and manual reason, not just the overall verdict.",
+    "All six governing texts remain identical to the frozen baseline.",
+    "No production article or support record changed."
   ]
 }
