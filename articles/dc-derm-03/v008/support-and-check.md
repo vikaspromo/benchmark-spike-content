@@ -89,4 +89,19 @@ Required facts awaiting Alex: none. Current article-check failures: none. Calibr
 
 All five output records identify the same frozen baseline `5c5e9cb1904c4f87262cc9032306adf304e25709`; the applicable governing-file diff against the workspace is empty. Coordinator verified the exact final article hash above, two-item retention, and a final body count of **990**. The common recount includes visible prose, list content, and CTA; excludes headings, URL strings, Markdown/list markers, and standalone punctuation; whitespace-separated hyphenated terms count as one word. This is provenance/mechanical verification, not independent editorial agreement.
 
-A temporary sanitized DOCX transfer file contains the original relevant assignment and reference links in a distinct preface. Article text and all seven article link labels/targets match the evaluated Markdown exactly, with no images. All five rendered pages were visually inspected; no layout defect found. Native Google Docs import, posted optional comment, actual Doc preservation, Sheet links/status, and email draft remain pending. The transfer file is retained only for that pending preparation.
+A temporary sanitized DOCX transfer file contains the original relevant assignment and reference links in a distinct preface. Article text and all seven article link labels/targets match the evaluated Markdown exactly, with no images. All five rendered pages were visually inspected; no layout defect found. The native Google Doc, posted optional comment, actual Doc preservation, Sheet link/status, and unsent Gmail draft are now verified below. The temporary transfer file has served its purpose.
+
+
+## Private Google Review Package
+
+Prepared October 14, 2026 in **vikassood@gmail.com**. Production baseline and exact source article hash above remain unchanged.
+
+- Native Doc: [DC Derm — SEO 03 — v008 — Laser Hair Removal in Washington DC: How to Achieve Long-Lasting Hair Reduction Safely](https://docs.google.com/document/d/1i9uxnKszs0DQmTut1d_mTf6wDeO6ykOEulV5jB5X-NA)
+- Document ID: `1i9uxnKszs0DQmTut1d_mTf6wDeO6ykOEulV5jB5X-NA`.
+- Client folder ID: `1p1U8MvGdG0yBUntSCWvya3GSUmiszORP`.
+- Optional quote-request comment ID: `AAACBBci4DY`.
+- Review index: [Batch 01](https://docs.google.com/spreadsheets/d/19pXjqiOHhgViaEOoUtpAzk22LcQqLMmfHFLVjaxbq8Y/edit), tab `Review index`, sheet ID `301027282`; this article’s row records the exact version, title, clickable Doc link, and Ready for Review status.
+
+Connector readback verifies exact article text, all seven link labels/destinations, named heading styles, and native lists. The original relevant assignment, supplied references, client/shared instructions, version label, and shorter-draft review note are distinct from the article body. All five pages of the actual Google-exported PDF were inspected and show no clipping, missing text, or broken layout. The real optional comment was read back with its exact quoted passage; it is a file-level Drive comment with quoted location context, not a confirmed highlighted text-range anchor. No comment ingestion or monitoring is configured.
+
+File metadata verifies the correct client folder and only Vikas as owner, with no Alex or public permission. Prepared for Vikas to share manually; **not delivered to Alex** and not accepted. An unsent email draft with the four exact Doc links is saved in Gmail, subject “Benchmark article drafts for review — Batch 01”, draft ID `r-5030308012650549664`, message ID `1a13c64d2cf1e57c`. No email sent, sharing change, or Alex notification performed. Temporary transfer/render artifacts were removed after verification.
