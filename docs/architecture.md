@@ -40,11 +40,11 @@ Use the assignment brief and topic findings to establish the practice context th
 
 Use the site's navigation and sitemap, when available, to discover likely pages for each main treatment or service in the assignment. Read relevant pages and follow links to more specific or complementary information. Search the site for important practice questions that remain unanswered. Combine relevant facts across pages; a service page, product page, clinician biography, gallery, or policy page may each supply different parts of the answer. Build on practice evidence already found during topic research.
 
-Examine relevant text and images, including captions and text within images, using Writing Standards' material categories to guide the search. Find useful service, clinician, educational, contact, and booking links, and investigate relevant practice claims from the brief and topic findings.
+Examine relevant practice information using Writing Standards' material categories to guide the search. Find useful service, clinician, educational, contact, and booking links, and investigate relevant practice claims from the brief and topic findings.
 
 Stop expanding the website review when the needed practice questions have supported answers and additional relevant pages mostly repeat information, or when targeted searches yield no further usable evidence. Carry remaining gaps and conflicting facts into [Research and Resolve](#research-and-resolve) before relying on them in the article. Later research or drafting may identify a specific question that requires another website visit.
 
-Keep source evidence and limits needed to use the findings accurately under [Data Model](data-model.md#article-research-material). Preserve correct clinician associations and distinguish physical locations from article target geography and treatments from bookable appointments under [Client Information](data-model.md#client-information). A website image does not establish who or what it depicts; product-brand evidence does not establish every formulation or model.
+Keep source evidence and limits needed to use the findings accurately under [Data Model](data-model.md#article-research-material). Preserve correct clinician associations and distinguish physical locations from article target geography and treatments from bookable appointments under [Client Information](data-model.md#client-information). Product-brand evidence does not establish every formulation or model.
 
 Use the supported material available. This stage does not require material from every category or a general client model.
 
@@ -66,7 +66,7 @@ Base these decisions on the article's actual needs. Use the supported central an
 
 Build the outline from the combined research findings and supported central answer. Arrange reader questions into a useful sequence and plan headings with substantive answers under [Writing Standards](writing-standards.md#section-focus). Integrate supported practice material where it develops those answers. Do not assign section word budgets.
 
-Plan clinician selection under [Writing Standards](writing-standards.md#clinician-selection), useful internal links, appropriate external links, and the closing call to action. Place useful practice material and images where they support an explanation, and identify locations for unresolved required facts and comments.
+Plan clinician selection under [Writing Standards](writing-standards.md#clinician-selection), useful internal links, appropriate external links, and the closing call to action. Place useful practice material where it supports an explanation, and identify locations for unresolved required facts and comments.
 
 Adjust coverage or return to the relevant topic or practice research when the outline lacks a supported answer. Combine repetitive sections and omit material that does not support its heading. If research cannot support the assigned answer, bring the specific gap to the operator rather than invent material or silently change the topic. The outline guides drafting; customization is checked in [Evaluate and Revise](#evaluate-and-revise).
 
@@ -74,9 +74,9 @@ Adjust coverage or return to the relevant topic or practice research when the ou
 
 Produce a complete article from the outline and supported research under [Writing Standards](writing-standards.md). Adjust the outline and material choices when that improves the article.
 
-Use relevant supported practice material, links, and a customized call to action. Acquire and embed images used in the article with supported captions under [User Design](userdesign.md#article-content-and-writing-standards). If an image or other optional material cannot be used, choose another supported approach and keep the evidence needed for the resulting article.
+Use relevant supported practice material, links, and a customized call to action under [User Design](userdesign.md#article-content-and-writing-standards). If optional material cannot be used, choose another supported approach and keep the evidence needed for the resulting article.
 
-Prepare markers and Google Doc comments for unresolved required facts and applicable optional-material requests under [User Design](userdesign.md#review-revision-and-writing-feedback). Preserve source support for factual claims, including claims introduced during writing and in captions.
+Prepare markers and Google Doc comments for unresolved required facts and applicable optional-material requests under [User Design](userdesign.md#review-revision-and-writing-feedback). Preserve source support for factual claims, including claims introduced during writing.
 
 Pass the completed article and supporting evidence to Evaluate and Revise. Drafting does not have its own compliance gate or checklist.
 
@@ -98,7 +98,7 @@ Proceed to delivery only when no failures remain, apart from required facts perm
 
 Deliver the evaluated article directly through the Google Drive, Docs, and Sheet experience in [User Design](userdesign.md#assignment-delivery-and-tracking), without requiring Vikas's approval of the individual article.
 
-Preserve the evaluated text, headings, links, images, captions, and markers in the assigned Google Doc. Embed images inline between paragraphs, place each caption immediately below its image, and add the source-link comment anchored to the caption under [User Design](userdesign.md#article-content-and-writing-standards). Deliver the images within the Doc without uploading separate original-image files to Drive. Add missing-information comments under [Review, Revision, and Writing Feedback](userdesign.md#review-revision-and-writing-feedback); plain-text notes do not replace Google Doc comments.
+Preserve the evaluated text, headings, links, and markers in the assigned Google Doc. Add missing-information comments under [Review, Revision, and Writing Feedback](userdesign.md#review-revision-and-writing-feedback); plain-text notes do not replace Google Doc comments.
 
 Verify that the actual customer Doc preserves the evaluated article and its required comments under [Engineering](engineering.md#article-verification). A local export or successful upload alone does not establish delivery. Correct transfer or rendering failures. If correction changes the evaluated article, use Evaluate and Revise to check the resulting version before claiming delivery complete.
 

@@ -1,6 +1,6 @@
 # Article Drafts
 
-Article folders use the practice and fixed assignment prompt number. Each reviewed draft has its own version folder, starting with `v001`. For new runs, keep `article.md`, any images used by the article, and `support-and-check.md` under [Data Model](../docs/data-model.md#assignments-and-article-status). Prepared comment text and anchors stay in that record until transferred to the article Doc. Generate previews or transfer files when needed for review or delivery; retain them only while that need remains. Existing v001–v004 packages remain as produced.
+Article folders use the practice and fixed assignment prompt number. Each reviewed draft has its own version folder, starting with `v001`. For new runs, keep `article.md` and `support-and-check.md` under [Data Model](../docs/data-model.md#assignments-and-article-status). Prepared comment text and anchors stay in that record until transferred to the article Doc. Generate previews or transfer files when needed for review or delivery; retain them only while that need remains. Existing v001–v004 packages remain as produced.
 
 Preserve a version once feedback refers to it. Put the next revised or replacement draft in `v002`, then `v003`, rather than overwriting the reviewed version. Retain these versions for feedback comparison from this point forward. Earlier drafts deleted at Vikas's request are not restored.
 

@@ -44,7 +44,7 @@ Create warmth through attention to the reader's concerns and specific explanatio
 
 ### Body Word Count
 
-For the initial workload, aim for 1,150–1,250 words of substantive body content in the first complete draft. Include the introduction, paragraphs, bullets, and closing call to action. Exclude the title, headings, image captions, text within images, and document comments. Quality guides coverage and writing; the target does not determine section content or word allocations. Never add filler or remove necessary information to meet the target.
+For the initial workload, aim for 1,150–1,250 words of substantive body content in the first complete draft. Include the introduction, paragraphs, bullets, and closing call to action. Exclude the title, headings, and document comments. Quality guides coverage and writing; the target does not determine section content or word allocations. Never add filler or remove necessary information to meet the target.
 
 The final article must not exceed 1,250 body words. It may contain fewer than 1,150 words when editorial assessment and corrections remove unnecessary content or express useful meaning more concisely. The shorter article must still answer the assigned question clearly, accurately, and thoroughly, with the required practice customization and necessary qualifications. Do not require a fixed reduction, restore removed material, or add replacement words solely to reach the drafting target. [Engineering](engineering.md#article-verification) owns evidence for the final count and the completeness of a shorter article; [Architecture](architecture.md#evaluate-and-revise) owns evaluation, correction, and rechecking.
 
@@ -76,14 +76,6 @@ Include one or two external links when appropriate. Prefer authoritative sources
 
 End each article with a clear, customized invitation and a scheduling link and/or phone number. Direct the reader toward an appropriate consultation or booking pathway. Do not invent procedure associations or consultation terms to make the invitation more specific.
 
-### Images
-
-Use images that help explain the topic or patient experience and meet the evidence conditions in [Content Types](#content-types). Images are not required in every article.
-
-Write each caption as part of the article: explain the supported point the image illustrates and its relevance to the nearby content. A literal description of the image or an account of where it was found is not enough. Include evidence limits when needed to prevent a misleading interpretation, rather than list every detail the source does not provide. Apply [Article Voice](#article-voice) and [Medical Claims](#medical-claims) to captions.
-
-[User Design](userdesign.md#article-content-and-writing-standards) owns inline placement, caption presentation, source-link comments, and image delivery.
-
 ### Style Conventions
 
 Follow AP Style for spelling, grammar, punctuation, capitalization, and usage, subject to BMP's conventions below. [Article Audience](#article-audience) and [Article Voice](#article-voice) govern the article's audience, tone, depth, and explanations.
@@ -106,7 +98,7 @@ Follow AP Style for spelling, grammar, punctuation, capitalization, and usage, s
 
 Each article must include meaningful content specific to the practice, supported by evidence. No fixed percentage is required. Do not invent information or differences between practices.
 
-Apply this test: if the article were used for another practice offering the same services, would some content need substantive rewriting or replacement because it describes this practice's own cases, clinician insights, treatment approach, patient experience, or images? Merely needing to verify the same facts for another practice does not satisfy the test. General educational explanations may remain reusable.
+Apply this test: if the article were used for another practice offering the same services, would some content need substantive rewriting or replacement because it describes this practice's own cases, clinician insights, treatment approach, or patient experience? Merely needing to verify the same facts for another practice does not satisfy the test. General educational explanations may remain reusable.
 
 Prioritize supported practice material that answers the assigned question or explains the patient experience. Use useful practice evidence rather than substitute general explanations. Omit unrelated material and do not infer facts that the evidence does not establish.
 
@@ -115,14 +107,12 @@ Prioritize supported practice material that answers the assigned question or exp
 The following kinds of material can support practice customization; they are not mandatory features of every article. Use the information available without requiring a complete account of a case, treatment policy, or care process.
 
 - **Clinician reasoning:** Explanations of how a clinician evaluates a concern or chooses a treatment. For example, what the clinician examines when deciding whether upper-lip movement or a lack of volume is the main concern. Attribute the reasoning to the clinician when the source supports that attribution; general treatment education does not establish a clinician's decision process.
-- **Patient cases:** Published accounts of a patient's concern, treatment choice, experience, or result, with or without images. A stated treatment amount or purpose can provide a useful example even when the full case history is unavailable. Describe only what the source establishes about the patient's goal, treatment, reasoning, and outcome.
+- **Patient cases:** Published accounts of a patient's concern, treatment choice, experience, or result. A stated treatment amount or purpose can provide a useful example even when the full case history is unavailable. Describe only what the source establishes about the patient's goal, treatment, reasoning, and outcome.
 - **Treatment policies and patient experience:** Concrete details about preparation, comfort options, treatment sequence, aftercare, or appointment procedures. Examples include numbing options, observation after injections, or a policy of staging treatments. Explain how the relevant details affect the patient's experience without claiming that common procedures are unique to the practice.
 - **Products and technology:** Named formulations, devices, or treatment systems relevant to the topic, including supported descriptions of their purpose or reasons for selection. Distinguish product characteristics from a clinician's stated preference, and general product information from evidence that the practice uses the product.
 - **Follow-up and adjustments:** Details about when results are reviewed, what the clinician checks, how concerns are handled, or how additional treatment is arranged. Use specific published details; a general promise of ongoing care does not establish a schedule, assessment, or adjustment policy.
 - **Clinician observations:** Attributed practical insights, recurring patient questions, or misunderstandings that a clinician explains. These can show how experience informs care or patient education. Website FAQs may supply useful answers without establishing a named clinician's experience.
 - **Quotes, testimonials, and social posts:** Approved clinician quotes, genuine Google reviews or testimonials, and posts from the practice’s Facebook or Instagram accounts can add expertise, patient experience, or treatment context. Use material only when it helps answer the article’s question. Attribute it to the speaker, reviewer, or practice, and include a direct link to the specific source passage, review, testimonial, or post. Never fabricate quotations or review language. Treat patient accounts as individual experiences, not evidence of general medical outcomes.
-- **Practice images:** Relevant images of the practice's clinicians, setting, equipment, or treatment examples. Distinguish images depicting the practice or its work from stock and manufacturer images; appearing on the website alone does not establish that distinction. Use images to help explain the topic or patient experience, with captions limited to supported details. An image can contribute without supplying a complete patient case.
-- **Product and technology images:** Use images only for products, formulations, devices, or treatment systems that evidence confirms the practice uses and that are relevant to the article. A general product description or comparison does not establish practice use. Match the image to the confirmed product or technology; confirmation of a brand does not establish use of every formulation or model. Use imagery to support the explanation rather than as decoration. A shared manufacturer image does not by itself establish practice customization.
 
 ### Clinician Selection
 

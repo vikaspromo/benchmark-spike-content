@@ -12,15 +12,15 @@ Client information must accommodate multiple websites and physical locations. It
 
 ## Article Research Material
 
-Keep source links and the passages needed to verify the resulting article's factual claims, practice associations, images, and captions in its support-and-check record under [Assignments and Article Status](#assignments-and-article-status). Retain material limits or conflicts when they affect those claims or unresolved issues. Sources can support several passages; do not repeat the same evidence for each occurrence. [Writing Standards](writing-standards.md#content-types) owns material eligibility.
+Keep source links and the passages needed to verify the resulting article's factual claims and practice associations in its support-and-check record under [Assignments and Article Status](#assignments-and-article-status). Retain material limits or conflicts when they affect those claims or unresolved issues. Sources can support several passages; do not repeat the same evidence for each occurrence. [Writing Standards](writing-standards.md#content-types) owns material eligibility.
 
-Distinguish source statements from interpretation and unknown associations from confirmed ones. A website image does not by itself establish that it depicts the practice or its work; evidence for one product does not establish another formulation or device model. For each included image, keep the source page link, direct image link, and context supporting its use. [User Design](userdesign.md#article-content-and-writing-standards) defines the source-link comment Alex receives; a separate original-image archive is not required.
+Distinguish source statements from interpretation and unknown associations from confirmed ones. Evidence for one product does not establish another formulation or device model.
 
 ## Assignments and Article Status
 
 The assignment prompt number remains fixed through revisions. [User Design](userdesign.md#assignment-delivery-and-tracking) defines its presentation in article filenames and the batch Sheet.
 
-Retain two items for each article version: the article, including its used images and customer comments, and one compact support-and-check record. The record contains:
+Retain two items for each article version: the article, including its customer comments, and one compact support-and-check record. The record contains:
 
 - **Identity:** A reference to the original assignment and the exact article version checked.
 - **Production inputs:** The repository commit used for production. If relevant inputs were uncommitted, include their exact diff; the commit alone does not identify those inputs.

@@ -8,9 +8,7 @@ User Design owns the operator and customer experience: what Vikas can accomplish
 
 Articles must meet [Writing Standards](writing-standards.md), the consolidated content and writing specification. That document owns the style-guide baseline, assignment additions, applicability, approved interpretations, material eligibility, and writing conventions.
 
-Present images and captions that meet [Writing Standards](writing-standards.md#images) in the same Google Doc as the article. Embed each image inline between paragraphs and place its caption immediately below it. Add a Google Doc comment anchored to the caption containing the source page link and the direct image link when it differs from the page link.
-
-Images and relevant labels must be clear enough to read, with proportions preserved and without cropping that changes their meaning. An image link or placement note does not replace an embedded image. Delivery does not include separate original-image files in Drive.
+Present each article using text and links in its Google Doc.
 
 Vikas receives the compact support-and-check record for the resulting article, including its final checklist outcome, remaining failures, and required facts awaiting Alex. This supports confidence in delivery without requiring Vikas to approve each article. [Data Model](data-model.md#assignments-and-article-status) defines the record and status meanings.
 
