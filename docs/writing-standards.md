@@ -8,7 +8,7 @@ Writing Standards owns article requirements: reader fit, content, evidence, writ
 
 ### Target Reader
 
-Write for the target reader established from the assignment and practice context under [Architecture](architecture.md#understand-the-assignment). Reader persona means the reader's relevant knowledge, concern, purpose, and priorities. Do not assume every assignment addresses a patient; professional training articles must serve the clinicians considering that training.
+Write for the target reader established through assignment, topic, and practice research under [Architecture's Research and Resolve](architecture.md#research-and-resolve). Reader persona means the reader's relevant knowledge, concern, purpose, and priorities. Do not assume every assignment addresses a patient; professional training articles must serve the clinicians considering that training.
 
 For patient-facing articles, address a capable adult making a personal health or appearance decision who may lack clinical knowledge. Explain unfamiliar concepts without treating the reader as inexperienced in life. First-time treatment does not imply an unsophisticated reader.
 
