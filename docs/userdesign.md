@@ -8,7 +8,7 @@ User Design owns the operator and customer experience: what Vikas can accomplish
 
 Articles must meet [Writing Standards](writing-standards.md), the consolidated content and writing specification. That document owns the style-guide baseline, assignment additions, applicability, approved interpretations, material eligibility, and writing conventions.
 
-Present each article using text and links in its Google Doc.
+Present each article using text and links in its Google Doc. Use [Blog Agent — Article Doc Template](https://docs.google.com/document/d/16J68VvFNHnmiE7MPop_gU0Xye-1tzMYwp_RdaedU3L0/edit) as the presentation template for current and future article Docs. Create new article Docs by copying this template. Match its fonts, heading sizes, compact spacing and intro order. Replace its assignment details, reference links, batch, date, agent version and article with those for the delivered assignment. Keep the review note separate from the article, without adding section labels or a page break.
 
 Vikas receives the compact support-and-check record for the resulting article, including its final checklist outcome, remaining failures, and required facts awaiting Alex. This supports confidence in delivery without requiring Vikas to approve each article. [Data Model](data-model.md#assignments-and-article-status) defines the record and status meanings.
 
