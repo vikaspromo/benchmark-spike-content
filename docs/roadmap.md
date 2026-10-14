@@ -26,6 +26,8 @@ These questions are for discussion, not current or optional production work. Rec
 
 3. Can you confirm that articles may be delivered directly to you after substantial editing, fact checking, and verification, with your customer review providing human review after delivery? The style guide requires human review before submission; the proposed workflow has no human review before delivery.
 
+   On October 9, 2026, Vikas put this customer-workflow confirmation on hold until the article-quality calibration and practice-evidence issues are resolved. The current task is a deeper review of those two issues; it does not authorize customer contact or new article production.
+
 ## Establish the Method in Codex
 
 Current work is to establish the article production method in Codex. This development work is distinct from the stages used to produce each article. Ideas for an unattended worker and hosted intake are deferred in [Icebox](icebox.md#unattended-and-hosted-article-production).

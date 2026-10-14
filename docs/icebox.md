@@ -12,3 +12,9 @@ Possible later progression:
 - Host the worker independently of Vikas’s laptop and connect automatic assignment intake.
 
 Codex app automation, non-interactive Codex execution, and an API-backed hosted application were discussed as possible execution approaches. No runtime, hosting stack, intake mechanism, implementation schedule, or advancement criteria have been selected.
+
+## Production Economics
+
+On October 9, 2026, Vikas deferred defining and evaluating production economics. This work is not planned for the near term; the current review focuses on article-quality calibration and practice evidence.
+
+Possible later measures include production time, cost per article, revision burden, and Vikas's remaining involvement. Customer acceptance alone would not establish the product's practical benefit. No targets or measurement work have been authorized.
