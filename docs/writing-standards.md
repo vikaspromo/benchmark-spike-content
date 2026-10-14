@@ -44,7 +44,9 @@ Create warmth through attention to the reader's concerns and specific explanatio
 
 ### Body Word Count
 
-The final article in the initial workload must contain 1,150–1,250 words of substantive body content, including the introduction, paragraphs, bullets, and closing call to action. Exclude the title, headings, image captions, text within images, and document comments from the count. Quality guides coverage and writing; word count confirms the resulting article's length rather than determining section content or word allocations. Never add filler or remove necessary information to meet the range.
+For the initial workload, aim for 1,150–1,250 words of substantive body content in the first complete draft. Include the introduction, paragraphs, bullets, and closing call to action. Exclude the title, headings, image captions, text within images, and document comments. Quality guides coverage and writing; the target does not determine section content or word allocations. Never add filler or remove necessary information to meet the target.
+
+The final article must not exceed 1,250 body words. It may contain fewer than 1,150 words when editorial assessment and corrections remove unnecessary content or express useful meaning more concisely. The shorter article must still answer the assigned question clearly, accurately, and thoroughly, with the required practice customization and necessary qualifications. Do not require a fixed reduction, restore removed material, or add replacement words solely to reach the drafting target. [Engineering](engineering.md#article-verification) owns evidence for the final count and the completeness of a shorter article; [Architecture](architecture.md#evaluate-and-revise) owns evaluation, correction, and rechecking.
 
 ### Opening
 
