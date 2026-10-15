@@ -16,7 +16,7 @@ The system delivers articles directly to Alex under [Assignment Delivery and Tra
 
 ## Assignment Delivery and Tracking
 
-The system prepares and delivers assigned articles directly to Alex without requiring Vikas to review or approve individual articles. Vikas can monitor assignment progress, delivered articles, and unresolved issues through the batch Sheet and article Docs.
+The system prepares and delivers assigned articles directly to Alex without requiring Vikas to review or approve individual articles. Create each article Doc with Commenter access for Alex Burgos (alex@bmpteam.com) and Peter Psillos (peter@bmpteam.com), with sharing email notifications disabled. Vikas retains Owner access. The reusable article template remains private. Vikas can monitor assignment progress, delivered articles, and unresolved issues through the batch Sheet and article Docs.
 
 Each assignment batch has a Google Drive folder containing one subfolder per client and one Google Doc per article.
 
