@@ -2,6 +2,8 @@
 
 This document records the plan and progress for operator-authorized work. It does not establish product requirements or authorize later implementation work. [Product](product.md) defines the purpose and scope; [Architecture](architecture.md#article-production-flow) defines the article production flow.
 
+As of October 15, 2026, Vikas has paused work pending Alex’s and Peter’s feedback on the four-article review batch. Article preparation, pageless template formatting and silent Commenter sharing are complete. Vikas sent his own review email; both recipients have access to the ongoing review spreadsheet. No article rerun, further evaluator experiment, customer reminder, feedback monitoring or other development is authorized during this pause. The earlier evidence-to-explanation proposal and historical research questions are not prerequisites for this review and remain pending; do not resume them before operator direction. Completed evidence remains below. Resume by reviewing the feedback Vikas provides or explicitly authorizes retrieving, then agree on the resulting article or production-instruction changes. The final Git check found only main, the primary checkout, no stashes or attached worktrees, and no other active project chat or agent.
+
 ## Open Questions for Alex
 
 These questions are for discussion, not current or optional production work. Record Alex's answers here. Propose a scope or governing-document change only if those answers establish work the operator wants to adopt.
