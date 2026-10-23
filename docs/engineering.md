@@ -8,7 +8,7 @@ Apply the local verification methods below to each evaluated version in [Archite
 
 ### Checklist and Evidence
 
-Use a checklist covering every applicable requirement, with its conditions and exceptions intact. Articles must be fact checked, edited and substantially verified before delivery. Use mechanical checks for counts, formatting and other directly measurable properties, editorial assessment for writing quality, and source comparison for factual support. A passed count or supported claim alone does not establish editorial quality.
+Use a checklist covering every applicable requirement, with its conditions and exceptions intact. Articles must be fact checked, substantially edited and substantially verified before delivery. Use mechanical checks for counts, formatting and other directly measurable properties, editorial assessment for writing quality, and source comparison for factual support. A passed count or supported claim alone does not establish editorial quality.
 
 Support each checklist result with evidence appropriate to the requirement. For editorial results, use representative passages from the exact article to explain how the writing satisfies the requirement. These examples illustrate the completed assessment; they do not establish a pass while concrete violations remain elsewhere. A list of present facts, links, qualifications or clinician names is not enough to establish reader usefulness.
 

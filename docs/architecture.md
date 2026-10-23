@@ -26,6 +26,10 @@ Review information returns to the revision work in [Deliver to Alex](#deliver-to
 
 ## Article Production Flow
 
+Use the same [agent version](data-model.md#assignments-and-article-status) and shared production instructions for all new articles in a batch. Read that version's files if the checkout differs.
+
+Start each new article in a fresh agent context with those production inputs, its original assignment, applicable shared and client instructions, and relevant client feedback. Research and draft afresh without earlier article packages, research or trial critiques. Revisions use the existing article, supporting evidence and relevant feedback under [Deliver to Alex](#deliver-to-alex).
+
 Use the assignment to guide topic research, then develop the relevant practice context. Combine the findings and handle gaps under [Research and Resolve](#research-and-resolve) before outlining and drafting. Run the single evaluation and revision flow in [Evaluate and Revise](#evaluate-and-revise) before direct customer delivery under [User Design](userdesign.md#assignment-delivery-and-tracking).
 
 Use the assignment brief, research notes, and outline as working context and adjust them as useful.
@@ -34,7 +38,7 @@ Later findings may change the working interpretation or require a return to topi
 
 ### Understand the Assignment
 
-Produce a structured working brief that gives research and writing a clear target.
+Read the original assignment and its applicable shared and client instructions in the [supplied assignment source](../sources/writing-standards/assignment.md). Apply [Writing Standards](writing-standards.md) where approved interpretations replace the source instructions. Produce a structured working brief that gives research and writing a clear target.
 
 Use the supplied client, prompt number, original title, SEO/AEO label, reference URLs, and special instructions in the working brief. Keep the supplied assignment distinct from its interpretation. Reference the original assignment in the support-and-check record rather than copy it into a separate permanent brief. Preserve the prompt number through revisions under [Data Model](data-model.md#assignments-and-article-status).
 

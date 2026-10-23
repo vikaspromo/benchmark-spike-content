@@ -20,7 +20,7 @@ Retain two items for each drafted article version: the article and one compact s
 
 - **Identity:** A reference to the original assignment, the exact article version checked and the customer Doc URL once the Doc exists.
 - **Article status:** The current status under the meanings below.
-- **Production inputs:** The agent version. If relevant production inputs were uncommitted, include their exact diff; the commit alone does not identify those inputs.
+- **Production inputs:** The agent version and exact references to any additional operator-approved production instructions used. If relevant production inputs were uncommitted, include their exact diff; the commit alone does not identify those inputs.
 - **Claim support:** The source evidence required by [Article Research Material](#article-research-material).
 - **Final checks:** The outcome for every applicable requirement, concise evidence sufficient to establish each result, and the measured body-word count. A failure identifies the requirement, location, and correction needed. Keep required facts awaiting Alex, optional requests, and inapplicable requirements distinct from passes and other failures. Identify unperformed or unverified checks explicitly.
 - **Unresolved issues:** Only issues that still affect verification, revision or delivery. Until a prepared comment is posted to the customer Doc, retain its text and intended location here.
