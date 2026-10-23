@@ -8,7 +8,7 @@ In this document, **operator** means the person directing the agent’s work and
 
 ### Find the applicable requirements
 
-The eight documents in the table are the **project governing documents**. Read AGENTS for every task. Before work, consult the documents that own the affected requirements and their dependencies. Keep each requirement in its owning document; other documents link to it rather than repeat it.
+The seven documents in the table are the **project governing documents**. Read AGENTS for every task. Before work, consult the documents that own the affected requirements and their dependencies. Keep each requirement in its owning document; other documents link to it rather than repeat it.
 
 | Document | Owns |
 |---|---|
@@ -19,9 +19,8 @@ The eight documents in the table are the **project governing documents**. Read A
 | [Writing Standards](docs/writing-standards.md) | • Intended readers, reader priorities and useful topic coverage<br>• Article voice, clarity, structure and style conventions<br>• Practice customization, clinician selection and geographic relevance<br>• Medical claims, factual support, attribution and necessary qualifications<br>• Article length, headings, links and calls to action |
 | [Data Model](docs/data-model.md) | • Client, clinician, treatment and location information and associations<br>• Source evidence, interpretations, limits and unknown information<br>• Assignment identity, article versions, production inputs and status meanings<br>• Article support-and-check records, assessments and unresolved issues<br>• Record retention, reviewed versions and disposable working material |
 | [Engineering](docs/engineering.md) | • Product development, investigation and review discipline<br>• Mechanical, editorial, factual and presentation verification<br>• Requirement checklists, finding-specific repair recommendations and supporting evidence<br>• Verification of the exact article version and actual customer delivery<br>• Limits of verification and completion claims |
-| [Release](docs/release.md) | • Production target and delivery of reviewed product changes<br>• Deployment compatibility and deployed verification<br>• Recovery from failed product operations |
 
-Writing Standards, Data Model, Engineering and Release own the specialized subjects listed in their rows, including where another row describes broader responsibilities.
+Writing Standards, Data Model and Engineering own the specialized subjects listed in their rows, including where another row describes broader responsibilities.
 
 ### Apply requirements and resolve conflicts
 

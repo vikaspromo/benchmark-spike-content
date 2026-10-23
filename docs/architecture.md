@@ -1,10 +1,34 @@
 # Architecture
 
+## System
+
+Codex is the runtime for the current article production method. The diagram shows the people, inputs, retained records and review surfaces involved in an authorized production or revision task.
+
+```mermaid
+flowchart TB
+    Vikas["Vikas"] <-->|"Assignments, direction and progress"| Codex["Codex article production"]
+    Sources["Web research sources<br/>Topic and practice information"] -->|"Evidence and discovery context"| Codex
+    Repository["Repository<br/>Requirements and assignments<br/>Article versions and<br/>support-and-check records"] <-->|"Production inputs and retained results"| Codex
+    Codex <-->|"Template, articles and review updates"| Drive["Google Drive<br/>Template, article Docs<br/>and review index"]
+    Drive <-->|"Articles, comments and suggestions"| Reviewers["Alex and Peter"]
+```
+
+| Part | Responsibility |
+|---|---|
+| Codex article production | Carry out the research, drafting, evaluation, revision and delivery in [Article Production Flow](#article-production-flow), using the governing documents and available tools. |
+| Repository | Supply governing requirements and original assignments; retain article versions and support-and-check records under [Data Model](data-model.md#assignments-and-article-status). |
+| Web research sources | Supply evidence and discovery context for topic research and relevant practice context under [Research the Assigned Topic](#research-the-assigned-topic) and [Understand the Practice](#understand-the-practice). |
+| Google Drive | Hold the reusable article Doc template, article Docs and ongoing review index under [User Design’s presentation](userdesign.md#article-content-and-writing-standards) and [delivery requirements](userdesign.md#assignment-delivery-and-tracking). |
+| Vikas | Supply assignments and operator direction; receive progress and unresolved issues. |
+| Alex and Peter | Review articles through comments and suggested edits. Alex is the contact for client information and confirms acceptance under [User Design](userdesign.md#review-revision-and-writing-feedback). |
+
+Review information returns to the revision work in [Deliver to Alex](#deliver-to-alex). The production sections below define the research order, evaluation and correction flow, and delivery checks.
+
 ## Article Production Flow
 
-Use the assignment to guide topic research, then develop the relevant practice context. Combine the findings and handle gaps under [Research and Resolve](#research-and-resolve) before outlining and drafting. Run the single evaluation and revision flow in [Evaluate and Revise](#evaluate-and-revise) before direct customer delivery under [User Design](userdesign.md#assignment-delivery-and-tracking). Writing Standards owns what the article must satisfy; Engineering owns verification methods and evidence.
+Use the assignment to guide topic research, then develop the relevant practice context. Combine the findings and handle gaps under [Research and Resolve](#research-and-resolve) before outlining and drafting. Run the single evaluation and revision flow in [Evaluate and Revise](#evaluate-and-revise) before direct customer delivery under [User Design](userdesign.md#assignment-delivery-and-tracking).
 
-Use the assignment brief, research notes, and outline as working context and adjust them as useful. Retain the resulting article and one compact support-and-check record under [Data Model](data-model.md#assignments-and-article-status). [Article Research Material](data-model.md#article-research-material) defines the evidence needed to support the resulting article.
+Use the assignment brief, research notes, and outline as working context and adjust them as useful.
 
 Later findings may change the working interpretation or require a return to topic or practice research. Production adjustments do not require separate compliance reviews at each stage.
 
