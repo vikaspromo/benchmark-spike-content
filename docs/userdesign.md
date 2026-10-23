@@ -24,7 +24,7 @@ The supported status labels are Drafting, Needs Information, Ready for Review, R
 
 ## Review, Revision, and Writing Feedback
 
-Delivered articles must meet the applicable company, client, and assignment requirements and match the quality of content produced by Benchmark’s writers. Alex reviews the articles as the customer. In the current product version, this provides human review after delivery; human review is not required before delivery. AI review does not establish human review or acceptance. Customer confirmation remains open in [Roadmap](roadmap.md#open-questions-for-alex). Acceptance depends on both compliance with the writing standards and Alex’s subjective judgment of the article’s content and quality. Alex’s acceptance determines whether the articles meet [Product’s quality goal](product.md#purpose-and-scope).
+Delivered articles must meet the applicable company, client, and assignment requirements and match the quality of content produced by Benchmark’s writers. Alex reviews the articles as the customer. In the current product version, this provides human review after delivery; human review is not required before delivery. AI review does not establish human review or acceptance. Customer confirmation remains open in [Roadmap](roadmap.md#open-questions-for-alex). Acceptance depends on both compliance with the writing standards and Alex’s subjective judgment of the article’s content and quality. Alex’s acceptance determines whether the articles meet [Product’s quality goal](product.md#goals).
 
 Alex reviews each article through comments and suggested edits in its Google Doc. Revisions use the same Doc and address his feedback. The batch Sheet records the article’s current status.
 
