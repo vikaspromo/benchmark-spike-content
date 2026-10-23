@@ -96,9 +96,11 @@ For an authorized persistent Codex Goal, use the bounded phase’s outcome, evid
 
 - Deliver implementation changes with compatible code and documentation. Check for private material before committing, and report actual commit and push results.
 
+- If recovery is needed, preserve user data and work added or changed since the earlier version. Rebuild disposable outputs instead of restoring stale copies over newer data.
+
 ## Roadmap and Icebox
 
-- **Roadmap:** Record gaps between approved governing requirements and verified implementation, including missing behavior, behavior that needs to change or be removed, and outstanding verification. Link each gap to its governing requirements and record its status, blockers and next action or decision. Remove completed work after reporting completion, then commit the update.
+- **Roadmap:** Record gaps between approved governing requirements and verified implementation, including missing behavior, behavior that needs to change or be removed, and outstanding verification. Organize related gaps into useful, verifiable deliveries in intended delivery order. Make prerequisites and work that can proceed together clear. Link each gap to its governing requirements and record its status, blockers and next action or decision. Remove completed work after reporting completion, then commit the update.
 
 - **Icebox:** Hold ideas not yet adopted as governing requirements. Consult or update it only at the operator’s request.
 
