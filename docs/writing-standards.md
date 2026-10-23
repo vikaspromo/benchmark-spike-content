@@ -1,9 +1,5 @@
 # Writing Standards
 
-Writing Standards owns article requirements: reader fit, content, evidence, writing voice, structure, and conventions. Use this document as the authoritative writing specification. Apply conditional material when relevant and supported; unavailable optional material alone is not a failure.
-
-[Product](product.md#purpose-and-scope) owns the quality goal and assignment scope. [Architecture](architecture.md#article-production-flow) owns research, drafting, missing-input decisions, and the single evaluation and revision flow. [Engineering](engineering.md#article-verification) owns verification methods and evidence; [Data Model](data-model.md#assignments-and-article-status) owns assessment records. [User Design](userdesign.md) owns article presentation, delivery, missing-information comments, and customer acceptance interactions. [AGENTS](../AGENTS.md#revise-governing-documents) owns changes to these requirements.
-
 ## Article Audience
 
 ### Target Reader
@@ -104,7 +100,7 @@ Prioritize supported practice material that answers the assigned question or exp
 
 ### Content Types
 
-The following kinds of material can support practice customization; they are not mandatory features of every article. Use the information available without requiring a complete account of a case, treatment policy, or care process.
+Apply conditional material when relevant and supported; unavailable optional material alone is not a failure. The following kinds of material can support practice customization, but material from every category is not required. Use the information available without requiring a complete account of a case, treatment policy, or care process.
 
 - **Clinician reasoning:** Explanations of how a clinician evaluates a concern or chooses a treatment. For example, what the clinician examines when deciding whether upper-lip movement or a lack of volume is the main concern. Attribute the reasoning to the clinician when the source supports that attribution; general treatment education does not establish a clinician's decision process.
 - **Patient cases:** Published accounts of a patient's concern, treatment choice, experience, or result. A stated treatment amount or purpose can provide a useful example even when the full case history is unavailable. Describe only what the source establishes about the patient's goal, treatment, reasoning, and outcome.

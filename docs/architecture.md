@@ -1,9 +1,5 @@
 # Architecture
 
-Architecture owns the production flow and component responsibilities that achieve [Product’s required outcomes](product.md#purpose-and-scope). It defines how research, drafting, the single evaluation and revision flow, and article delivery work together, including how missing inputs are handled.
-
-[Writing Standards](writing-standards.md) owns what articles must satisfy. [User Design](userdesign.md) owns the operator and customer experience, including presentation and acceptance interactions. [Data Model](data-model.md) owns records and their meanings; [Engineering](engineering.md#article-verification) owns implementation discipline and verification methods and evidence. [Release](release.md) owns product deployment and recovery. [AGENTS](../AGENTS.md) owns agent responsibilities and governing-document changes.
-
 ## Article Production Flow
 
 Use the assignment to guide topic research, then develop the relevant practice context. Combine the findings and handle gaps under [Research and Resolve](#research-and-resolve) before outlining and drafting. Run the single evaluation and revision flow in [Evaluate and Revise](#evaluate-and-revise) before direct customer delivery under [User Design](userdesign.md#assignment-delivery-and-tracking). Writing Standards owns what the article must satisfy; Engineering owns verification methods and evidence.

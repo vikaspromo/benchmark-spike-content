@@ -1,9 +1,5 @@
 # Data Model
 
-Data Model owns records and their meanings, identity, relationships, and validity. It defines how assignments, practice information, source evidence, article assessments, and statuses are represented.
-
-[Product](product.md) owns the required outcomes and scope; [Writing Standards](writing-standards.md) owns article requirements. [Architecture](architecture.md#article-production-flow) owns how production creates and uses these records. [User Design](userdesign.md) owns how information is presented to Vikas and Alex; [Engineering](engineering.md#article-verification) owns the verification evidence recorded in assessments. [Release](release.md) owns compatibility and recovery for deployed data changes. [AGENTS](../AGENTS.md) owns agent responsibilities and governing-document changes.
-
 ## Client Information
 
 Client information must accommodate multiple websites and physical locations. It must distinguish physical locations from article target geography, and treatments from bookable appointments. Clinician roles, credentials, and treatment associations must refer to the correct person.

@@ -1,9 +1,5 @@
 # User Design
 
-User Design owns the operator and customer experience: what Vikas can accomplish and inspect, how articles are presented and delivered to Alex, and how Alex provides information, feedback, and acceptance. It defines product interactions, presentation, and interface language. [Writing Standards](writing-standards.md) owns the articles’ content and writing voice.
-
-[Product](product.md) owns the required outcomes and scope. [Architecture](architecture.md#article-production-flow) owns how production fulfills this experience; [Data Model](data-model.md) owns records and their meanings; [Engineering](engineering.md#article-verification) owns verification. [Release](release.md) owns product deployment and recovery. [AGENTS](../AGENTS.md) owns agent conduct, communication with the operator, and governing-document changes.
-
 ## Article Content and Writing Standards
 
 Articles must meet [Writing Standards](writing-standards.md), the consolidated content and writing specification. That document owns the style-guide baseline, assignment additions, applicability, approved interpretations, material eligibility, and writing conventions.

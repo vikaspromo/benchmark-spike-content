@@ -1,9 +1,5 @@
 # Content Production
 
-Product owns the purpose, required outcomes, and scope of the content production product.
-
-[Writing Standards](writing-standards.md) owns article requirements. [User Design](userdesign.md) owns the operator and customer experience; [Architecture](architecture.md) owns the production flow; [Data Model](data-model.md) owns records and their meanings; [Engineering](engineering.md) owns implementation and verification; [Release](release.md) owns product deployment and recovery. [AGENTS](../AGENTS.md) owns agent responsibilities and governing-document changes.
-
 ## Purpose and Scope
 
 Enable Vikas to fulfill Benchmark Medical Partners’ assigned long-form SEO and AEO writing work with articles whose quality matches the work of Benchmark’s writers.

@@ -1,9 +1,5 @@
 # Engineering
 
-Engineering owns implementation discipline and verification. It defines how product changes are developed, investigated, and reviewed, and which methods and evidence establish that articles and product behavior satisfy their requirements.
-
-[Product](product.md) owns the required outcomes and scope; [Writing Standards](writing-standards.md) owns article requirements; [User Design](userdesign.md) owns the operator and customer experience. [Architecture](architecture.md#evaluate-and-revise) owns the single article evaluation and revision flow; Engineering defines how to verify its requirements without adding editorial obligations or another revision flow. [Data Model](data-model.md#assignments-and-article-status) owns assessment records. [Release](release.md) owns product deployment and recovery; [AGENTS](../AGENTS.md) owns agent responsibilities and governing-document changes.
-
 ## Article Verification
 
 Establish whether the resulting article meets [Writing Standards](writing-standards.md), applicable assignment-specific instructions, and [User Design's presentation requirements](userdesign.md#article-content-and-writing-standards). Those documents own the requirements; verification does not add editorial obligations. [Architecture](architecture.md#evaluate-and-revise) owns when checking and revision occur.
