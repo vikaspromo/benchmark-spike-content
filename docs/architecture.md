@@ -92,12 +92,12 @@ Proceed to delivery only when no failures remain, apart from required facts perm
 
 ### Deliver to Alex
 
-Deliver the evaluated article directly through the Google Drive, Docs, and Sheet experience in [User Design](userdesign.md#assignment-delivery-and-tracking), without requiring Vikas's approval of the individual article.
+Deliver the evaluated article through the experience in [User Design’s Assignment Delivery and Tracking](userdesign.md#assignment-delivery-and-tracking).
 
-Preserve the evaluated text, headings, links, and markers in the assigned Google Doc. Add missing-information comments under [Review, Revision, and Writing Feedback](userdesign.md#review-revision-and-writing-feedback); plain-text notes do not replace Google Doc comments.
+Preserve the evaluated text, headings, links and markers in the assigned Google Doc. Add missing-information comments under [Review, Revision, and Writing Feedback](userdesign.md#review-revision-and-writing-feedback); plain-text notes do not replace Google Doc comments.
 
 Verify that the actual customer Doc preserves the evaluated article and its required comments under [Engineering](engineering.md#article-verification). A local export or successful upload alone does not establish delivery. Correct transfer or rendering failures. If correction changes the evaluated article, use Evaluate and Revise to check the resulting version before claiming delivery complete.
 
-Record the correct Doc link and status in the batch Sheet under [Data Model](data-model.md#assignments-and-article-status). Use Needs Information for required facts awaiting Alex; otherwise use Ready for Review after the checks pass. Delivery is complete when the Doc, comments, link, and status are correct.
+Update the article’s entry in the review index under User Design and record its status in the support-and-check record under [Data Model](data-model.md#assignments-and-article-status). Use Needs Information for required facts awaiting Alex; otherwise use Ready for Review after the checks pass. Delivery is complete when the Doc, comments, entry in the review index and recorded status are correct.
 
-When Alex provides information or feedback, revise the same Doc and use Evaluate and Revise before updating its status under User Design. Accepted requires Alex's confirmation.
+When Alex provides information or feedback, revise the same Doc and use Evaluate and Revise before updating its status under User Design. Accepted requires Alex’s confirmation.

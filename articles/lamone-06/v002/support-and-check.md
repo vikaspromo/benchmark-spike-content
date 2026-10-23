@@ -88,21 +88,21 @@ Git checks preceded writes; v002 absence confirmed twice. Workspace HEAD unchang
 
 ## Coordinator Verification and Package Preparation
 
-All five output records identify the same frozen baseline `5c5e9cb1904c4f87262cc9032306adf304e25709`; the applicable governing-file diff against the workspace is empty. Coordinator verified the exact final article hash above, two-item retention, and a final body count of **957**. The common recount includes visible prose, list content, and CTA; excludes headings, URL strings, Markdown/list markers, and standalone punctuation; whitespace-separated hyphenated terms count as one word. This is provenance/mechanical verification, not independent editorial agreement.
+At production, all five output records identified the same frozen baseline `5c5e9cb1904c4f87262cc9032306adf304e25709`; the applicable governing-file diff against the workspace was empty at that time. Coordinator verified the exact final article hash above, two-item retention, and a final body count of **957**. The common recount includes visible prose, list content, and CTA; excludes headings, URL strings, Markdown/list markers, and standalone punctuation; whitespace-separated hyphenated terms count as one word. This is provenance/mechanical verification, not independent editorial agreement.
 
-A temporary sanitized DOCX transfer file contains the original relevant assignment and reference links in a distinct preface. Article text and all seven article link labels/targets match the evaluated Markdown exactly, with no images. All five rendered pages were visually inspected; no layout defect found. The native Google Doc, posted optional comment, actual Doc preservation, Sheet link/status, and unsent Gmail draft are now verified below. The temporary transfer file has served its purpose.
+## Customer Review Delivery
 
-
-## Private Google Review Package
-
-Prepared October 14, 2026 in **vikassood@gmail.com**. Production baseline and exact source article hash above remain unchanged.
-
+- **Article status:** Ready for Review. No required facts remain unresolved; per-article acceptance has not been established from the feedback supplied so far.
+- **Batch:** 1.
+- **Agent version:** `5c5e9cb1904c4f87262cc9032306adf304e25709`; the source article version and hash above are unchanged.
 - Native Doc: [La-Mon’e Aesthetics — SEO 06 — v002 — Botox Appointments in Ardmore PA for Smooth, Natural Results](https://docs.google.com/document/d/1bSfKIydJCw2deOt4e4pFH2po8E-XuqbJ2N5OsOVO5CY)
 - Document ID: `1bSfKIydJCw2deOt4e4pFH2po8E-XuqbJ2N5OsOVO5CY`.
 - Client folder ID: `1E14SNZt80Nt-_2eb88m8yHCQ8FwYqwKM`.
 - Optional quote-request comment ID: `AAACBCFNhO8`.
-- Review index: [Batch 01](https://docs.google.com/spreadsheets/d/19pXjqiOHhgViaEOoUtpAzk22LcQqLMmfHFLVjaxbq8Y/edit), tab `Review index`, sheet ID `301027282`; this article’s row records the exact version, title, clickable Doc link, and Ready for Review status.
+- Review index: [ongoing review index](https://docs.google.com/spreadsheets/d/19pXjqiOHhgViaEOoUtpAzk22LcQqLMmfHFLVjaxbq8Y/edit), tab `Review index`, sheet ID `301027282`. Its row shows batch 1, client, assignment, a blue linked article title and Agent version `5c5e9cb`. Article version remains in the Doc filename; the index has no Status column.
 
-Connector readback verifies exact article text, all seven link labels/destinations, named heading styles, and native lists. The original relevant assignment, supplied references, client/shared instructions, version label, and shorter-draft review note are distinct from the article body. All five pages of the actual Google-exported PDF were inspected and show no clipping, missing text, or broken layout. The real optional comment was read back with its exact quoted passage; it is a file-level Drive comment with quoted location context, not a confirmed highlighted text-range anchor. No comment ingestion or monitoring is configured.
+Recorded delivery checks confirm the evaluated article text and all seven article links in the native Doc, along with the optional quote-request comment. The latest presentation uses the simplified assignment preface, pageless format and 12-point article body, with one blank paragraph before the article and no leading blank line, shared/client instructions or review note. The optional comment identifies its passage through quoted context; a highlighted text-range anchor was not confirmed.
 
-File metadata verifies the correct client folder and only Vikas as owner, with no Alex or public permission. Prepared for Vikas to share manually; **not delivered to Alex** and not accepted. An unsent email draft with the four exact Doc links is saved in Gmail, subject “Benchmark article drafts for review — Batch 01”, draft ID `r-5030308012650549664`, message ID `1a13c64d2cf1e57c`. No email sent, sharing change, or Alex notification performed. Temporary transfer/render artifacts were removed after verification.
+Vikas sent his own review email to Alex and Peter on October 15, 2026. Recorded sharing checks confirm both recipients have Commenter access, Vikas retains Owner access, general access is restricted and sharing notifications were disabled. The article is available to Alex and Peter for review. No agent sent the review email or configured comment ingestion or monitoring.
+
+On October 23, Vikas reported positive feedback from Alex and Peter and designated Batch A successful. Detailed feedback and per-article acceptance have not yet been supplied. This record reconciliation uses the [recorded delivery evidence](../../../docs/roadmap.md#current-resumption-point) and Vikas’s report; it does not claim a fresh check of the live Google files.

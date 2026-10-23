@@ -14,12 +14,13 @@ Distinguish source statements from interpretation and unknown associations from 
 
 ## Assignments and Article Status
 
-The assignment prompt number remains fixed through revisions. [User Design](userdesign.md#assignment-delivery-and-tracking) defines its presentation in article filenames and the batch Sheet.
+The assignment prompt number remains fixed through revisions. [User Design](userdesign.md#assignment-delivery-and-tracking) defines its presentation in article filenames and the review index.
 
 Retain two items for each article version: the article, including its customer comments, and one compact support-and-check record. The record contains:
 
-- **Identity:** A reference to the original assignment and the exact article version checked.
-- **Production inputs:** The repository commit used for production. If relevant inputs were uncommitted, include their exact diff; the commit alone does not identify those inputs.
+- **Identity:** A reference to the original assignment, the exact article version checked and the customer Doc URL once the Doc exists.
+- **Article status:** The current status under the meanings below.
+- **Production inputs:** The **agent version** is the repository commit used for production. It is distinct from the article version. If relevant inputs were uncommitted, include their exact diff; the commit alone does not identify those inputs.
 - **Claim support:** The source evidence required by [Article Research Material](#article-research-material).
 - **Final checks:** The outcome for every applicable requirement, concise evidence sufficient to establish each result, and the measured body-word count. A failure identifies the requirement, location, and correction needed. Keep required facts awaiting Alex, optional requests, and inapplicable requirements distinct from passes and other failures. Identify unperformed or unverified checks explicitly.
 - **Unresolved issues:** Only issues that still affect verification, revision, or delivery. While comments have not been posted to the article Doc, keep their text and anchors here so they can be transferred accurately.
