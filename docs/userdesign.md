@@ -2,7 +2,7 @@
 
 ## Article Content and Writing Standards
 
-Articles must meet [Writing Standards](writing-standards.md).
+Articles must meet [Writing Standards](writing-standards.md). Omit body-word counts from the customer article.
 
 Present each article using text and links in a pageless Google Doc copied from [Blog Agent — Article Doc Template](https://docs.google.com/document/d/16J68VvFNHnmiE7MPop_gU0Xye-1tzMYwp_RdaedU3L0/edit). Match the template’s fonts, heading sizes, 12-point article body and spacing.
 

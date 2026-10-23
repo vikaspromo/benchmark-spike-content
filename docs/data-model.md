@@ -25,7 +25,7 @@ Retain two items for each drafted article version: the article and one compact s
 - **Final checks:** The outcome for every applicable requirement, concise evidence sufficient to establish each result, and the measured body-word count. A failure identifies the requirement, location, and correction needed. Keep required facts awaiting Alex, optional requests, and inapplicable requirements distinct from passes and other failures. Identify unperformed or unverified checks explicitly.
 - **Unresolved issues:** Only issues that still affect verification, revision or delivery. Until a prepared comment is posted to the customer Doc, retain its text and intended location here.
 
-The article assessment is the final-check portion of this record. [Engineering](engineering.md#article-verification) owns how evidence establishes each result; [Architecture](architecture.md#evaluate-and-revise) owns checking and revision.
+The article assessment is the final-check portion of this record. [Engineering](engineering.md#checklist-and-evidence) owns how evidence establishes each result; [Architecture](architecture.md#evaluate-and-revise) owns checking and revision.
 
 Preserve reviewed article versions with the evidence for their checks. Keep current status, customer Doc links and other delivery information up to date in the same record, replacing superseded delivery information.
 
