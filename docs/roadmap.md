@@ -2,9 +2,7 @@
 
 This document records the plan and progress for operator-authorized work. It does not establish product requirements or authorize later implementation work. [Product](product.md) defines the purpose and scope; [Architecture](architecture.md#article-production-flow) defines the article production flow.
 
-As of October 23, 2026, Vikas reports positive feedback from Alex and Peter and has designated Batch A successful. The pushed tag `batch-a-successful` preserves the repository before the governing-document revisions. Detailed feedback and per-article acceptance have not yet been supplied. The governing-document reset and delivery-record reconciliations are committed locally.
-
-The revised [production instructions](architecture.md#article-production-flow) have not yet been exercised in a new article run. Existing article bodies and their recorded production baseline remain unchanged. New article production and the deferred evaluator work remain on hold pending operator direction.
+As of October 24, 2026, Vikas reports positive feedback from Alex and Peter and has designated Batch A successful. The pushed tag `batch-a-successful` preserves the repository before the governing-document revisions. Detailed feedback and per-article acceptance have not yet been supplied. The governing-document reset and delivery-record reconciliations are committed locally. The separate evaluator work remains on hold.
 
 ## Open Questions for Alex
 

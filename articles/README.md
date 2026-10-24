@@ -4,6 +4,8 @@ Article folders use the practice and fixed assignment prompt number. Each review
 
 Preserve a version once feedback refers to it. Put the next revised or replacement draft in `v002`, then `v003`, rather than overwriting the reviewed version. Retain these versions for feedback comparison from this point forward. Earlier drafts deleted at Vikas's request are not restored.
 
+**Batch A1:** [Post-AGENTS.md migration consistency checkpoint](batch-a-retest-2026-10-23/README.md), Git tag `batch-a1`. Vikas judged these four local retest articles close enough to successful Batch A in information and writing style on October 24, 2026. They are retained as a development reference and will not be delivered to Alex.
+
 ## Production Provenance
 
 For new runs, record the assignment reference, production commit, and article version in `support-and-check.md`. Prefer committed production inputs; include the exact relevant diff in that record when inputs are uncommitted. Keep claim support, final checklist results, and unresolved issues in the same record. A separate per-article provenance file, input-file hash manifest, or shared production narrative is not required. Earlier packages retain their existing provenance files and run links.
