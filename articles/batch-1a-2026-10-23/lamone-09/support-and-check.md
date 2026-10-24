@@ -3,10 +3,12 @@
 ## Identity and Production Inputs
 
 - **Original assignment:** `sources/writing-standards/assignment.md` at agent version `5ae37ab90c4adc2ceb6bbeabf12bb972ac869d66`, Client 2, SEO prompt 9: “Lip Filler Appointments in Bryn Mawr PA for First-Time Patients.” The supplied [Healthline reference](https://www.healthline.com/health/dermal-fillers?utm_source=chatgpt.com) was a research starting point. Applicable shared and client instructions were read; approved Writing Standards govern their replaced length, clinician, and conditional-material instructions.
-- **Article version:** Batch A retest, v001, October 23, 2026; [article.md](article.md). Exact assessed file SHA-256: `f39c89ae20f9ae520db8f598005aa8ec6d349fa08dd9a26f3169b6b9844027a6`.
+- **Article version:** Batch 1A, v001, October 23, 2026; [article.md](article.md). Exact assessed file SHA-256: `6e90221045b3e908c38fc4338e7ffbd82b6604d263113ad8dfe29e487854ec8f`.
 - **Agent version:** `5ae37ab90c4adc2ceb6bbeabf12bb972ac869d66`. AGENTS, Product, User Design, Architecture, Writing Standards, Data Model, and Engineering were read with `git show` from that commit.
 - **Status:** Ready for Review on the applicable local checks. Local test only; not delivered or accepted. No customer Doc exists for this retest.
-- **Additional instructions:** [Batch A retest README, Run Scope](../README.md#run-scope). The section was uncommitted when read. Its exact additional instruction text used for this article is recorded below as an addition; the README's article index is not an editorial input.
+- **Additional instructions:** [Batch 1A README, Run Scope](../README.md#run-scope). The section was uncommitted when read. Its exact additional instruction text used for this article is recorded below as an addition; the README's article index is not an editorial input.
+
+Metadata rename verified October 24, 2026: only the preface batch label changed. The SHA-256 above identifies the current file; the originally assessed file at `batch-1a` had SHA-256 `f39c89ae20f9ae520db8f598005aa8ec6d349fa08dd9a26f3169b6b9844027a6`. Treatment prose, links and production agent version are unchanged. Quoted input diffs below remain historical receipts.
 
 ```diff
 --- /dev/null

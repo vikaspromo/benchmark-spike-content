@@ -1,10 +1,10 @@
-# Batch A1 — Post-AGENTS.md Migration Consistency Check
+# Batch 1A — Post-AGENTS.md Migration Consistency Check
 
-Batch A1 preserves the four-assignment retest after the AGENTS.md migration and governing-document revisions. On October 24, 2026, Vikas judged the articles close enough to the successful Batch A articles in information and writing style and requested this retained checkpoint.
+Batch 1A preserves the four-assignment retest after the AGENTS.md migration and governing-document revisions. On October 24, 2026, Vikas judged the articles close enough to the successful Batch 1 articles in information and writing style and requested this retained checkpoint.
 
-Git tag: `batch-a1`. Production agent version: `5ae37ab90c4adc2ceb6bbeabf12bb972ac869d66`. Original reference checkpoint: `batch-a-successful`.
+Git tag: `batch-1a`. Production agent version: `5ae37ab90c4adc2ceb6bbeabf12bb972ac869d66`. Original reference checkpoint: `batch-1-successful`.
 
-The articles were produced on October 23 under the working name “Batch A retest.” The folder, article prefaces and historical input records retain that name so existing links and the exact reviewed article versions remain intact. These articles will not be delivered to Alex. Original Batch A articles and customer Docs remain unchanged.
+On October 24, 2026, Vikas renamed the original Batch A to Batch 1 and this retest (Batch A1, also called Batch A retest) to Batch 1A. The folder, current references and article prefaces use the new names. Quoted production-input diffs retain the exact names and paths read on October 23. The original assessed files remain at Git tag `batch-1a`; current file hashes in the support-and-check records include the renamed prefaces. Treatment prose is unchanged. These articles will not be delivered to Alex; no customer Docs exist for Batch 1A.
 
 ## Run Scope
 
@@ -16,7 +16,7 @@ The workspace is shared. Check Git before writes and write only the allocated as
 
 ## Articles
 
-All four local production cycles are complete. Article version: Batch A retest, v001. The producing agents report no unresolved content failures or required client facts after their prescribed evaluation, correction and full recheck.
+All four local production cycles are complete. Article version: Batch 1A, v001. The producing agents report no unresolved content failures or required client facts after their prescribed evaluation, correction and full recheck.
 
 | Assignment | Article | Body words | Support and checks |
 |---|---|---|---|
@@ -25,8 +25,8 @@ All four local production cycles are complete. Article version: Batch A retest, 
 | La-Mon’e Aesthetics, SEO 09 — Lip Filler Appointments in Bryn Mawr PA for First-Time Patients | [Article](lamone-09/article.md) | 1,108 | [Record](lamone-09/support-and-check.md) |
 | Estar MedSpa, SEO 04 — What Is the Difference Between a Lip Flip and Lip Filler? | [Article](estar-04/article.md) | 915 | [Record](estar-04/support-and-check.md) |
 
-Coordinator checks confirmed the article hashes, counts, expected files and links. The governing inputs and original Batch A articles are unchanged.
+Coordinator checks confirmed the article hashes, counts, expected files and links. The governing inputs and original Batch 1 articles are unchanged.
 
 All four first drafts missed the 1,150–1,250-word drafting aim. Their records distinguish that deviation from editorial cuts and final completeness. Local previews used an Arial fallback because Proxima Nova was unavailable; exact font rendering remains unverified. Customer delivery and acceptance checks were not performed.
 
-This checkpoint records Vikas's acceptance of the four-pair consistency comparison. It does not record a new Alex review or customer acceptance of Batch A1.
+This checkpoint records Vikas's acceptance of the four-pair consistency comparison. It does not record a new Alex review or customer acceptance of Batch 1A.

@@ -1,5 +1,5 @@
 **Estar MedSpa — SEO 04**
-Batch A retest • October 23, 2026 • Agent version 5ae37ab90c4adc2ceb6bbeabf12bb972ac869d66
+Batch 1A • October 23, 2026 • Agent version 5ae37ab90c4adc2ceb6bbeabf12bb972ac869d66
 What Is the Difference Between a Lip Flip and Lip Filler?
 [Supplied reference: The Skin Center — Lip Flip vs. Lip Filler](https://www.theskincentermd.com/lip-flip-vs-lip-filler-what-is-the-difference/?utm_source=chatgpt.com)
 

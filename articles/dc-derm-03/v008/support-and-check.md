@@ -94,7 +94,7 @@ At production, all five output records identified the same frozen baseline `5c5e
 - **Article status:** Ready for Review. No required facts remain unresolved; per-article acceptance has not been established from the feedback supplied so far.
 - **Batch:** 1.
 - **Agent version:** `5c5e9cb1904c4f87262cc9032306adf304e25709`; the source article version and hash above are unchanged.
-- Native Doc: [DC Derm — SEO 03 — v008 — Laser Hair Removal in Washington DC: How to Achieve Long-Lasting Hair Reduction Safely](https://docs.google.com/document/d/1i9uxnKszs0DQmTut1d_mTf6wDeO6ykOEulV5jB5X-NA)
+- Native Doc: [Batch 1 — DC Derm — SEO 03 — v008 — Laser Hair Removal in Washington DC: How to Achieve Long-Lasting Hair Reduction Safely](https://docs.google.com/document/d/1i9uxnKszs0DQmTut1d_mTf6wDeO6ykOEulV5jB5X-NA)
 - Document ID: `1i9uxnKszs0DQmTut1d_mTf6wDeO6ykOEulV5jB5X-NA`.
 - Client folder ID: `1p1U8MvGdG0yBUntSCWvya3GSUmiszORP`.
 - Optional quote-request comment ID: `AAACBBci4DY`.
@@ -104,4 +104,6 @@ Recorded delivery checks confirm the evaluated article text and all seven articl
 
 Vikas sent his own review email to Alex and Peter on October 15, 2026. Recorded sharing checks confirm both recipients have Commenter access, Vikas retains Owner access, general access is restricted and sharing notifications were disabled. The article is available to Alex and Peter for review. No agent sent the review email or configured comment ingestion or monitoring.
 
-On October 23, Vikas reported positive feedback from Alex and Peter and designated Batch A successful. Detailed feedback and per-article acceptance have not yet been supplied. This record reconciliation uses the [recorded delivery evidence](../../../docs/roadmap.md#current-resumption-point) and Vikas’s report; it does not claim a fresh check of the live Google files.
+On October 23, Vikas reported positive feedback from Alex and Peter and designated Batch 1 successful. Detailed feedback and per-article acceptance have not yet been supplied. This record reconciliation uses the [recorded delivery evidence](../../../docs/roadmap.md#current-resumption-point) and Vikas’s report; it does not claim a fresh check of the live Google files.
+
+On October 24, 2026, the operator-authorized batch rename was verified in this same Doc. Its filename now starts with “Batch 1 —” and its preface now uses “Batch 1.” Native before/after comparison confirms unchanged article text, links, paragraph and text styles, and existing suggestions, allowing only that batch-label edit and its index shift. Comments, document ID, URL, parent folder and ownership/sharing permissions are unchanged. The local source article and its hash remain unchanged. The review index already uses numeric batch 1 and retains the same Doc link; no index edit was needed. This check does not reassess existing customer suggestions or establish per-article acceptance.

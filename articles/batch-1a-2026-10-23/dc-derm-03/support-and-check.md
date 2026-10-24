@@ -3,9 +3,11 @@
 ## Identity and Production Inputs
 
 - **Assignment:** [Original assignment](../../../sources/writing-standards/assignment.md), CLIENT 1: DC DERM DOCS, SEO prompt 3, “Laser Hair Removal in Washington DC: How to Achieve Long-Lasting Hair Reduction Safely.”
-- **Article:** [article.md](article.md), Batch A retest, v001, October 23, 2026. Final UTF-8 SHA-256: `e2a6c583ddbc0fc49db5dac505f90ab60ca1b66c762ec7ddf967e13e4a00f0a4`.
+- **Article:** [article.md](article.md), Batch 1A, v001, October 23, 2026. Final UTF-8 SHA-256: `3695f9f10abe2260034980da21d1cdd65fbd6a5812b84399bf08a155b8b50e3e`.
 - **Agent version:** `5ae37ab90c4adc2ceb6bbeabf12bb972ac869d66`. AGENTS and all six other governing documents were read with `git show` at that commit. The original assignment's shared and DC Derm instructions and supplied writer guide were read at that commit; approved governing interpretations control where they differ.
-- **Additional instructions:** [Batch A retest README — Run Scope](../README.md#run-scope). The exact uncommitted input read at production start is represented by this diff against the frozen commit, where the file did not exist:
+- **Additional instructions:** [Batch 1A README — Run Scope](../README.md#run-scope). The exact uncommitted input read at production start is represented by this diff against the frozen commit, where the file did not exist:
+
+Metadata rename verified October 24, 2026: only the preface batch label changed. The SHA-256 above identifies the current file; the originally assessed file at `batch-1a` had SHA-256 `e2a6c583ddbc0fc49db5dac505f90ab60ca1b66c762ec7ddf967e13e4a00f0a4`. Treatment prose, links and production agent version are unchanged. Quoted input diffs below remain historical receipts.
 
 ```diff
 diff --git a/articles/batch-a-retest-2026-10-23/README.md b/articles/batch-a-retest-2026-10-23/README.md

@@ -4,7 +4,9 @@ Article folders use the practice and fixed assignment prompt number. Each review
 
 Preserve a version once feedback refers to it. Put the next revised or replacement draft in `v002`, then `v003`, rather than overwriting the reviewed version. Retain these versions for feedback comparison from this point forward. Earlier drafts deleted at Vikas's request are not restored.
 
-**Batch A1:** [Post-AGENTS.md migration consistency checkpoint](batch-a-retest-2026-10-23/README.md), Git tag `batch-a1`. Vikas judged these four local retest articles close enough to successful Batch A in information and writing style on October 24, 2026. They are retained as a development reference and will not be delivered to Alex.
+**Batch 1:** The four customer-reviewed packages are [DC Derm SEO 03](dc-derm-03/v008/support-and-check.md), [La-Mon’e SEO 06](lamone-06/v002/support-and-check.md), [La-Mon’e SEO 09](lamone-09/v008/support-and-check.md) and [Estar SEO 04](estar-04/v008/support-and-check.md). Git tag `batch-1-successful` preserves checkpoint `17aa1cc8fc764005e20d8e74b6663433b3414376`, with production baseline `5c5e9cb1904c4f87262cc9032306adf304e25709`. Vikas reported positive feedback from Alex and Peter; detailed feedback and per-article acceptance remain unconfirmed.
+
+**Batch 1A:** [Post-AGENTS.md migration consistency checkpoint](batch-1a-2026-10-23/README.md), Git tag `batch-1a`. Vikas judged these four local retest articles close enough to successful Batch 1 in information and writing style on October 24, 2026. They are retained as a development reference and will not be delivered to Alex.
 
 ## Production Provenance
 

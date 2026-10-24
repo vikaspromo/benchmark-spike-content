@@ -3,9 +3,11 @@
 ## Identity and Production Inputs
 
 - Original assignment: [assignment.md](../../../sources/writing-standards/assignment.md), Peter Psillos' Oct. 6, 2026, email, CLIENT 3: ESTAR MEDSPA, SEO prompt 4, “What Is the Difference Between a Lip Flip and Lip Filler?” Supplied starting reference: [The Skin Center comparison](https://www.theskincentermd.com/lip-flip-vs-lip-filler-what-is-the-difference/?utm_source=chatgpt.com).
-- Article version checked: Batch A retest, v001, [article.md](article.md), October 23, 2026. SHA-256: `9c733ad38d5456676ec1f54ccb8572c62b8c0fd2080cbe7c1ae4b06d6f89cc06`.
+- Article version checked: Batch 1A, v001, [article.md](article.md), October 23, 2026. SHA-256: `6be9d6cacee544d1961eba35ae2a99fa335b6f639cf5dc7c277b09ea80cd5afb`.
 - Agent version: `5ae37ab90c4adc2ceb6bbeabf12bb972ac869d66`. AGENTS and the applicable Product, User Design, Architecture, Writing Standards, Data Model, Engineering, and original assignment source were read with `git show` at this commit. Approved interpretations govern where they replace the source email, including length, clinician selection, and conditional materials.
 - Additional instructions: [README.md — Run Scope](../README.md#run-scope). This was uncommitted. The exact applicable addition used was:
+
+Metadata rename verified October 24, 2026: only the preface batch label changed. The SHA-256 above identifies the current file; the originally assessed file at `batch-1a` had SHA-256 `9c733ad38d5456676ec1f54ccb8572c62b8c0fd2080cbe7c1ae4b06d6f89cc06`. Treatment prose, links and production agent version are unchanged. Quoted input diffs below remain historical receipts.
 
 ```diff
 --- /dev/null

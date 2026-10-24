@@ -3,10 +3,12 @@
 ## Identity and Production Inputs
 
 - Original assignment: [supplied assignment source, Client 2, SEO prompt 6](../../../sources/writing-standards/assignment.md#6-seo--botox-appointments-in-ardmore-pa-for-smooth-natural-results), read from agent version `5ae37ab90c4adc2ceb6bbeabf12bb972ac869d66`. Original title: “Botox Appointments in Ardmore PA for Smooth, Natural Results.” Supplied starting reference: [Healthline — Botox](https://www.healthline.com/health/botox?utm_source=chatgpt.com).
-- Exact article: [article.md](article.md), Batch A retest, v001, October 23, 2026. SHA-256: `c46c5f0be1bad46f583890f3d33767e68f67f9e3856be00e37faf896af65d0cd`.
+- Exact article: [article.md](article.md), Batch 1A, v001, October 23, 2026. SHA-256: `10ed523689b0098ee9e6b890ed646235078b4b06290e2bddc1b791544d559005`.
 - Article status: **Ready for Review — local article only; not delivered.** Content has no remaining identified local checklist failures. Exact customer-Doc presentation, transfer, comments, access, and index checks are unperformed under the Run Scope; readiness does not establish delivery or acceptance.
 - Agent version: `5ae37ab90c4adc2ceb6bbeabf12bb972ac869d66`. Read AGENTS, Product, User Design, Architecture, Writing Standards, Data Model, Engineering, and applicable assignment/shared/client instructions with `git show` at that commit. Approved Writing Standards replace the original assignment’s length and provider-count instructions.
-- Additional production instructions: [Batch A Retest, Run Scope](../README.md#run-scope). That input was uncommitted. The exact uncommitted README diff used is reproduced below; no other producer’s article, prior article package, research, or trial critique was used. No detailed Alex or Peter feedback was supplied. No additional delegation or Git mutation occurred.
+- Additional production instructions: [Batch 1A, Run Scope](../README.md#run-scope). That input was uncommitted. The exact uncommitted README diff used is reproduced below; no other producer’s article, prior article package, research, or trial critique was used. No detailed Alex or Peter feedback was supplied. No additional delegation or Git mutation occurred.
+
+Metadata rename verified October 24, 2026: only the preface batch label changed. The SHA-256 above identifies the current file; the originally assessed file at `batch-1a` had SHA-256 `c46c5f0be1bad46f583890f3d33767e68f67f9e3856be00e37faf896af65d0cd`. Treatment prose, links and production agent version are unchanged. Quoted input diffs below remain historical receipts.
 
 ```diff
 diff --git a/articles/batch-a-retest-2026-10-23/README.md b/articles/batch-a-retest-2026-10-23/README.md

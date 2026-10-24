@@ -1,6 +1,6 @@
 La-Mon’e Aesthetics | SEO Prompt 06
 
-Batch A retest | October 23, 2026 | Agent version: 5ae37ab90c4adc2ceb6bbeabf12bb972ac869d66
+Batch 1A | October 23, 2026 | Agent version: 5ae37ab90c4adc2ceb6bbeabf12bb972ac869d66
 
 Original assignment title: Botox Appointments in Ardmore PA for Smooth, Natural Results
 

@@ -1,5 +1,5 @@
 La-Mon’e Aesthetics — SEO 09  
-Batch A retest — October 23, 2026 — Agent version: 5ae37ab90c4adc2ceb6bbeabf12bb972ac869d66  
+Batch 1A — October 23, 2026 — Agent version: 5ae37ab90c4adc2ceb6bbeabf12bb972ac869d66  
 Original assignment title: Lip Filler Appointments in Bryn Mawr PA for First-Time Patients  
 Supplied reference: [Healthline — Dermal Fillers](https://www.healthline.com/health/dermal-fillers)
 

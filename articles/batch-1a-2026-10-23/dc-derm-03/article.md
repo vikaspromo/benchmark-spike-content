@@ -1,5 +1,5 @@
 **DC Derm Docs — SEO 03**  
-Batch A retest • October 23, 2026 • Agent version 5ae37ab90c4adc2ceb6bbeabf12bb972ac869d66  
+Batch 1A • October 23, 2026 • Agent version 5ae37ab90c4adc2ceb6bbeabf12bb972ac869d66  
 Laser Hair Removal in Washington DC: How to Achieve Long-Lasting Hair Reduction Safely  
 [Supplied reference: Healthline — Laser Hair Removal](https://www.healthline.com/health/laser-hair-removal?utm_source=chatgpt.com)
 
