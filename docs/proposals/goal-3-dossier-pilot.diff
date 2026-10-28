@@ -18,7 +18,7 @@
  Revisions address Alex’s feedback in the same Doc and follow [Architecture’s evaluation and revision flow](architecture.md#evaluate-and-revise). Update the article status in the support-and-check record as the revision progresses.
  
 -Alex is the contact for missing or conflicting client information. [Architecture’s Research and Resolve](architecture.md#research-and-resolve) determines which gaps must be resolved before drafting and which may remain in a delivered article. Use the following comments and status interactions for gaps permitted at delivery.
-+For article production, Alex is the contact for missing or conflicting client information. [Architecture’s Research and Resolve](architecture.md#research-and-resolve) determines which gaps must be resolved before drafting and which may remain in a delivered article. Use the following comments and status interactions for gaps permitted at delivery.
++Alex owns writing assignments and related writing questions. Peter handles dossier questions under [Dossier Review](#dossier-review). [Architecture’s Research and Resolve](architecture.md#research-and-resolve) determines which gaps must be resolved before drafting and which may remain in a delivered article. Use the following comments and status interactions for gaps permitted at delivery.
  
  For missing optional material, prepare the article without it and add a comment at the relevant location explaining what could improve the article and asking Alex to supply it. Optional requests do not prevent Ready for Review.
  
@@ -29,7 +29,7 @@
 +
 +## Dossier Review
 +
-+Peter owns Benchmark's [dossiers](data-model.md#dossiers-and-review-evidence) and reviews proposed answers to their explicit unknowns. Use the operator-supplied document for each authorized client. Keep a **Dossiers** tab in the existing review spreadsheet with **Client** and **Dossier** columns, one row per client and a link to its document. Add dossiers as Vikas supplies them; preserve the article review tab.
++Peter owns all work concerning Benchmark's [dossiers](data-model.md#dossiers-and-review-evidence), including missing information, factual conflicts, proposed answers and their resolution. Use the operator-supplied document for each authorized client. Keep a **Dossiers** tab in the existing review spreadsheet with **Client** and **Dossier** columns, one row per client and a link to its document. Add dossiers as Vikas supplies them; preserve the article review tab.
 +
 +Propose supported answers in the dossier through **Suggesting mode**, so Peter can accept or reject the wording. Include a source comment identifying the unknown, explaining the answer in natural language that sounds like Vikas, and linking directly to the supporting source. Identify the exact dossier phrase in the comment so Peter can find it even if the comment is not visibly attached to the text. Preserve useful wording and qualifications around the answer. Use comments to support suggested answers; factual-conflict comments are a separate, deferred operation under [Product](product.md#purpose-and-scope).
 +
@@ -45,6 +45,15 @@
  
  ```mermaid
  flowchart TB
+@@ -20,7 +20,7 @@
+ | Web research sources | Supply evidence and discovery context for topic research and relevant practice context under [Research the Assigned Topic](#research-the-assigned-topic) and [Understand the Practice](#understand-the-practice). |
+ | Google Drive | Hold the reusable article Doc template, article Docs and ongoing review index under [User Design’s presentation](userdesign.md#article-content-and-writing-standards) and [delivery requirements](userdesign.md#assignment-delivery-and-tracking). |
+ | Vikas | Supply assignments and operator direction; receive progress and unresolved issues. |
+-| Alex and Peter | Review articles through comments and suggested edits. Alex is the contact for client information and confirms acceptance under [User Design](userdesign.md#review-revision-and-writing-feedback). |
++| Alex and Peter | Review articles through comments and suggested edits. Alex owns writing assignments and confirms article acceptance under [User Design](userdesign.md#review-revision-and-writing-feedback). Dossier ownership and questions follow [Dossier Review](userdesign.md#dossier-review). |
+ 
+ Review information returns to the revision work in [Deliver to Alex](#deliver-to-alex). The production sections below define the research order, evaluation and correction flow, and delivery checks.
+ 
 @@ -129,3 +129,15 @@
  Update the article’s entry in the review index under User Design and record its status in the support-and-check record under [Data Model](data-model.md#assignments-and-article-status). Use Needs Information for required facts awaiting Alex; otherwise use Ready for Review after the checks pass. Delivery is complete when the Doc, comments, entry in the review index and recorded status are correct.
  
