@@ -4,14 +4,6 @@ This document records the plan and progress for operator-authorized work. It doe
 
 Saved checkpoints: **Batch 1**, designated successful by Vikas after positive feedback from Alex and Peter, is preserved at Git tag `batch-1-successful`. **Batch 1A**, the operator-accepted local consistency retest after the governing-document migration, is preserved at `batch-1a` and will not be delivered to Alex. The [article index](../articles/README.md) links both batches and their records. Separate evaluator work remains on hold.
 
-## Batch 2 Customer Review
-
-**Status:** The four fresh Batch 2 replacements at agent version `7a21f9152b177506c3c44e2f8a5a12b264b66112` are Ready for Review in the existing Docs and review index. Updated Opening and FAQ execution and native delivery checks passed. The [Batch 2 package](../articles/batch-2-2026-10-28/README.md) links the current versions and evidence, including three missed initial drafting aims. Earlier local versions and Batch 1 remain unchanged.
-
-**Remaining evidence:** Alex has not reviewed or accepted these replacement versions. His review establishes the [customer quality outcome](product.md#goals); completed production and agent checks do not establish it.
-
-**Next action:** Review Alex's feedback when Vikas supplies it or requests another Doc read. Handle resulting revisions and acceptance under [User Design](userdesign.md#review-revision-and-writing-feedback).
-
 ## Goal 3: Evaluate Research for Dossier Suggestions and Conflict Review
 
 **Status and sequence:** Vikas selected this goal on October 28, 2026, for work after the Batch 2 rerun, then refined its first objective: evaluate whether the existing research method can support useful answers to dossier unknowns and identify factual conflicts. This entry captures the intended work for discussion. Governing-document changes and implementation remain pending the consolidated proposal and approval required by [AGENTS](../AGENTS.md#review-and-approve-the-change). Batch 2 continues under its existing production instructions.

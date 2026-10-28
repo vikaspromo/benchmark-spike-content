@@ -2,6 +2,8 @@
 
 Four fresh replacement articles produced October 28, 2026, using one frozen agent version: `7a21f9152b177506c3c44e2f8a5a12b264b66112`. Current status: **Ready for Review**, not customer-accepted. The existing Google Docs now contain these versions; their IDs, URLs, folder and reviewer access are preserved.
 
+Vikas confirmed on October 28, 2026, that he sent the review email. Batch 2 delivery is complete and removed from the active Roadmap. Any later feedback will be handled in another batch; this closure does not establish customer acceptance.
+
 [Drive Batch 2 folder](https://drive.google.com/drive/folders/1w-qvNtD0C6mXIYtwbuzFaTGMclh3BkOj) · [Existing review index, rows 2–5](https://docs.google.com/spreadsheets/d/19pXjqiOHhgViaEOoUtpAzk22LcQqLMmfHFLVjaxbq8Y/edit?gid=301027282)
 
 | Assignment | Article version | Final main words | Local package | Customer article |
