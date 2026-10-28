@@ -6,13 +6,13 @@ Saved checkpoints: **Batch 1**, designated successful by Vikas after positive fe
 
 ## Review Batch 2 Language Feedback
 
-**Status:** Batch 2 production and native delivery are complete. All four fresh DC Derm Docs articles use agent version `193fa85`; first-mention service linking and FAQ execution were validated. The [Batch 2 package](../articles/batch-2-2026-10-28/README.md) links the delivered Docs, review index and detailed checks. Two first drafts missed the initial length aim; the records preserve this deviation. Alex's review and acceptance are pending.
+**Status:** Vikas authorized fresh production and replacement of all four Batch 2 articles on October 28, 2026. Use the common committed agent version `7a21f9152b177506c3c44e2f8a5a12b264b66112`, which includes the approved Opening and FAQ question-framing changes. SEO 03 becomes v010; SEO 04, SEO 10 and AEO 15 become v002. Retain the earlier local versions and keep Batch 1 unchanged.
 
-Alex said: “Technically, the writing is really solid. I mostly added linking, keyword and spacing recommendations.” Review of his remaining Batch 1 suggestions and the Batch 2 introductions led to the approved [Opening revision](writing-standards.md#opening): paragraph separation at the shift to the practice, and natural topic-phrase placement and emphasis in the final introduction sentence. Two Batch 2 introductions retain the paragraph pattern he flagged; all four lack the requested final-sentence bolding. No additional distinct feedback pattern was found in the four Batch 1 Docs.
+**In progress:** Research, write and verify each article in a fresh context under [Architecture](architecture.md#article-production-flow). Retain the new article and support-and-check record in its version subfolder within [Batch 2](../articles/batch-2-2026-10-28/README.md). Replace the existing customer Docs only after the new articles pass local checks; preserve their URLs, folder and access settings, and any newer reviewer work. Update filenames, the agent-version prefaces and the existing review-index rows; retain the gray divider between batches. No sharing notification emails are needed.
 
-**Opening guidance — awaiting validation:** The approved instruction is applied; its effect on produced articles remains unverified. Validate it during the next production run Vikas authorizes. Batch 2 remains unchanged and will not be rerun. Customer acceptance follows [User Design](userdesign.md#review-revision-and-writing-feedback).
+**Outstanding verification:** Establish the new Opening and FAQ requirements on the exact resulting articles, repeat the full local checks, and verify native Doc preservation, presentation, comments, access and review-index entries under [Engineering](engineering.md#customer-delivery-verification). Alex's positive assessment of Batch 1 remains the quality reference; agent checks do not establish acceptance of the replacements.
 
-**FAQ question framing — awaiting validation:** The approved [FAQ wording](writing-standards.md#faq) now calls for natural reader questions and realistic result expectations. Check its effect during the next authorized production run. Vikas directed that Batch 2 remain unchanged and not be rerun.
+**Next action:** Complete the four local packages, perform guarded native replacement and verify delivery. Record remaining failures or required information explicitly. Customer review and acceptance follow [User Design](userdesign.md#review-revision-and-writing-feedback).
 
 ## Open Questions for Alex
 
