@@ -12,6 +12,8 @@ Alex said: “Technically, the writing is really solid. I mostly added linking, 
 
 **Next action:** Evaluate the resulting Batch 2 articles against this feedback with Vikas, then decide whether language instructions need to change. Existing [Writing Standards](writing-standards.md#article-voice) remain in force; this review does not itself authorize a change. Customer acceptance follows [User Design](userdesign.md#review-revision-and-writing-feedback).
 
+**FAQ question framing — awaiting validation:** The approved [FAQ wording](writing-standards.md#faq) now calls for natural reader questions and realistic result expectations. Check its effect during the next authorized production run. Vikas directed that Batch 2 remain unchanged and not be rerun.
+
 ## Open Questions for Alex
 
 These questions are for discussion, not current or optional production work. Record Alex's answers here. Propose a scope or governing-document change only if those answers establish work the operator wants to adopt.

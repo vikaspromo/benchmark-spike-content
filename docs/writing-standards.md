@@ -74,7 +74,7 @@ Close the main article with a clear, customized invitation and a scheduling link
 
 ### FAQ
 
-Append a section headed “Frequently Asked Questions” to every blog and page, after the main article’s closing call to action. Include three or four questions chosen primarily to recap the main article’s most important answers for the target reader. A recap provides direct access to a key answer and may repeat information from the main article. Include an additional question only when it belongs within the assignment.
+Append a section headed “Frequently Asked Questions” to every blog and page, after the main article’s closing call to action. Include three or four questions the target reader is likely to ask, chosen primarily to recap the main article’s most important answers. Phrase questions about results around realistic expectations; use an absolute outcome as the question’s premise only when it addresses a likely reader misconception. A recap provides direct access to a key answer and may repeat information from the main article. Include an additional question only when it belongs within the assignment.
 
 Use general treatment questions, practice-specific questions, or both, according to reader usefulness. Make each answer independently understandable and as concise as its question permits, with practice and location details included naturally where relevant. Keep answers factually supported and preserve necessary qualifications. The FAQ is additional to the main article’s word allowance and has no separate word target.
 
