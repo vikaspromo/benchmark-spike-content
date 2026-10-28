@@ -16,6 +16,8 @@ Keep the articles in a dedicated Benchmark folder on Vikas’s personal Google D
 
 Use the same [review index](https://docs.google.com/spreadsheets/d/19pXjqiOHhgViaEOoUtpAzk22LcQqLMmfHFLVjaxbq8Y/edit) across batches so Alex can bookmark it. The index contains one row per article delivered for review, including permitted Needs Information drafts under [Review, Revision, and Writing Feedback](#review-revision-and-writing-feedback). Its columns, in order, are Batch, Client, Assignment, Draft article and Agent version. Assignment identifies the prompt number and SEO/AEO type. Draft article contains the article title as a blue, underlined link to its Doc. The final column shows the [agent version](data-model.md#assignments-and-article-status). Increment Batch for each new batch and sort complete rows by Batch descending so the newest batch appears first. The review index has no Status column.
 
+Separate adjacent batches with one empty row filled light gray across all review-index columns.
+
 Vikas receives the compact support-and-check record for each resulting article and uses it to monitor progress, the current article status, remaining failures and required facts awaiting Alex. The supported status labels are Drafting, Needs Information, Ready for Review, Revising and Accepted. [Data Model](data-model.md#assignments-and-article-status) defines the record and status meanings. The review index and article Docs provide access to delivered work; production status remains in the support-and-check record.
 
 ## Review, Revision, and Writing Feedback
