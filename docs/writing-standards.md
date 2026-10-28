@@ -46,7 +46,9 @@ The final main article must not exceed 1,250 body words. It may contain fewer th
 
 ### Opening
 
-Establish the reader's question and give a useful starting answer in the introduction. Choose an opening appropriate to the topic and reader rather than follow a fixed introduction formula.
+Establish the reader's question and give a useful starting answer in the introduction. Choose an opening appropriate to the topic and reader.
+
+Start a new paragraph when the introduction shifts from general explanation to the practice’s relevant service, clinician, or approach. Include and bold the main service or topic phrase naturally in the introduction’s final sentence. Use the supplied keyword or key phrase for that emphasis when available.
 
 ### Section Focus
 
