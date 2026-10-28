@@ -62,7 +62,7 @@ Use bullets when parallel items are easier to scan or compare than prose, such a
 
 ### Links
 
-Include two to four internal content links, with two for a 300-word article and four for an article of 600 or more words. The initial workload therefore requires four internal content links. The call-to-action link does not count toward that total. Prioritize the main service page, related service pages, and relevant educational articles. The first internal link should typically point to the primary service being promoted. Do not link to the same internal destination twice.
+Include two to four internal content links, with two for a 300-word article and four for an article of 600 or more words. The initial workload therefore requires four internal content links. The call-to-action link does not count toward that total. Prioritize the main service page, related service pages, and relevant educational articles. Main services are the treatments or services central to the assignment’s question. Link each main service on its first mention in the article’s prose or lists to the practice’s most relevant service or treatment overview page, when one exists. Do not link to the same internal destination twice.
 
 Clinician, contact, and booking pages are also useful internal destinations where relevant. Choose links for reader usefulness rather than inserting unrelated destinations to meet the count.
 
