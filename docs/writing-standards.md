@@ -32,7 +32,7 @@ Give concrete answers using supported treatment facts, practical expectations, a
 
 Integrate supported practice information into the explanation. Make the practice, clinician, treatment, or patient experience the subject of the sentence rather than routinely narrating what a website “says,” “lists,” or “describes.” Use relevant features to explain the topic instead of reciting equipment, credentials, or services. Preserve attribution and uncertainty under [Content Types](#content-types) and [Medical Claims](#medical-claims).
 
-Use conversational language, active voice, natural transitions, and real-world examples when appropriate. Develop the answer across sections: a later passage must add information, apply an earlier point to a different situation, or supply a necessary qualification. Combine passages that make the same point without developing it. Remove closing statements that merely announce the value of the preceding explanation. State necessary qualifications beside the affected claim; do not follow a clear limitation with another generic warning that adds no information.
+Use conversational language, active voice, natural transitions, and real-world examples when appropriate. Develop the answer across sections of the main article: a later passage must add information, apply an earlier point to a different situation, or supply a necessary qualification. Combine passages that make the same point without developing it. Remove closing statements that merely announce the value of the preceding explanation. State necessary qualifications beside the affected claim; do not follow a clear limitation with another generic warning that adds no information.
 
 Create warmth through attention to the reader's concerns and specific explanations. Avoid stock enthusiasm, inflated praise, a sales-script tone, repetitive wording, keyword stuffing, generic AI phrases, unnecessary technical language, long walls of text, excessive keyword bolding, and introductions that immediately start selling. Avoid generic phrases such as "In today's fast-paced world," "When it comes to," "Unlock the secrets," "Delve into," and "Game-changing." Develop original explanations from source facts rather than copying or rewriting published prose. Use quotations under [Content Types](#content-types).
 
@@ -40,9 +40,9 @@ Create warmth through attention to the reader's concerns and specific explanatio
 
 ### Body Word Count
 
-For the initial workload, aim for 1,150–1,250 words of substantive body content in the first complete draft. Include the introduction, paragraphs, bullets, and closing call to action. Exclude the title, headings, and document comments. Quality guides coverage and writing; the target does not determine section content or word allocations. Never add filler or remove necessary information to meet the target.
+The **main article** is the content before the appended [FAQ](#faq). For the initial workload, aim for 1,150–1,250 words of substantive body content in its first complete draft. Include the introduction, paragraphs, bullets, and closing call to action. Exclude the title, headings, and document comments. Quality guides coverage and writing; the target does not determine section content or word allocations. Never add filler or remove necessary information to meet the target.
 
-The final article must not exceed 1,250 body words. It may contain fewer than 1,150 words when editorial assessment and corrections remove unnecessary content or express useful meaning more concisely. The shorter article must still answer the assigned question clearly, accurately, and thoroughly, with the required practice customization and necessary qualifications. Do not require a fixed reduction, restore removed material, or add replacement words solely to reach the drafting target. [Engineering](engineering.md#word-count-and-presentation) owns evidence for the final count and the completeness of a shorter article; [Architecture](architecture.md#evaluate-and-revise) owns evaluation, correction, and rechecking.
+The final main article must not exceed 1,250 body words. It may contain fewer than 1,150 words when editorial assessment and corrections remove unnecessary content or express useful meaning more concisely. The shorter main article must still answer the assigned question clearly, accurately, and thoroughly, with the required practice customization and necessary qualifications. Do not require a fixed reduction, restore removed material, or add replacement words solely to reach the drafting target. [Engineering](engineering.md#word-count-and-presentation) owns evidence for the final count and the completeness of a shorter article; [Architecture](architecture.md#evaluate-and-revise) owns evaluation, correction, and rechecking.
 
 ### Opening
 
@@ -50,7 +50,7 @@ Establish the reader's question and give a useful starting answer in the introdu
 
 ### Section Focus
 
-Use descriptive, specific, reader-focused headings that answer relevant questions. Organize content into logical H2 sections. Use a clear H1/H2/H3 hierarchy as needed; H3s and a separate FAQ block are conditional on improving organization or answering reader questions. Do not require every heading level or an FAQ block in every article.
+Use descriptive, specific, reader-focused headings that answer relevant questions. Organize the main article into logical H2 sections. Use a clear H1/H2/H3 hierarchy as needed; H3s are conditional on improving organization or answering reader questions. Do not require every heading level.
 
 Each section must answer the question or cover the subject stated in its heading and add distinct reader value. Every paragraph, bullet, and example must develop that answer through explanation, evidence, a relevant distinction, or a necessary qualification. Organize treatment details by the question they answer: appointment steps explain the visit, onset and duration explain results, and aftercare explains recovery. Choose headings and groupings suited to the article; these distinctions do not require separate sections or a fixed outline. Move useful material to the section it answers, combine overlapping sections, and remove tangents and repetition. Place necessary medical qualifications and safety advice beside the information they qualify under the relevant heading.
 
@@ -70,7 +70,13 @@ Include one or two external links when appropriate. Prefer authoritative sources
 
 ### Call to Action
 
-End each article with a clear, customized invitation and a scheduling link and/or phone number. Direct the reader toward an appropriate consultation or booking pathway. Do not invent procedure associations or consultation terms to make the invitation more specific.
+Close the main article with a clear, customized invitation and a scheduling link and/or phone number. Direct the reader toward an appropriate consultation or booking pathway. Do not invent procedure associations or consultation terms to make the invitation more specific.
+
+### FAQ
+
+Append a section headed “Frequently Asked Questions” to every blog and page, after the main article’s closing call to action. Include three or four questions chosen primarily to recap the main article’s most important answers for the target reader. A recap provides direct access to a key answer and may repeat information from the main article. Include an additional question only when it belongs within the assignment.
+
+Use general treatment questions, practice-specific questions, or both, according to reader usefulness. Make each answer independently understandable and as concise as its question permits, with practice and location details included naturally where relevant. Keep answers factually supported and preserve necessary qualifications. The FAQ is additional to the main article’s word allowance and has no separate word target.
 
 ### Style Conventions
 

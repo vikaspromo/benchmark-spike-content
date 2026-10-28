@@ -96,13 +96,13 @@ Adjust coverage or return to the relevant topic or practice research when the ou
 
 ### Write the First Draft
 
-Produce a complete article from the outline and supported research under [Writing Standards](writing-standards.md). Adjust the outline and material choices when that improves the article.
+Produce a complete main article from the outline and supported research under [Writing Standards](writing-standards.md). Adjust the outline and material choices when that improves the article.
 
 Use relevant supported practice material, links, and a customized call to action under [User Design](userdesign.md#article-content-and-writing-standards). If optional material cannot be used, choose another supported approach and keep the evidence needed for the resulting article.
 
 Prepare markers and Google Doc comments for unresolved required facts and applicable optional-material requests under [User Design](userdesign.md#review-revision-and-writing-feedback). Preserve source support for factual claims, including claims introduced during writing.
 
-Pass the completed article and supporting evidence to Evaluate and Revise. Drafting does not have its own compliance gate or checklist.
+After drafting the main article, append the [FAQ](writing-standards.md#faq). Pass the complete article, including its FAQ, and supporting evidence to Evaluate and Revise. Drafting does not have its own compliance gate or checklist.
 
 ### Evaluate and Revise
 
