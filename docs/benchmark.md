@@ -10,6 +10,8 @@ This document records company facts provided by Vikas. It supplies context for p
 
 ## Content Operation
 
+- Peter owns all client matters, including client information and dossiers.
+- Alex owns all article production, including writing assignments, writing feedback, article review and acceptance.
 - Benchmark Medical Partners has more than 100 clients.
 - The company writes more than 1,000 pieces of content per month.
 - Alex assigns content based on SEO and AEO keyword research that he performs with third-party tools.
@@ -17,7 +19,6 @@ This document records company facts provided by Vikas. It supplies context for p
 ## User for This Product Version
 
 - Vikas is the product user, operator, and writer responsible for delivering the assigned articles.
-- Alex is the customer who reviews and accepts the articles.
 - [Product](product.md) defines the current version’s scope and assignment boundary.
 
 ## Initial Writing Assignments
