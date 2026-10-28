@@ -57,3 +57,11 @@ Verify that the actual customer Doc preserves the evaluated article’s text, he
 Handle transfer or rendering failures and resulting changes to the evaluated article through [Architecture’s delivery flow](architecture.md#deliver-to-alex).
 
 Verification does not establish customer acceptance or assessment reliability across assignments. [User Design](userdesign.md#review-revision-and-writing-feedback) defines Alex’s review and acceptance.
+
+## Dossier Review Verification
+
+Verify each proposed answer against the actual source passages and context retained under [Data Model](data-model.md#dossiers-and-review-evidence). Establish that it answers an explicit unknown without overstating support, losing a qualification or asserting an unconfirmed practice association. Check the source comment against [User Design](userdesign.md#dossier-review), including natural wording, an identifiable target and a working direct source link. Explain unsupported or unresolved items rather than marking them passed. Article writing, length and presentation checks do not apply to this operation.
+
+Inspect the actual dossier after posting: the answer must remain a suggestion with accept/reject controls, selecting the saved source comment must identify and highlight the intended dossier passage, and surrounding text, existing review work and access must be preserved. Verify the first real suggestion and comment before expanding the pilot under [Architecture](architecture.md#dossier-research-and-review). A mode-menu option, API success, local draft or screenshot alone does not establish that a suggestion or comment was saved. Verify the Dossiers tab's client row and link while preserving the article review tab.
+
+Report research coverage, supported answers, unanswered questions, conflicts reserved for later work, posting results and blockers in the dossier assessment. Separate verified delivery from Peter's actual feedback on usefulness and his acceptance or rejection. A lack of reply leaves that outcome pending. One dossier's results do not establish reliability across clients or authorize article use under [Product](product.md#purpose-and-scope).

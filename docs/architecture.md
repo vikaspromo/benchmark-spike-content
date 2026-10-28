@@ -2,7 +2,7 @@
 
 ## System
 
-Codex is the runtime for the current article production method. The diagram shows the people, inputs, retained records and review surfaces involved in an authorized production or revision task.
+Codex is the runtime for the current article production method. The diagram shows the people, inputs, retained records and review surfaces involved in an authorized article production or revision task. The separate dossier pilot follows [Dossier Research and Review](#dossier-research-and-review).
 
 ```mermaid
 flowchart TB
@@ -10,7 +10,8 @@ flowchart TB
     Sources["Web research sources<br/>Topic and practice information"] -->|"Evidence and discovery context"| Codex
     Repository["Repository<br/>Requirements and assignments<br/>Article versions and<br/>support-and-check records"] <-->|"Production inputs and retained results"| Codex
     Codex <-->|"Template, articles and review updates"| Drive["Google Drive<br/>Template, article Docs<br/>and review index"]
-    Drive <-->|"Articles, comments and suggestions"| Reviewers["Alex and Peter"]
+    Drive <-->|"Articles, writing feedback and acceptance"| Alex["Alex"]
+    Drive <-->|"Client-information questions and corrections"| Peter["Peter"]
 ```
 
 | Part | Responsibility |
@@ -20,7 +21,7 @@ flowchart TB
 | Web research sources | Supply evidence and discovery context for topic research and relevant practice context under [Research the Assigned Topic](#research-the-assigned-topic) and [Understand the Practice](#understand-the-practice). |
 | Google Drive | Hold the reusable article Doc template, article Docs and ongoing review index under [User Design’s presentation](userdesign.md#article-content-and-writing-standards) and [delivery requirements](userdesign.md#assignment-delivery-and-tracking). |
 | Vikas | Supply assignments and operator direction; receive progress and unresolved issues. |
-| Alex and Peter | Review articles through comments and suggested edits. Alex is the contact for client information and confirms acceptance under [User Design](userdesign.md#review-revision-and-writing-feedback). |
+| Alex and Peter | Handle article-production matters and client matters respectively under [User Design’s routing and review rules](userdesign.md#review-revision-and-writing-feedback). |
 
 Review information returns to the revision work in [Deliver to Alex](#deliver-to-alex). The production sections below define the research order, evaluation and correction flow, and delivery checks.
 
@@ -56,7 +57,7 @@ Use supplied reference URLs as starting points rather than material to rewrite o
 
 Include a review of leading organic Google results for the same topic. Derive queries from the assignment and working interpretation, including geography when relevant. Examine reader questions, comparisons, considerations, answer structure, omissions, and weak explanations to inform a more useful original article. Search ranking does not establish medical accuracy, and competitor research does not permit competitor links in the delivered article under [Writing Standards](writing-standards.md#links).
 
-Develop supported answers, practical expectations, and relevant distinctions for the assigned reader. Identify the practice questions needed to develop those answers, and use them to guide [Understand the Practice](#understand-the-practice). Keep supporting evidence and material limits under [Data Model](data-model.md#article-research-material). Findings remain open to revision as practice research develops. Identify questions that only Alex can resolve under [User Design](userdesign.md#review-revision-and-writing-feedback).
+Develop supported answers, practical expectations, and relevant distinctions for the assigned reader. Identify the practice questions needed to develop those answers, and use them to guide [Understand the Practice](#understand-the-practice). Keep supporting evidence and material limits under [Data Model](data-model.md#article-research-material). Findings remain open to revision as practice research develops. Route questions requiring customer input under [User Design’s responsibility split](userdesign.md#review-revision-and-writing-feedback).
 
 ### Understand the Practice
 
@@ -81,8 +82,8 @@ A missing fact is required when the article needs it to satisfy [Writing Standar
 Handle the remaining gap according to its effect on this article:
 
 - **Optional material:** Prepare the article without it and use [User Design's optional-material comments](userdesign.md#review-revision-and-writing-feedback).
-- **A required answer that could change the direction:** Resolve it before drafting when it could change the premise, treatment focus, central answer, or recommendation. Investigate further or bring the specific question to Alex when only he can resolve it. Keep the dependency explicit; a marker does not establish a supported direction.
-- **A required fact that can be inserted later:** When Alex can supply the fact without changing the supported direction, draft the supported content and use [User Design's Needs Information process](userdesign.md#review-revision-and-writing-feedback). Apply [Evaluate and Revise](#evaluate-and-revise) before delivery; missing information does not excuse other failures.
+- **A required answer that could change the direction:** Resolve it before drafting when it could change the premise, treatment focus, central answer, or recommendation. Investigate further or bring the specific question to its responsible person under [User Design](userdesign.md#review-revision-and-writing-feedback). Keep the dependency explicit; a marker does not establish a supported direction.
+- **A required fact that can be inserted later:** When the responsible person under User Design can supply the fact without changing the supported direction, draft the supported content and use [User Design's Needs Information process](userdesign.md#review-revision-and-writing-feedback). Apply [Evaluate and Revise](#evaluate-and-revise) before delivery; missing information does not excuse other failures.
 
 Base these decisions on the article's actual needs. Use the supported central answer, practice context, and explicit remaining dependencies to guide [Build the Outline](#build-the-outline).
 
@@ -108,13 +109,13 @@ After drafting the main article, append the [FAQ](writing-standards.md#faq). Pas
 
 Check the complete article against every applicable requirement in [Writing Standards](writing-standards.md), its assignment-specific instructions, and the presentation requirements in [User Design](userdesign.md#article-content-and-writing-standards). This is the single evaluation and revision flow before delivery. Run it as part of production without a manual trigger or Vikas's article-by-article approval.
 
-Complete the initial evaluation before starting the focused correction pass. Use [Engineering](engineering.md#article-verification) to perform the full checklist applicable to the local article. Establish an outcome for each applicable check before repair begins. Assess quality before measuring body words under [Writing Standards](writing-standards.md#body-word-count). Give the correction pass the combined findings from this evaluation. Identify unavailable evidence and unperformed checks explicitly, and handle required facts awaiting Alex under the process below. Actual customer-Doc preservation is checked during delivery. Do not add checks or delivery dependencies for unresolved customer questions.
+Complete the initial evaluation before starting the focused correction pass. Use [Engineering](engineering.md#article-verification) to perform the full checklist applicable to the local article. Establish an outcome for each applicable check before repair begins. Assess quality before measuring body words under [Writing Standards](writing-standards.md#body-word-count). Give the correction pass the combined findings from this evaluation. Identify unavailable evidence and unperformed checks explicitly, and handle required facts awaiting customer input under the process below. Actual customer-Doc preservation is checked during delivery. Do not add checks or delivery dependencies for unresolved customer questions.
 
 Identify each failed requirement, its location, and the correction needed. Use Engineering's check-specific repair criteria to decide whether affected content should be removed, rewritten, shortened, moved, combined, or supported through further research. Before recommending removal, check whether the deletion would lose a necessary answer, qualification, or connection in the explanation. Preserve useful meaning without keeping unnecessary wording. Develop missing or inadequately supported answers, returning to research or changing the outline when needed.
 
 For the current method in Codex, make a focused correction pass that addresses the combined findings. Then repeat the full applicable local-article checklist on the resulting article, including factual support, readability, completeness, necessary qualifications, and flow after deletions. Measure the resulting body words after quality assessment and apply Writing Standards' length rule. Do not restore removed content or add replacement words solely to reach the drafting target. Retain the current assessment under [Data Model](data-model.md#assignments-and-article-status); the initial evaluation is working material rather than a separate permanent assessment. A separate automated repair engine or open-ended retry loop is not required. If failures remain after the correction pass, report them to the operator and keep the article incomplete pending further work. Do not mark the article ready on the basis of checks against an earlier version.
 
-Handle required facts awaiting Alex's input through User Design's markers, comments, and Needs Information process. The checklist must distinguish these facts from passed requirements, other failures, optional requests, and requirements that do not apply. Missing information does not excuse other failures.
+Handle required facts awaiting customer input through User Design's responsibility split, markers, comments, and Needs Information process. The checklist must distinguish these facts from passed requirements, other failures, optional requests, and requirements that do not apply. Missing information does not excuse other failures.
 
 Proceed to delivery only when no failures remain, apart from required facts permitted through the Needs Information process. With required facts resolved, the article may be delivered as Ready for Review. Verification does not establish customer acceptance.
 
@@ -126,6 +127,18 @@ Preserve the evaluated text, headings, links and markers in the assigned Google 
 
 Verify that the actual customer Doc preserves the evaluated article and its required comments under [Engineering](engineering.md#customer-delivery-verification). A local export or successful upload alone does not establish delivery. Correct transfer or rendering failures. If delivery or correction changes the evaluated article’s content or presentation, use Evaluate and Revise to check the resulting version before claiming delivery complete.
 
-Update the article’s entry in the review index under User Design and record its status in the support-and-check record under [Data Model](data-model.md#assignments-and-article-status). Use Needs Information for required facts awaiting Alex; otherwise use Ready for Review after the checks pass. Delivery is complete when the Doc, comments, entry in the review index and recorded status are correct.
+Update the article’s entry in the review index under User Design and record its status in the support-and-check record under [Data Model](data-model.md#assignments-and-article-status). Use Needs Information for required facts awaiting customer input under User Design; otherwise use Ready for Review after the checks pass. Delivery is complete when the Doc, comments, entry in the review index and recorded status are correct.
 
-When Alex provides information or feedback, revise the same Doc and use Evaluate and Revise before updating its status under User Design. Accepted requires Alex’s confirmation.
+When Peter provides client information or Alex provides writing feedback, revise the same Doc and use Evaluate and Revise before updating its status under User Design. Accepted requires Alex’s confirmation.
+
+## Dossier Research and Review
+
+Start an authorized dossier review with the client, supplied document, approved governing version and [pilot boundary](product.md#purpose-and-scope). Read the whole dossier and existing comments and suggestions. Identify its explicit unknowns and requests for confirmation, consolidate repeated requests about the same fact, and distinguish them from statements presented as fact. Use these questions to scope client research; dossier wording does not establish an answer.
+
+Use the same research method used for article production, defined in [Research the Assigned Topic](#research-the-assigned-topic), [Understand the Practice](#understand-the-practice) and [Research and Resolve](#research-and-resolve). These sections remain the authoritative method for both operations; do not maintain a separate dossier research method. For dossier review, explicit unknowns replace the assignment brief as the research questions, and supported proposed answers with evidence replace the central article answer as the research output. Apply the same source discovery and selection, reading of source passages in context, practice investigation, evidence interpretation and investigation of gaps and conflicts. Review leading organic Google results to discover evidence relevant to the unknowns; article-specific analysis of reader needs and competitors' answer structure, outlining and drafting are not required. Do not send nonpublic dossier details to public search services.
+
+Compare the research results with each reviewed unknown using the shared method's evidence limits and stopping conditions. Preserve the source's qualifications and the associations in [Client Information](data-model.md#client-information). Record supported answers, inconclusive results and required client confirmation under [Data Model](data-model.md#dossiers-and-review-evidence). Record factual conflicts encountered for later review; do not turn them into conflict comments during this pilot. Missing public information does not disprove an internal fact.
+
+Prepare the supported answer and its [source comment](userdesign.md#dossier-review) before posting. Recheck the target text and existing review work immediately before each write; reconcile changes rather than overwriting them or duplicating a suggestion. Preserve the original document, sharing and other reviewers' work. Confirm that the actual file supports Suggesting mode and comments; a Word file opened in Google Docs need not be converted if these work. If conversion or a different document is needed, bring the concrete choice to Vikas before replacing the authoritative target. Use an editing surface that can create real suggestions and comments attached to the relevant text. If no route works, leave the prepared output unposted and report the blocker. Never substitute direct text edits for suggestions or unattached comments for text-anchored comments.
+
+For the first pilot, post one supported answer as a real suggestion with its source comment, then verify it under [Engineering](engineering.md#dossier-review-verification) before posting the remaining prepared answers. If either interaction fails or is uncertain, inspect the current document before retrying and report the blocker; do not create test filler or duplicate review items. Complete the evidence-backed assessment of research coverage and limits even if posting is blocked. Record later replies or text changes when reviewing Peter's feedback; posting alone does not establish his acceptance or that the process is useful to him. Do not schedule follow-up monitoring unless requested.

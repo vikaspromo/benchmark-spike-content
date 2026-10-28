@@ -4,7 +4,9 @@
 
 Enable Vikas to fulfill Benchmark Medical Partners’ assigned long-form SEO and AEO writing work.
 
-The product starts with supplied article assignments and covers their research, drafting, evaluation, revision, and customer delivery. Alex’s keyword research, his third-party research tools and data workflows, and decisions about which articles to commission remain outside this version’s scope.
+Article production starts with supplied article assignments and covers their research, drafting, evaluation, revision, and customer delivery. Alex’s keyword research, his third-party research tools and data workflows, and decisions about which articles to commission remain outside this version’s scope.
+
+Support a separate, operator-authorized [dossier review](userdesign.md#dossier-review) pilot to investigate explicit unknowns and propose supported answers for Peter. Evaluate whether the current research method and review interactions are useful before expanding this operation. Factual-conflict comments and use of dossiers to influence article writing or revision remain outside this pilot.
 
 ## Goals
 
