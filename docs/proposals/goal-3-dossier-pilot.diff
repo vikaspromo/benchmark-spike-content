@@ -1,0 +1,91 @@
+--- a/docs/product.md
++++ b/docs/product.md
+@@ -4,7 +4,9 @@
+ 
+ Enable Vikas to fulfill Benchmark Medical Partners’ assigned long-form SEO and AEO writing work.
+ 
+-The product starts with supplied article assignments and covers their research, drafting, evaluation, revision, and customer delivery. Alex’s keyword research, his third-party research tools and data workflows, and decisions about which articles to commission remain outside this version’s scope.
++Article production starts with supplied article assignments and covers their research, drafting, evaluation, revision, and customer delivery. Alex’s keyword research, his third-party research tools and data workflows, and decisions about which articles to commission remain outside this version’s scope.
++
++Support a separate, operator-authorized [dossier review](userdesign.md#dossier-review) pilot to investigate explicit unknowns and propose supported answers for Peter. Evaluate whether the current research method and review interactions are useful before expanding this operation. Factual-conflict comments and use of dossiers to influence article writing or revision remain outside this pilot.
+ 
+ ## Goals
+ 
+--- a/docs/userdesign.md
++++ b/docs/userdesign.md
+@@ -26,7 +26,7 @@
+ 
+ Revisions address Alex’s feedback in the same Doc and follow [Architecture’s evaluation and revision flow](architecture.md#evaluate-and-revise). Update the article status in the support-and-check record as the revision progresses.
+ 
+-Alex is the contact for missing or conflicting client information. [Architecture’s Research and Resolve](architecture.md#research-and-resolve) determines which gaps must be resolved before drafting and which may remain in a delivered article. Use the following comments and status interactions for gaps permitted at delivery.
++For article production, Alex is the contact for missing or conflicting client information. [Architecture’s Research and Resolve](architecture.md#research-and-resolve) determines which gaps must be resolved before drafting and which may remain in a delivered article. Use the following comments and status interactions for gaps permitted at delivery.
+ 
+ For missing optional material, prepare the article without it and add a comment at the relevant location explaining what could improve the article and asking Alex to supply it. Optional requests do not prevent Ready for Review.
+ 
+@@ -35,3 +35,11 @@
+ When Alex supplies the required information, use Revising while incorporating it. Once required facts are resolved and the revised article passes Architecture’s evaluation and revision flow, use Ready for Review.
+ 
+ Alex’s feedback guides revisions to the current article and, where applicable, improvements to future writing for that client or across clients.
++
++## Dossier Review
++
++Peter owns Benchmark's [dossiers](data-model.md#dossiers-and-review-evidence) and reviews proposed answers to their explicit unknowns. Use the operator-supplied document for each authorized client. Keep a **Dossiers** tab in the existing review spreadsheet with **Client** and **Dossier** columns, one row per client and a link to its document. Add dossiers as Vikas supplies them; preserve the article review tab.
++
++Propose supported answers in the dossier through **Suggesting mode**, so Peter can accept or reject the wording. Include a source comment identifying the unknown, explaining the answer in natural language that sounds like Vikas, and linking directly to the supporting source. Identify the exact dossier phrase in the comment so Peter can find it even if the comment is not visibly attached to the text. Preserve useful wording and qualifications around the answer. Use comments to support suggested answers; factual-conflict comments are a separate, deferred operation under [Product](product.md#purpose-and-scope).
++
++Leave unanswered items explicit in the assessment for Vikas when research cannot establish an answer, including what Peter or the client must confirm. Do not add comments that merely repeat existing requests for confirmation. Peter's acceptance, rejection or reply determines his disposition of a suggestion; report that separately from whether the evidence supports it. Do not accept, reject or resolve review items on Peter's behalf. [Architecture](architecture.md#dossier-research-and-review) defines the research and posting flow; [Engineering](engineering.md#dossier-review-verification) defines completion evidence.
+--- a/docs/architecture.md
++++ b/docs/architecture.md
+@@ -2,7 +2,7 @@
+ 
+ ## System
+ 
+-Codex is the runtime for the current article production method. The diagram shows the people, inputs, retained records and review surfaces involved in an authorized production or revision task.
++Codex is the runtime for the current article production method. The diagram shows the people, inputs, retained records and review surfaces involved in an authorized article production or revision task. The separate dossier pilot follows [Dossier Research and Review](#dossier-research-and-review).
+ 
+ ```mermaid
+ flowchart TB
+@@ -129,3 +129,15 @@
+ Update the article’s entry in the review index under User Design and record its status in the support-and-check record under [Data Model](data-model.md#assignments-and-article-status). Use Needs Information for required facts awaiting Alex; otherwise use Ready for Review after the checks pass. Delivery is complete when the Doc, comments, entry in the review index and recorded status are correct.
+ 
+ When Alex provides information or feedback, revise the same Doc and use Evaluate and Revise before updating its status under User Design. Accepted requires Alex’s confirmation.
++
++## Dossier Research and Review
++
++Start an authorized dossier review with the client, supplied document, approved governing version and [pilot boundary](product.md#purpose-and-scope). Read the whole dossier and existing comments and suggestions. Identify its explicit unknowns and requests for confirmation, consolidate repeated requests about the same fact, and distinguish them from statements presented as fact. Use these questions to scope client research; dossier wording does not establish an answer.
++
++Reuse the source-discovery and investigation methods in [Understand the Practice](#understand-the-practice): examine relevant navigation and sitemap entries, follow service and clinician links, combine complementary evidence and search for unanswered questions. Use practice sources for the practice's own services and care; use authoritative primary sources suited to other questions, such as credentials or general treatment facts. Read the source passages and their context. Search snippets, repeated marketing claims and source recency alone do not establish an answer. Do not send nonpublic dossier details to public search services. This operation does not require an article assignment, competitor-content review, outline or draft.
++
++Compare the research results with each reviewed unknown. Suggest only what the evidence establishes for the correct client, clinician, product, location and time; preserve material qualifications. A general product description does not establish the practice's installed model, current availability or a clinician's preference. Stop expanding a question when it has an adequately supported answer, further relevant pages repeat the evidence, or targeted searches yield no further usable evidence. Record unsupported or inconclusive answers and required client confirmation under [Data Model](data-model.md#dossiers-and-review-evidence). Record factual conflicts encountered for later review; do not turn them into conflict comments during this pilot. Missing public information does not disprove an internal fact.
++
++Prepare the supported answer and its [source comment](userdesign.md#dossier-review) before posting. Recheck the target text and existing review work immediately before each write; reconcile changes rather than overwriting them or duplicating a suggestion. Preserve the original document, sharing and other reviewers' work. Confirm that the actual file supports Suggesting mode and comments; a Word file opened in Google Docs need not be converted if these work. If conversion or a different document is needed, bring the concrete choice to Vikas before replacing the authoritative target. Never substitute direct text edits for suggestions.
++
++For the first pilot, post one supported answer as a real suggestion with its source comment, then verify it under [Engineering](engineering.md#dossier-review-verification) before posting the remaining prepared answers. If either interaction fails or is uncertain, inspect the current document before retrying and report the blocker; do not create test filler or duplicate review items. Complete the evidence-backed assessment of research coverage and limits even if posting is blocked. Record later replies or text changes when reviewing Peter's feedback; posting alone does not establish his acceptance or that the process is useful to him. Do not schedule follow-up monitoring unless requested.
+--- a/docs/data-model.md
++++ b/docs/data-model.md
+@@ -40,3 +40,11 @@
+ - Accepted: Alex has confirmed that the completed article meets his expectations, with no unresolved required facts.
+ 
+ [User Design](userdesign.md#review-revision-and-writing-feedback) defines the customer review interactions and status changes.
++
++## Dossiers and Review Evidence
++
++A **dossier** is Benchmark's internal account-team summary of one client, owned by Peter. Each client has one operator-supplied dossier, intended to be a Google Doc, with no required template. It can contain public and nonpublic information. Treat explicit unknowns, stakeholder reports, source statements, interpretations and confirmed facts as different evidence; the presence of information in a dossier does not verify it. Preserve the associations in [Client Information](#client-information).
++
++Keep one compact assessment for each reviewed dossier. Identify the client, document URL and format, governing version, review date and document revision if available. For each reviewed unknown, retain the exact target wording, proposed answer or reason it remains unanswered, source links and passages needed to assess support, access date, relevant source dates and material limits. Retain encountered factual conflicts for the deferred review without treating them as resolved. Distinguish prepared wording from posted suggestions and comments; record identifiers or locations sufficient to find posted items, their verification and Peter's observed response. Unobserved feedback remains pending.
++
++Keep posted suggestions, comments and replies in the dossier; reference them from the assessment rather than copy review histories. Retain only evidence needed to evaluate the pilot and unresolved work; source acquisition notes and transfer files are disposable once that evidence is captured. Apply [AGENTS' private-material check](../AGENTS.md#verify-and-deliver-the-work) before repository delivery. Dossier-review results do not create article versions or article status under [Assignments and Article Status](#assignments-and-article-status).
+--- a/docs/engineering.md
++++ b/docs/engineering.md
+@@ -57,3 +57,11 @@
+ Handle transfer or rendering failures and resulting changes to the evaluated article through [Architecture’s delivery flow](architecture.md#deliver-to-alex).
+ 
+ Verification does not establish customer acceptance or assessment reliability across assignments. [User Design](userdesign.md#review-revision-and-writing-feedback) defines Alex’s review and acceptance.
++
++## Dossier Review Verification
++
++Verify each proposed answer against the actual source passages and context retained under [Data Model](data-model.md#dossiers-and-review-evidence). Establish that it answers an explicit unknown without overstating support, losing a qualification or asserting an unconfirmed practice association. Check the source comment against [User Design](userdesign.md#dossier-review), including natural wording, an identifiable target and a working direct source link. Explain unsupported or unresolved items rather than marking them passed. Article writing, length and presentation checks do not apply to this operation.
++
++Inspect the actual dossier after posting: the answer must remain a suggestion with accept/reject controls, the source comment must be present and identifiable, and surrounding text, existing review work and access must be preserved. Verify the first real suggestion and comment before expanding the pilot under [Architecture](architecture.md#dossier-research-and-review). A mode-menu option, API success, local draft or screenshot alone does not establish that a suggestion or comment was saved. Verify the Dossiers tab's client row and link while preserving the article review tab.
++
++Report research coverage, supported answers, unanswered questions, conflicts reserved for later work, posting results and blockers in the dossier assessment. Separate verified delivery from Peter's actual feedback on usefulness and his acceptance or rejection. A lack of reply leaves that outcome pending. One dossier's results do not establish reliability across clients or authorize article use under [Product](product.md#purpose-and-scope).
