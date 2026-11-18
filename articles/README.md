@@ -10,7 +10,7 @@ Preserve a version once feedback refers to it. Put the next revised or replaceme
 
 **Batch 2:** [Four fresh DC Derm Docs replacements and customer delivery](batch-2-2026-10-28/README.md), using agent version `7a21f91`. SEO 03 v010 and SEO 04, SEO 10 and AEO 15 v002 are Ready for Review in the existing Docs and index. Updated Opening/FAQ guidance, links and native delivery were verified. The original Batch 2 local packages are retained; Alex's acceptance of the replacements remains pending.
 
-**Batch 3:** [Four Jae Kim articles and customer delivery](batch-3-2026-11-18/README.md), using agent version `28437b5`. Prompts 01–04 are Ready for Review in the linked Docs and index.
+**Batch 3:** [Four Jae Kim articles and customer delivery](batch-3-2026-11-18/README.md), using agent version `28437b5`. Prompts 01–04 v002 are Ready for Review in the existing Docs and index. The v001 records are preserved.
 
 ## Production Provenance
 
