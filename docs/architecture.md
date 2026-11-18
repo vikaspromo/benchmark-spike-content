@@ -40,7 +40,7 @@ Later findings may change the working interpretation or require a return to topi
 
 Read the original assignment and its applicable shared and client instructions in the [supplied assignment source](../sources/writing-standards/assignment.md). Apply [Writing Standards](writing-standards.md) where approved interpretations replace the source instructions. Produce a structured working brief that gives research and writing a clear target.
 
-Use the supplied client, prompt number, original title, SEO/AEO label, reference URLs, and special instructions in the working brief. Keep the supplied assignment distinct from its interpretation. Reference the original assignment in the support-and-check record rather than copy it into a separate permanent brief. Preserve the prompt number through revisions under [Data Model](data-model.md#assignments-and-article-status).
+Use the supplied client, prompt number, original title, reference URLs, and special instructions in the working brief. Keep the supplied assignment distinct from its interpretation. Reference the original assignment in the support-and-check record rather than copy it into a separate permanent brief. Preserve the prompt number through revisions under [Data Model](data-model.md#assignments-and-article-status).
 
 Infer an initial target reader and main question or decision from the supplied assignment. Choose one working interpretation, state it in the brief as a hypothesis with supporting evidence, and use it to guide research. Refine the interpretation and target reader as topic and practice evidence develops; do not maintain competing interpretations.
 
