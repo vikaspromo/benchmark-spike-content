@@ -2,19 +2,8 @@
 
 This document holds operator-requested notes and deferred ideas. Its entries do not establish requirements, authorize work, or guide current implementation decisions.
 
-## Unattended and Hosted Article Production
+## Dossier Fact-Checking Pilot
 
-Vikas’s long-term direction is a hosted application that receives assignments and produces checked articles for Alex automatically. These ideas are deferred while the current work establishes the production method in Codex.
+DC Derm Docs was the test client. The pilot tested whether public research could answer explicit unknowns in a client dossier. On October 28, 2026, nine suggested answers and their linked source notes were posted and verified. Peter's review of the suggestions and feedback on the process were pending at that checkpoint. Comments on factual conflicts were deferred.
 
-Possible later progression:
-
-- Turn a demonstrated method into an unattended worker with saved stage outputs, automatic checks and revisions, and Google Doc delivery.
-- Host the worker independently of Vikas’s laptop and connect automatic assignment intake.
-
-Codex app automation, non-interactive Codex execution, and an API-backed hosted application were discussed as possible execution approaches. No runtime, hosting stack, intake mechanism, implementation schedule, or advancement criteria have been selected.
-
-## Production Economics
-
-On October 9, 2026, Vikas deferred defining and evaluating production economics. This work is not planned for the near term; the current review focuses on article-quality calibration and practice evidence.
-
-Possible later measures include production time, cost per article, revision burden, and Vikas's remaining involvement. Customer acceptance alone would not establish the product's practical benefit. No targets or measurement work have been authorized.
+Retain the pushed `codex/dossier-pilot` branch at `92f4ce0` as the restart point. The branch holds the approved pilot requirements and delivery record. When Vikas resumes the pilot, check Peter's replies and the outcomes of the suggestions, then decide whether to proceed with factual-conflict comments and whether to integrate the branch into `main`. See the [pilot delivery record](https://github.com/vikaspromo/benchmark-spike-content/commit/92f4ce0cd9740f66f954044ea3cd34e4670112cd).
