@@ -36,6 +36,8 @@ For the practice-substitution test under [Customization](writing-standards.md#cu
 
 Compare the article’s actual claims with supporting source passages and context under [Data Model](data-model.md#article-research-material), including medical facts, practice policies, prices, timing, credentials and treatment associations. Check whether wording preserves the source’s conditions, exceptions, uncertainty and scope. Do not turn ambiguous or conflicting source wording into a definite instruction or claim. Identify unsupported wording and the needed removal, qualification, clarification or further research under [Writing Standards](writing-standards.md#medical-claims) and [Architecture](architecture.md#research-and-resolve).
 
+For a new article with an accessible dossier, use the [article research record](data-model.md#article-research-material) to verify that relevant leads were considered before outlining. Check support for any resulting claim through the same source comparison above.
+
 ### Readability and Proofreading
 
 Verify [Readability](writing-standards.md#readability) through paragraph and sentence counts and assessment of the actual language for the [Target Reader](writing-standards.md#target-reader). Count prose body paragraphs and the sentences in each, excluding headings, list items and comments; account for abbreviations and initials when identifying sentence boundaries. Record the number and proportion of body paragraphs containing one or two sentences in the final assessment. Review whether parallel information would be clearer as bullets, and identify passages that need that change.

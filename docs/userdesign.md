@@ -18,7 +18,7 @@ Use the same [review index](https://docs.google.com/spreadsheets/d/19pXjqiOHhgVi
 
 Separate adjacent batches with one empty row filled light gray across all review-index columns.
 
-Vikas receives the compact support-and-check record for each resulting article and uses it to monitor progress, the current article status, remaining failures and required facts awaiting Alex. The supported status labels are Drafting, Needs Information, Ready for Review, Revising and Accepted. [Data Model](data-model.md#assignments-and-article-status) defines the record and status meanings. The review index and article Docs provide access to delivered work; production status remains in the support-and-check record.
+Vikas receives the compact support-and-check record for each resulting article and uses it to monitor progress, the current article status, remaining failures and required facts awaiting customer input. The supported status labels are Drafting, Needs Information, Ready for Review, Revising and Accepted. [Data Model](data-model.md#assignments-and-article-status) defines the record and status meanings. The review index and article Docs provide access to delivered work; production status remains in the support-and-check record.
 
 ## Review, Revision, and Writing Feedback
 
@@ -26,12 +26,12 @@ Alex reviews delivered articles through comments and suggested edits in their Go
 
 Revisions address Alex’s feedback in the same Doc and follow [Architecture’s evaluation and revision flow](architecture.md#evaluate-and-revise). Update the article status in the support-and-check record as the revision progresses.
 
-Alex is the contact for missing or conflicting client information. [Architecture’s Research and Resolve](architecture.md#research-and-resolve) determines which gaps must be resolved before drafting and which may remain in a delivered article. Use the following comments and status interactions for gaps permitted at delivery.
+Peter is the contact for missing or conflicting client information raised by a dossier and for permission to publish nonpublic facts from it. Alex is the contact for other missing or conflicting client information. [Architecture’s Research and Resolve](architecture.md#research-and-resolve) determines which gaps must be resolved before drafting and which may remain in a delivered article. Use the following comments and status interactions for gaps permitted at delivery.
 
-For missing optional material, prepare the article without it and add a comment at the relevant location explaining what could improve the article and asking Alex to supply it. Optional requests do not prevent Ready for Review.
+For missing optional material, prepare the article without it and add a comment at the relevant location explaining what could improve the article and asking the responsible contact to supply it. Optional requests do not prevent Ready for Review.
 
-For a required fact that can be inserted without changing the supported direction, place a clear marker where the fact belongs and add a Google Doc comment explaining what Alex must supply or confirm. Deliver as Needs Information only after the article passes the applicable checks apart from the permitted missing facts, under [Architecture](architecture.md#evaluate-and-revise). Alex can answer in the comment or suggest text directly.
+For a required fact that can be inserted without changing the supported direction, place a clear marker where the fact belongs and add a Google Doc comment explaining what the responsible contact must supply or confirm. Deliver as Needs Information only after the article passes the applicable checks apart from the permitted missing facts, under [Architecture](architecture.md#evaluate-and-revise). The responsible contact can answer in the comment or suggest text directly.
 
-When Alex supplies the required information, use Revising while incorporating it. Once required facts are resolved and the revised article passes Architecture’s evaluation and revision flow, use Ready for Review.
+When the required information arrives, use Revising while incorporating it. Once required facts are resolved and the revised article passes Architecture’s evaluation and revision flow, use Ready for Review.
 
 Alex’s feedback guides revisions to the current article and, where applicable, improvements to future writing for that client or across clients.

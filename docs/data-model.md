@@ -4,11 +4,15 @@
 
 Client information can include multiple websites and physical locations. Keep each fact associated with the client, clinician, location or treatment it concerns. Distinguish physical locations from article target geography, and treatments from bookable appointments. Clinician roles, credentials and treatment associations must refer to the correct person.
 
+A **dossier** is Benchmark's internal account-team summary of one client. It can contain public and nonpublic information. Distinguish dossier statements and open questions from confirmed facts.
+
 ## Article Research Material
 
 Keep source links and the passages needed to verify the resulting article’s factual claims and practice associations in its support-and-check record under [Assignments and Article Status](#assignments-and-article-status). Retain material limits or conflicts when they affect those claims or unresolved issues. Sources can support several passages; do not repeat the same evidence for each occurrence. [Writing Standards](writing-standards.md#content-types) owns material eligibility.
 
 Distinguish source statements from interpretation and unknown associations from confirmed ones. Evidence for one product does not establish another formulation or device model.
+
+In the production inputs for each new article, record whether a [dossier](#client-information) was available and accessible. When consulted, identify the dossier by client and a restricted reference, with the date consulted and document revision if available. Record material leads and how they affected the research or article coverage, or record that they had no material effect. For a nonpublic fact used in the article, retain a restricted reference to Peter's confirmation and permission to publish. Keep nonpublic dossier passages and correspondence out of repository delivery.
 
 ## Assignments and Article Status
 
@@ -22,7 +26,7 @@ Retain two items for each drafted article version: the article and one compact s
 - **Article status:** The current status under the meanings below.
 - **Production inputs:** The agent version and exact references to any additional operator-approved production instructions used. If relevant production inputs were uncommitted, include their exact diff; the commit alone does not identify those inputs.
 - **Claim support:** The source evidence required by [Article Research Material](#article-research-material).
-- **Final checks:** The outcome for every applicable requirement, concise evidence sufficient to establish each result, and the measured body-word count. A failure identifies the requirement, location, and correction needed. Keep required facts awaiting Alex, optional requests, and inapplicable requirements distinct from passes and other failures. Identify unperformed or unverified checks explicitly.
+- **Final checks:** The outcome for every applicable requirement, concise evidence sufficient to establish each result, and the measured body-word count. A failure identifies the requirement, location, and correction needed. Keep required facts awaiting customer input and the responsible contact, optional requests, and inapplicable requirements distinct from passes and other failures. Identify unperformed or unverified checks explicitly.
 - **Unresolved issues:** Only issues that still affect verification, revision or delivery. Until a prepared comment is posted to the customer Doc, retain its text and intended location here.
 
 The article assessment is the final-check portion of this record. [Engineering](engineering.md#checklist-and-evidence) owns how evidence establishes each result; [Architecture](architecture.md#evaluate-and-revise) owns checking and revision.
@@ -36,7 +40,7 @@ Article status has the following meanings, using the labels defined in [User Des
 - Drafting: The article is being prepared for Alex's review; this includes unresolved checklist failures before delivery.
 - Needs Information: A draft is available with required facts still missing and no other unresolved checklist failures.
 - Ready for Review: Required facts are resolved and the resulting article has passed the applicable checks for Alex's editorial review.
-- Revising: Alex's information or editorial feedback is being incorporated.
+- Revising: Client information or editorial feedback is being incorporated.
 - Accepted: Alex has confirmed that the completed article meets his expectations, with no unresolved required facts.
 
 [User Design](userdesign.md#review-revision-and-writing-feedback) defines the customer review interactions and status changes.
