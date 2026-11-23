@@ -6,7 +6,7 @@ Articles must meet [Writing Standards](writing-standards.md). Omit body-word cou
 
 Present each article using text and links in a pageless Google Doc copied from [Blog Agent — Article Doc Template](https://docs.google.com/document/d/16J68VvFNHnmiE7MPop_gU0Xye-1tzMYwp_RdaedU3L0/edit). Match the template’s fonts, heading sizes, 12-point article body and spacing.
 
-The preface contains only the client and prompt number; batch, date and Agent version; original assignment title; and supplied reference links, in that order. Replace the template’s details with those for the delivered assignment. Start without a leading blank line and retain one blank paragraph between the preface and article.
+Start the Doc with the article title.
 
 ## Assignment Delivery and Tracking
 
